@@ -1,0 +1,46 @@
+= Episode 45: Kickstart my Heart
+:hp-tags: Kickstarter, Dr Who, Zaccaria, Magic, Pixel, TotW
+:hp-image: logo.png
+:published_at: 2016-02-15
+
+It's all about crowd funding in this BlahCade.
+
+We talk Kickstarter, now that the Doctor Who Kickstarter has successfully funded.
+
+The Zaccaria Steam Greenlight push has succeeded and now Magic Pixel (formerly A.S.K Homework) are doing an indiegogo campaign to raise some funds for cool PC features.
+We also touch on TPA mobile graphical improvements planned.
+
+== Links
+
+http://shoutengine.com/BlahCadePodcast/kickstart-my-heart-16144[Stream/Download/RSS]
+
+https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
+
+https://blab.im/BlahCade[Blab.im Live Session]
+
+https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+
+== Timings
+
+* Intro
+* Deadpool Box Office Records - 2:15
+* Should Zen update Deadpool? - 3:15
+* Blab Gremilins in #44 - 5:35
+* Faster Internet - 6:55
+* Dr Who Kickstarter Retrospective - 11:15
+** Which tier was the lynchpin? - 12:45
+** Want the Wallpaper - 14:00
+** TAF Gold Kickstarter exclusivity - 15:00
+** Use TAF Gold as a funding method - 16:40
+** Historical license pricing - 19:35
+** Is 50K the cost for modern pinball licenses? - 20:20
+* Magic Pixel Zaccaria Indiegogo - 22:50
+** Steam Greenlight Key if campaign fails - 24:55
+** Pinball Arcade Fans Zaccaria plug - 26:15
+* Pinball Arcade mobile graphics improvements - 27:00
+* TotW: Space Shuttle - 27:30
+* The Thing Ball - 33:05
+* Pinball Forum Initialisms - 34:15
+* Initialism Decoder on PAF - 36:00
+* The PAF Moderators - 38:00
+* Outro - 40:00

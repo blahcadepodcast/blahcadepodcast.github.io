@@ -1,0 +1,44 @@
+= Episode 35: Metadata Mike from Farsight 
+:hp-tags: Mike, Reitmeyer, FarSight, Interview, UI
+:hp-image: logo.png
+:published_at: 2015-12-07
+
+With No Fear going out the door, we wanted to get FarSight back on to talk with us about all things Digital Pinball.
+
+As you can see from the show notes, nary a thing is left untouched.
+What was most interesting was to hear about what Mike actually does as Community Manager.
+
+So sit down, and enjoy the chat. And buy a T-shirt. C'mon, you know you want to.
+
+== Links
+
+http://shoutengine.com/BlahCadePodcast/metadata-mike-from-farsight-14408[Stream/Download/RSS]
+
+https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
+
+https://blab.im/BlahCade[Blab.im Live Session]
+
+https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+
+== Timings
+
+* Intro and Sponsors
+* Introductions (Hello Mike from FarSight) - 0:45
+* Will we get a table for December? - 2:10
+* Would a bigger Dev remove release blockers? - 3:45
+* How do you manage all the IRL tables you have? - 5:20
+* What's the FS Routed tables revenue going towards? - 6:20
+* Where do you get parts? - 8:00
+* How is 3D printing helping the pinball industry? - 8:20
+* Could delicensing open up other opportunities? - 9:50
+* Table designers using product placements? - 12:30
+* Coming clean about the leaked table list? - 13:55
+* How did you do Goin' Nuts without owning the table? - 15:45
+* RFE: Please fix the DMD window in 3D - 17:00
+* How is the feedback from the UI 2.0 Beta? - 18:20
+* Old UI differences between Android and iOS - 20:20
+* Twelve Days of Christmas Discounts? - 22:20
+* Highlights and lowlights of Community Management - 23:40
+* Metadata is hard. Let's go to the mall! - 25:00
+* T-shirts and Merch - 31:40
+* Sponsors and Outtro - 33:50

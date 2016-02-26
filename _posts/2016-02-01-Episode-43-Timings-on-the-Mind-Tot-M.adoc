@@ -1,0 +1,49 @@
+= Episode 43: Timings on the Mind (TotM)
+:hp-tags: Zen, Pinball, TPA, Controller, Pro, Pinball, EMs, TotM
+:hp-image: logo.png
+:published_at: 2016-02-01
+
+With the BlahCade Tournament of the Month season drawing to a close, it's time to put our minds to work on getting a new season started up. 
+But we need your help.
+
+If you haven't already taken a look at the option on the Pinball Arcade Fans poll, let us go through them for you and discuss a few things about them.
+
+We also talk about Zen "Season Passes" and talk about the now-released Electro-mechanical tables in The Pinball Arcade.
+
+Plenty of pinball again this episode. Enjoy.
+
+== Links
+
+http://shoutengine.com/BlahCadePodcast/timings-on-the-mind-totm-talk-15775[Stream/Download/RSS]
+
+https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
+
+https://blab.im/BlahCade[Blab.im Live Session]
+
+https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+
+== Timings
+
+* Intro
+* Everything in Australia wants to kill you - 0:45
+* Jellyfish Pinball - 4:25
+* The most pop bumpers on a pinball? - 6:25
+* Using the /Q feature on Blab - 7:25
+* TotM Results - 7:55
+* TotM Season Restart - 10:45
+** Tourney structure
+** Options to consider
+** Tourney format options - PinPortal?
+* Zen Pinball's "Season Passes" - 23:35
+* New GI FX in El Dorado EM - 25:45
+* EM vs SS El Dorado Behaviour - 28:55
+* Fireball Physics Foibles - 30:20
+* Tuning for the Fireball Skill Shot - 31:35
+* Plunger Behaviour with Analog Sticks - 33:00
+* Sound Effects and EMs - 36:00
+* Pro Pinball price point - 37:35
+** 99c, or it's too much?
+** Franchise familiarity makes it OK?
+** Pre-rendering adds to the cost.
+** Cost disparity between mobile and steam.
+* Outro - 47:00

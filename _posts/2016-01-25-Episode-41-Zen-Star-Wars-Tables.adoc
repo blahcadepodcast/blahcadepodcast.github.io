@@ -1,0 +1,69 @@
+= Episode 41: Zen Star Wars Tables
+:hp-tags: Kickstarter, Forum, Dr, Who, Zen, Star, Wars, Magic, Pixel, ASK
+:hp-image: logo.png
+:published_at: 2016-01-25
+
+There is so much content in this BlahCade that we made the call to split some of it off into a BackRoom episode while recording it. 
+That should give you an idea of what to expect. 
+If it doesn't, then you should expect this episode to contain a motherlode of digital pinball discussion again.
+
+We focus on: 
+
+* Zen Star Wars Ep 8 digital releases (no spoilers)
+* Zen Balls of Glory / Fox Animation tables
+* A.S.K Homework's foray into Steam for their Zaccaria product
+* FarSight's Dr Who Kickstarter
+* Table of the Week. 
+
+The real meat to the Kickstarter discussion is in the BackRoom, which will land later this week.
+
+== Links
+
+http://shoutengine.com/BlahCadePodcast/zen-studios-star-wars-tables-15594[Stream/Download/RSS]
+
+https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
+
+https://blab.im/BlahCade[Blab.im Live Session]
+
+https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+
+== Timings
+
+* Intro and Sponsors
+* Introductions and Stuff - 0:45
+* Blab.io Reminder - 1:48
+* Comparison Between New Star Wars Tables - 3:30
+** The Force Awakens (TFA) vs Might of the First Order (MOTFO)
+** Vacuum Ramps vs Real Life
+** Shots on MOTFO vs TFA
+** MOTFO Upper and Lower Playfield Mind Fracking
+** Spelling Tables vs Shots Tables
+** Issues with in-game guidance
+* Zen Custom Call-outs and DMD Tweaks Suggestions - 15:40
+** Custom shot callouts are so needed.
+** DMD graphics and text clashes.
+** DMD instructions vs table visual queues.
+** Bally/Williams/Stern in-game UX vs Zen UX
+* TFA and Mode Progression - 19:00
+** TFA's 12 Modes.
+** Center hole hard to shoot?
+** Millenium Falcon modes add variety.
+* Zen Fox Entertainment/Balls of Glory - 22:30
+** Branding differences on Steam vs Mobile
+** Navigation differences between Steam vs Mobile
+** Archer: The Yelling Table
+** Archer: Spell the words table gets old
+** Making the franchise accessible for non-fans
+** Archer: Cool toys!
+** Archer: Quote authenticity vs usability
+** Archer Whitewood?
+* BlahCade on the Zen Press list - 31:48
+* A.S.K Steam Greenlight Push - 32:20
+* Dr Who Kickstarter - 34:20
+** Table Reveals? Maybe...
+* Speculation Threads Closure Requests - 35:30
+** Hard Evidence or no close
+** Reasons why Jared is not a Speculation Thread watcher
+** Closure Rules sticky? Nah...
+* The last TPA TotM - 38:20
+* Outro - 40:00

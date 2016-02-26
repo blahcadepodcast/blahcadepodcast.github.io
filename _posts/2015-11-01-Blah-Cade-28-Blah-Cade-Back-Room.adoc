@@ -1,5 +1,5 @@
 = BlahCade 28: BlahCade BackRoom
-:hp-tags: UI, Leaks, Seasons,
+:hp-tags: UI, Leaks, Seasons
 :hp-image: logo.png
 :published_at: 2015-11-01
 

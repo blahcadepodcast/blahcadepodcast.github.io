@@ -1,0 +1,30 @@
+= Episode 30: U Interested in a New UI?
+:hp-tags: UI, Wizard, Amusements, FarSight
+:hp-image: logo.png
+:published_at: 2015-11-11
+
+Just like a breath of fresh air, we’re back with another interview.
+Yep, you don’t have to listen to us blab on about stuff (as much) this episode.
+
+Instead, listen to Mike, Lee, and Ben from FarSight Studios talk with us live on https://blab.im/BlahCade about some of the big wins and challenges they had with implementing the new UI currently in public beta on Steam PC.
+
+It’s both an enjoyable and informative session so get streaming and let us know if you want to hear more of this type of content by tweeting @blahcade, @jaredmorgs or @shutyertraps.
+
+Keep an ear out for the BackRoom later in the week.
+
+== Links
+
+http://shoutengine.com/BlahCadePodcast/u-interested-in-a-new-ui-13785[Stream/Download/RSS]
+
+https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
+
+https://blab.im/BlahCade[Blab.im Live Session]
+
+https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+
+== Timings
+
+* Intro
+* Greetings and Salutations - 0:45
+* UI Blab - 1:30
+* Sponsors and Outro - 38:00

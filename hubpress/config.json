@@ -1,10 +1,9 @@
-{
-  "meta": {
+{"meta":{
     "username": "blahcadepodcast",
     "repositoryName": "blahcadepodcast.github.io",
     "branch": "master"
   },
   "theme": {
-    "name": "Saga"
+    "name": "Casper"
   }
 }

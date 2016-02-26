@@ -1,0 +1,38 @@
+= BlahCade 28: BlahCade BackRoom
+:hp-tags: UI, Leaks, Seasons,
+:hp-image: logo.png
+:published_at: 2015-11-01
+
+It has been thirty-eight weeks since Chris kicked off this little thing called Table of the Month (TotM)!
+
+We talk about some challenges with running the TotM/TotW and the results from the last tourney.
+
+There’s new UI blah, Jared goes to the dark side and tests out TPA on Steam Mac, and we talk about Evil Week and Halloween in Aussie.
+
+== Links
+
+http://shoutengine.com/BlahCadePodcast/blahcade-backroom-13602[Stream/Download/RSS]
+
+https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
+
+https://blab.im/BlahCade[Blab.im Live Session]
+
+https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+
+== Timings
+
+* Intro
+* Greetings and Salutations - 0:45
+* TotW - 3:00
+* TotM - 3:40
+* Table Designer Fracking - 6:55
+* It's Not Pinball But A Video Game - 8:55
+* New Zen Tables - 9:45
+* Not Pinball But Video Game Redux - 12:45s
+* Zen Book Club - 15:20
+* Alleged Leaked Season 5 Tables - 18:00
+* Kay Joins the Leaked Chat - 20:50
+* Leaks, or Deliberate Tactic - 25:00
+* Tech Talk on New UI - 29:00
+* SPIKE Emulation Device Support Speculation - 33:35
+* TShirts - 38:00

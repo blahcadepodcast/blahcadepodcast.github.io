@@ -1,0 +1,29 @@
+= Episode 1: The Pilot
+:hp-tags: Pilot,
+:hp-image: logo.png
+:published_at: 2013-10-16
+
+Alright folks, here's the pilot episode of the The Pinball Arcade Fans Barcade Podcast!
+We'll definitely come up with some fun and interesting segments, and that sort of thing.
+
+This was just to get the ball rolling.
+Anyway, hope you enjoy!
+
+.Historical Note
+NOTE: The Barcade Podcast was changed to BlahCade Podcast due to an innocent trademark infringment on our part.
+
+== Links
+
+http://shoutengine.com/BlahCadePodcast/the-pilot-12321[Stream/Download/RSS]
+
+https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
+
+https://blab.im/BlahCade[Blab.im Live Session]
+
+https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+
+http://pinballarcadefans.com/showthread.php/6307-TPA-Barcade-Podcast[Forum Link]
+
+== Timings
+
+Not available.

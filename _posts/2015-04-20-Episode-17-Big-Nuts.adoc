@@ -1,5 +1,5 @@
 = Episode 17: Big Nuts
-:hp-tags: Final, LitZ, TotM,
+:hp-tags: Final, LitZ, TotM
 :hp-image: logo.png
 :published_at: 2015-04-20
 

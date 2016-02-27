@@ -1,5 +1,5 @@
 = Episode 22: Tech Talk (Troubles) and Tourney Tongue Twisters
-:hp-tags: TotM, TotW, TV, Hints,
+:hp-tags: TotM, TotW, TV, Hints
 :hp-image: logo.png
 :published_at: 2015-09-21
 

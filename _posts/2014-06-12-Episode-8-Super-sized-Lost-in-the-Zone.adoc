@@ -1,5 +1,5 @@
 = Episode 8: Super-sized Lost in the Zone
-:hp-tags: LitZ, Movies, UI, 
+:hp-tags: LitZ, Movies, UI
 :hp-image: logo.png
 :published_at: 2014-06-12
 

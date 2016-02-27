@@ -1,0 +1,33 @@
+= Episode 21: Feelin' Good
+:hp-tags: TotM, TotW
+:hp-image: logo.png
+:published_at: 2015-09-14
+
+If we use the analogy of a caterpillar turning into a butterfly, BlahCade is just starting to break out of the chrysalis.
+The show is taking a new direction, which we describe in this episode.
+
+We also talk about the F14 Tomcat Beta as well, and a few Known Issues to look out for in this release (that are out of FarSight’s control).
+
+_Lights. GAMERA. Action_ is the TotW.
+Chris talks about how messed up the theme is on this game, and the exorcist-like woman between the flippers.
+
+It’s a new dawn. It’s a new day. It’s a new life. And we’re feelin’ good.
+
+== Links
+
+http://shoutengine.com/BlahCadePodcast/feelin-good-12340[Stream/Download/RSS]
+
+https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
+
+https://blab.im/BlahCade[Blab.im Live Session]
+
+https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+
+== Timings
+
+* Opening and Sponsors
+* Introductions - 0:45
+* Podcast Changes - 4:10
+* Beta Blah - 12:45
+* TotW - 24:00
+* Sponsors and Close - 32:00

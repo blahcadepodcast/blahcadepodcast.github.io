@@ -1,7 +1,7 @@
 = Episode 22: Tech Talk (Troubles) and Tourney Tongue Twisters
 :hp-tags: TotM, TotW, TV, Hints,
 :hp-image: logo.png
-:published_at: 2015-09-29
+:published_at: 2015-09-21
 
 Has it been a month already?
 In this super-sized installment (it runs for about 40ish minutes) of the BlahCade, we spitball the Pros and Cons of Pro Packs, we talk about “The Dude” in TotW, and engage in URL alphabet soup in TotM.

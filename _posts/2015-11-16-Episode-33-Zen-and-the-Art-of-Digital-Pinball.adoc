@@ -1,5 +1,5 @@
-= Episode 32: Zen, and the Art of Digital Pinball
-:hp-tags: Zen, Interview,
+= Episode 33: Zen, and the Art of Digital Pinball
+:hp-tags: Zen, Interview
 :hp-image: logo.png
 :published_at: 2015-11-16
 

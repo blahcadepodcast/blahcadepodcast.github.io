@@ -1,5 +1,5 @@
 = Episode 1: The Pilot
-:hp-tags: Pilot
+:hp-tags: Pilot, First
 :hp-image: logo.png
 :published_at: 2013-10-16
 

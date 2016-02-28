@@ -1,4 +1,4 @@
-= Episode 29: 38 Weeks Old. Next week: Brains
+= Episode 30: 38 Weeks Old. Next week: Brains
 :hp-tags: UI, Mac, TotM, TotW, Beta, PC, Zen
 :hp-image: logo.png
 :published_at: 2015-11-11

@@ -1,4 +1,4 @@
-= Episode 35: Metadata Mike from Farsight 
+= Episode 36: Metadata Mike from Farsight 
 :hp-tags: Mike, Reitmeyer, FarSight, Interview, UI
 :hp-image: logo.png
 :published_at: 2015-12-07

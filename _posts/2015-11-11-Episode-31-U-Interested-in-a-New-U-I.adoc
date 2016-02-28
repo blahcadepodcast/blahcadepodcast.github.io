@@ -1,4 +1,4 @@
-= Episode 30: U Interested in a New UI?
+= Episode 31: U Interested in a New UI?
 :hp-tags: UI, Wizard, Amusements, FarSight
 :hp-image: logo.png
 :published_at: 2015-11-11

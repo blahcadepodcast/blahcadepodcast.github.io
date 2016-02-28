@@ -1,4 +1,4 @@
-= Episode 23: Stern Pinball App Wild Speculation
+= Episode 24: Stern Pinball App Wild Speculation
 :hp-tags: Stern, Pinball, App, TotM, TotW
 :hp-image: logo.png
 :published_at: 2015-09-29

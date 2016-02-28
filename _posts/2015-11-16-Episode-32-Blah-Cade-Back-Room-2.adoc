@@ -1,4 +1,4 @@
-= Episode 31: BlahCade BackRoom #2
+= Episode 32: BlahCade BackRoom #2
 :hp-tags: BackRoom, Pinball
 :hp-image: logo.png
 :published_at: 2015-11-16

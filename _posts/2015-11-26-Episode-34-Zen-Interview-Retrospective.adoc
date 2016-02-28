@@ -1,4 +1,4 @@
-= Episode 33: Zen Interview Retrospective
+= Episode 34: Zen Interview Retrospective
 :hp-tags: Zen, Interview, TotW, TotM,
 :hp-image: logo.png
 :published_at: 2015-11-26

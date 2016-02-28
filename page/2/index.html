@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <title>BlahCade Podcast</title>
+
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <meta name="description" content="Digital Pinball, Real Pinball, Movies, Snacks (but mostly Digital Pinball)">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="BlahCade Podcast">
+    <meta name="twitter:description" content="Digital Pinball, Real Pinball, Movies, Snacks (but mostly Digital Pinball)">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="BlahCade Podcast">
+    <meta property="og:description" content="Digital Pinball, Real Pinball, Movies, Snacks (but mostly Digital Pinball)">
+
+    <!-- <meta name="twitter:site" content="">
+
+<meta name="twitter:creator" content="">
+
+<meta name="google-site-verification" content="">
+
+<meta property="fb:admins" content="">
+ -->
+
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+    <link href="/apple-touch-icon-precomposed.png" rel="apple-touch-icon">
+
+    <link href="//fonts.googleapis.com/" rel="dns-prefetch">
+    <link href="//fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic|Open+Sans:700,400&subset=latin,latin-ext" rel="stylesheet">
+
+    <link rel="stylesheet" href="//blahcadepodcast.github.io/themes/ghostium/assets/css/main.min.css?v=1.0.0"/>
+    <link rel="stylesheet" href="//blahcadepodcast.github.io/themes/ghostium/assets/css/custom.css?v=1.0.0"/>
+    <link rel="stylesheet" href="//blahcadepodcast.github.io/themes/ghostium/assets/css/asciidoctor-foundation.css?v=1.0.0"/>
+
+
+
+
+    <script type="text/javascript">
+      var ga_ua = 'UA-XXXXX-X';
+      
+      var disqus_shortname = 'example';
+      
+      var enable_pjax = true;
+
+      // Pace Options
+      // ==============
+      window.paceOptions = {
+        catchupTime: 100,
+        minTime: 100,
+        elements: false,
+        restartOnRequestAfter: 500,
+        startOnPageLoad: false
+      }
+
+      // Ghostium Globals
+      // ==============
+      window.GHOSTIUM = {};
+      GHOSTIUM.haveGA = typeof ga_ua !== 'undefined' && ga_ua !== 'UA-XXXXX-X';
+      GHOSTIUM.haveDisqus = typeof disqus_shortname !== 'undefined' && disqus_shortname !== 'example';
+      GHOSTIUM.enablePjax = typeof enable_pjax !== 'undefined' ? enable_pjax : true;
+    </script>
+
+    <script src="//blahcadepodcast.github.io/themes/ghostium/assets/js/head-scripts.min.js?v=1.0.0"></script>
+
+    <link rel="canonical" href="https://blahcadepodcast.github.io" />
+    <link rel="prev" href="https://blahcadepodcast.github.io/" />
+    <link rel="next" href="https://blahcadepodcast.github.io/page/3/" />
+    <meta name="generator" content="Ghost ?" />
+    <link rel="alternate" type="application/rss+xml" title="BlahCade Podcast" href="https://blahcadepodcast.github.io/rss" />
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/default.min.css">
+  </head>
+  <body class="home-template">
+
+    <button data-action="open-drawer" id="drawer-button" class="drawer-button"><i class="fa fa-bars"></i></button>
+    <nav tabindex="-1" class="drawer">
+      <div class="drawer-container">
+        <!--.drawer-search(role="search")-->
+        <ul role="navigation" class="drawer-list">
+          
+          <li class="drawer-list-item">
+            <a href="https://blahcadepodcast.github.io" data-pjax>
+              <i class="fa fa-home"></i>Home
+            </a>
+          </li>
+          <!-- <li class="drawer-list-item">
+            <a href="https://blahcadepodcast.github.io" title="BlahCade Podcast" data-pjax>
+              <i class="fa fa-list-alt"></i>All posts
+            </a>
+          </li> -->
+          <!--
+          <li class="drawer-list-item">
+            <a href="https://blahcadepodcast.github.io/rss/">
+              <i class="fa fa-rss"></i>Subscribe to Feed
+            </a>
+          </li>
+          -->
+          <li class="drawer-list-divider"></li>
+          <li class="drawer-list-item drawer-list-title">
+            Follow me
+          </li>
+          
+          
+          <li class="drawer-list-item">
+            <a href="https://twitter.com/blahcade" title="Twitter" target="_blank">
+              <i class="fa fa-twitter"></i>Twitter
+            </a>
+          </li>
+          <li class="drawer-list-item">
+            <a href="https://github.com/blahcadepodcast/" title="Github" target="_blank">
+              <i class="fa fa-github"></i>Github
+            </a>
+          </li>
+          <li class="drawer-list-item">
+            <a href="https://plus.google.com/111201633898451444599/" title="Google+" target="_blank">
+              <i class="fa fa-google-plus"></i>Google+
+            </a>
+          </li>
+          <li class="drawer-list-item">
+            <a href="mailto:blahblahblahcade@gmail.com" title="Email" target="_blank">
+              <i class="fa fa-envelope-o"></i>Email
+            </a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <div class="drawer-overlay"></div>
+    <main id="container" role="main" class="container">
+      <div class="surface">
+        <div class="surface-container">
+          <div data-pjax-container class="content">
+            
+<aside role="banner" class="cover">
+  <div data-load-image="logo.png" class="cover-image"></div>
+  <div class="cover-container">
+      <a href="https://blahcadepodcast.github.io" class="cover-logo" data-pjax>
+        <img src="logo.png" alt="Blog Logo">
+      </a>
+    <h1 class="cover-title"><a href="https://blahcadepodcast.github.io" title="BlahCade Podcast">BlahCade Podcast</a></h1>
+    <p class="cover-description">Digital Pinball, Real Pinball, Movies, Snacks (but mostly Digital Pinball)</p>
+  </div>
+</aside>
+
+<section class="wrapper" tabindex="0">
+  <div class="wrapper-container">
+    BlahCade Podcast
+
+    <section class="post-list">
+        <article itemscope itemtype="http://schema.org/BlogPosting"
+          role="article" class="post-item post tag-Pageant tag-Heighway tag-Pinball tag-Film tag-Safe tag-Cracker">
+          <header class="post-item-header">
+            <h2 itemprop="name" class="post-item-title">
+              <a href="https://blahcadepodcast.github.io/2015/12/16/Episode-37-Now-with-More-Chaps-and-Rage.html" itemprop="url" data-pjax title="Episode 37: Now with More Chaps and Rage">
+                Episode 37: Now with More Chaps and Rage
+                    <br/><img class="post-cover-image" src="https://blahcadepodcast.github.io/images/logo.png" alt="" title="Episode 37: Now with More Chaps and Rage"><br/>
+              </a>
+            </h2>
+          </header>
+          <section itemprop="description" class="post-item-excerpt">
+            <p>It&#8217;s a pre-christmas romp in the land of small wheels. Yep, we take a less structured approach to this show and let it take us where we want. There&#8217;s an extra&hellip;</p>
+          </section>
+          <footer class="post-item-footer">
+            <ul class="post-item-meta-list">
+              <li class="post-item-meta-item">
+                <time datetime="2015-12-16" itemprop="datePublished">
+                  2015-12-16 00:00:00<ago class="ago">
+                </time>
+              </li>
+                <li class="post-item-meta-item">
+                  <span class="tags"><i class="fa fa-tags"></i>
+                      <span>
+                      <a href="https://blahcadepodcast.github.io/tag/Pageant">Pageant</a>, <a href="https://blahcadepodcast.github.io/tag/Heighway"> Heighway</a>, <a href="https://blahcadepodcast.github.io/tag/Pinball"> Pinball</a>, <a href="https://blahcadepodcast.github.io/tag/Film"> Film</a>, <a href="https://blahcadepodcast.github.io/tag/Safe"> Safe</a>, <a href="https://blahcadepodcast.github.io/tag/Cracker"> Cracker</a></span>
+                  </span>
+                </li>
+              <li class="post-item-meta-item">
+                <a href="https://blahcadepodcast.github.io/2015/12/16/Episode-37-Now-with-More-Chaps-and-Rage.html#disqus_thread" data-pjax data-disqus-identifier="">Comments</a>
+              </li>
+            </ul>
+          </footer>
+        </article>
+        <article itemscope itemtype="http://schema.org/BlogPosting"
+          role="article" class="post-item post tag-Mike tag-Reitmeyer tag-Far-Sight tag-Interview tag-U-I">
+          <header class="post-item-header">
+            <h2 itemprop="name" class="post-item-title">
+              <a href="https://blahcadepodcast.github.io/2015/12/07/Episode-36-Metadata-Mike-from-Farsight.html" itemprop="url" data-pjax title="Episode 36: Metadata Mike from Farsight">
+                Episode 36: Metadata Mike from Farsight
+                    <br/><img class="post-cover-image" src="https://blahcadepodcast.github.io/images/logo.png" alt="" title="Episode 36: Metadata Mike from Farsight"><br/>
+              </a>
+            </h2>
+          </header>
+          <section itemprop="description" class="post-item-excerpt">
+            <p>With No Fear going out the door, we wanted to get FarSight back on to talk with us about all things Digital Pinball. As you can see from the show notes, nary a thing is&hellip;</p>
+          </section>
+          <footer class="post-item-footer">
+            <ul class="post-item-meta-list">
+              <li class="post-item-meta-item">
+                <time datetime="2015-12-07" itemprop="datePublished">
+                  2015-12-07 00:00:00<ago class="ago">
+                </time>
+              </li>
+                <li class="post-item-meta-item">
+                  <span class="tags"><i class="fa fa-tags"></i>
+                      <span>
+                      <a href="https://blahcadepodcast.github.io/tag/Mike">Mike</a>, <a href="https://blahcadepodcast.github.io/tag/Reitmeyer"> Reitmeyer</a>, <a href="https://blahcadepodcast.github.io/tag/Far-Sight"> FarSight</a>, <a href="https://blahcadepodcast.github.io/tag/Interview"> Interview</a>, <a href="https://blahcadepodcast.github.io/tag/U-I"> UI</a></span>
+                  </span>
+                </li>
+              <li class="post-item-meta-item">
+                <a href="https://blahcadepodcast.github.io/2015/12/07/Episode-36-Metadata-Mike-from-Farsight.html#disqus_thread" data-pjax data-disqus-identifier="">Comments</a>
+              </li>
+            </ul>
+          </footer>
+        </article>
+        <article itemscope itemtype="http://schema.org/BlogPosting"
+          role="article" class="post-item post tag-Zen tag-No tag-Fear tag-Tot-W">
+          <header class="post-item-header">
+            <h2 itemprop="name" class="post-item-title">
+              <a href="https://blahcadepodcast.github.io/2015/11/30/Episode-35-Dressed-to-a-Tee.html" itemprop="url" data-pjax title="Episode 35: Dressed to a Tee">
+                Episode 35: Dressed to a Tee
+                    <br/><img class="post-cover-image" src="https://blahcadepodcast.github.io/images/logo.png" alt="" title="Episode 35: Dressed to a Tee"><br/>
+              </a>
+            </h2>
+          </header>
+          <section itemprop="description" class="post-item-excerpt">
+            <p>Before we say anything else, we now have an official BlahCade Shirt! Visit the link to get one. It&#8217;s a potpourri of pinball topics, TV and movies, next TPA table musings, and T-shirts&hellip;</p>
+          </section>
+          <footer class="post-item-footer">
+            <ul class="post-item-meta-list">
+              <li class="post-item-meta-item">
+                <time datetime="2015-11-30" itemprop="datePublished">
+                  2015-11-30 00:00:00<ago class="ago">
+                </time>
+              </li>
+                <li class="post-item-meta-item">
+                  <span class="tags"><i class="fa fa-tags"></i>
+                      <span>
+                      <a href="https://blahcadepodcast.github.io/tag/Zen">Zen</a>, <a href="https://blahcadepodcast.github.io/tag/No"> No</a>, <a href="https://blahcadepodcast.github.io/tag/Fear"> Fear</a>, <a href="https://blahcadepodcast.github.io/tag/Tot-W"> TotW</a></span>
+                  </span>
+                </li>
+              <li class="post-item-meta-item">
+                <a href="https://blahcadepodcast.github.io/2015/11/30/Episode-35-Dressed-to-a-Tee.html#disqus_thread" data-pjax data-disqus-identifier="">Comments</a>
+              </li>
+            </ul>
+          </footer>
+        </article>
+        <article itemscope itemtype="http://schema.org/BlogPosting"
+          role="article" class="post-item post tag-Zen tag-Interview tag-Tot-W tag-Tot-M">
+          <header class="post-item-header">
+            <h2 itemprop="name" class="post-item-title">
+              <a href="https://blahcadepodcast.github.io/2015/11/26/Episode-34-Zen-Interview-Retrospective.html" itemprop="url" data-pjax title="Episode 34: Zen Interview Retrospective">
+                Episode 34: Zen Interview Retrospective
+                    <br/><img class="post-cover-image" src="https://blahcadepodcast.github.io/images/logo.png" alt="" title="Episode 34: Zen Interview Retrospective"><br/>
+              </a>
+            </h2>
+          </header>
+          <section itemprop="description" class="post-item-excerpt">
+            <p>We ease into this week’s BlahCade gently with some random talk. Then it’s right into the Meat ‘n’ Three Veg of the Zen Interview retrospective. Towards the end we talk about the Table&hellip;</p>
+          </section>
+          <footer class="post-item-footer">
+            <ul class="post-item-meta-list">
+              <li class="post-item-meta-item">
+                <time datetime="2015-11-26" itemprop="datePublished">
+                  2015-11-26 00:00:00<ago class="ago">
+                </time>
+              </li>
+                <li class="post-item-meta-item">
+                  <span class="tags"><i class="fa fa-tags"></i>
+                      <span>
+                      <a href="https://blahcadepodcast.github.io/tag/Zen">Zen</a>, <a href="https://blahcadepodcast.github.io/tag/Interview"> Interview</a>, <a href="https://blahcadepodcast.github.io/tag/Tot-W"> TotW</a>, <a href="https://blahcadepodcast.github.io/tag/Tot-M"> TotM</a></span>
+                  </span>
+                </li>
+              <li class="post-item-meta-item">
+                <a href="https://blahcadepodcast.github.io/2015/11/26/Episode-34-Zen-Interview-Retrospective.html#disqus_thread" data-pjax data-disqus-identifier="">Comments</a>
+              </li>
+            </ul>
+          </footer>
+        </article>
+        <article itemscope itemtype="http://schema.org/BlogPosting"
+          role="article" class="post-item post tag-Zen tag-Interview">
+          <header class="post-item-header">
+            <h2 itemprop="name" class="post-item-title">
+              <a href="https://blahcadepodcast.github.io/2015/11/16/Episode-33-Zen-and-the-Art-of-Digital-Pinball.html" itemprop="url" data-pjax title="Episode 33: Zen, and the Art of Digital Pinball">
+                Episode 33: Zen, and the Art of Digital Pinball
+                    <br/><img class="post-cover-image" src="https://blahcadepodcast.github.io/images/logo.png" alt="" title="Episode 33: Zen, and the Art of Digital Pinball"><br/>
+              </a>
+            </h2>
+          </header>
+          <section itemprop="description" class="post-item-excerpt">
+            <p>We ease into this week’s BlahCade gently with some random talk. Then it’s right into the Meat ‘n’ Three Veg of the Zen Interview retrospective. Towards the end we talk about the Table&hellip;</p>
+          </section>
+          <footer class="post-item-footer">
+            <ul class="post-item-meta-list">
+              <li class="post-item-meta-item">
+                <time datetime="2015-11-16" itemprop="datePublished">
+                  2015-11-16 00:00:00<ago class="ago">
+                </time>
+              </li>
+                <li class="post-item-meta-item">
+                  <span class="tags"><i class="fa fa-tags"></i>
+                      <span>
+                      <a href="https://blahcadepodcast.github.io/tag/Zen">Zen</a>, <a href="https://blahcadepodcast.github.io/tag/Interview"> Interview</a></span>
+                  </span>
+                </li>
+              <li class="post-item-meta-item">
+                <a href="https://blahcadepodcast.github.io/2015/11/16/Episode-33-Zen-and-the-Art-of-Digital-Pinball.html#disqus_thread" data-pjax data-disqus-identifier="">Comments</a>
+              </li>
+            </ul>
+          </footer>
+        </article>
+        <article itemscope itemtype="http://schema.org/BlogPosting"
+          role="article" class="post-item post tag-Back-Room tag-Pinball">
+          <header class="post-item-header">
+            <h2 itemprop="name" class="post-item-title">
+              <a href="https://blahcadepodcast.github.io/2015/11/16/Episode-32-Blah-Cade-Back-Room-2.html" itemprop="url" data-pjax title="Episode 32: BlahCade BackRoom #2">
+                Episode 32: BlahCade BackRoom #2
+                    <br/><img class="post-cover-image" src="https://blahcadepodcast.github.io/images/logo.png" alt="" title="Episode 32: BlahCade BackRoom #2"><br/>
+              </a>
+            </h2>
+          </header>
+          <section itemprop="description" class="post-item-excerpt">
+            <p>Before we get stuck into another interview (stay tuned later in the week), we bring you some extra content that happened after the TPA UI interview. There is some pinball chat intermingled between other topics.&hellip;</p>
+          </section>
+          <footer class="post-item-footer">
+            <ul class="post-item-meta-list">
+              <li class="post-item-meta-item">
+                <time datetime="2015-11-16" itemprop="datePublished">
+                  2015-11-16 00:00:00<ago class="ago">
+                </time>
+              </li>
+                <li class="post-item-meta-item">
+                  <span class="tags"><i class="fa fa-tags"></i>
+                      <span>
+                      <a href="https://blahcadepodcast.github.io/tag/Back-Room">BackRoom</a>, <a href="https://blahcadepodcast.github.io/tag/Pinball"> Pinball</a></span>
+                  </span>
+                </li>
+              <li class="post-item-meta-item">
+                <a href="https://blahcadepodcast.github.io/2015/11/16/Episode-32-Blah-Cade-Back-Room-2.html#disqus_thread" data-pjax data-disqus-identifier="">Comments</a>
+              </li>
+            </ul>
+          </footer>
+        </article>
+        <article itemscope itemtype="http://schema.org/BlogPosting"
+          role="article" class="post-item post tag-U-I tag-Wizard tag-Amusements tag-Far-Sight">
+          <header class="post-item-header">
+            <h2 itemprop="name" class="post-item-title">
+              <a href="https://blahcadepodcast.github.io/2015/11/11/Episode-31-U-Interested-in-a-New-U-I.html" itemprop="url" data-pjax title="Episode 31: U Interested in a New UI?">
+                Episode 31: U Interested in a New UI?
+                    <br/><img class="post-cover-image" src="https://blahcadepodcast.github.io/images/logo.png" alt="" title="Episode 31: U Interested in a New UI?"><br/>
+              </a>
+            </h2>
+          </header>
+          <section itemprop="description" class="post-item-excerpt">
+            <p>Just like a breath of fresh air, we’re back with another interview. Yep, you don’t have to listen to us blab on about stuff (as much) this episode. Instead, listen to Mike, Lee,&hellip;</p>
+          </section>
+          <footer class="post-item-footer">
+            <ul class="post-item-meta-list">
+              <li class="post-item-meta-item">
+                <time datetime="2015-11-11" itemprop="datePublished">
+                  2015-11-11 00:00:00<ago class="ago">
+                </time>
+              </li>
+                <li class="post-item-meta-item">
+                  <span class="tags"><i class="fa fa-tags"></i>
+                      <span>
+                      <a href="https://blahcadepodcast.github.io/tag/U-I">UI</a>, <a href="https://blahcadepodcast.github.io/tag/Wizard"> Wizard</a>, <a href="https://blahcadepodcast.github.io/tag/Amusements"> Amusements</a>, <a href="https://blahcadepodcast.github.io/tag/Far-Sight"> FarSight</a></span>
+                  </span>
+                </li>
+              <li class="post-item-meta-item">
+                <a href="https://blahcadepodcast.github.io/2015/11/11/Episode-31-U-Interested-in-a-New-U-I.html#disqus_thread" data-pjax data-disqus-identifier="">Comments</a>
+              </li>
+            </ul>
+          </footer>
+        </article>
+        <article itemscope itemtype="http://schema.org/BlogPosting"
+          role="article" class="post-item post tag-U-I tag-Mac tag-Tot-M tag-Tot-W tag-Beta tag-P-C tag-Zen">
+          <header class="post-item-header">
+            <h2 itemprop="name" class="post-item-title">
+              <a href="https://blahcadepodcast.github.io/2015/11/11/Episode-30-38-Weeks-Old-Next-week-Brains.html" itemprop="url" data-pjax title="Episode 30: 38 Weeks Old. Next week: Brains">
+                Episode 30: 38 Weeks Old. Next week: Brains
+                    <br/><img class="post-cover-image" src="https://blahcadepodcast.github.io/images/logo.png" alt="" title="Episode 30: 38 Weeks Old. Next week: Brains"><br/>
+              </a>
+            </h2>
+          </header>
+          <section itemprop="description" class="post-item-excerpt">
+            <p>It has been thirty-eight weeks since Chris kicked off this little thing called Table of the Month (TotM)! We talk about some challenges with running the TotM/TotW and the results from the last tourney.&hellip;</p>
+          </section>
+          <footer class="post-item-footer">
+            <ul class="post-item-meta-list">
+              <li class="post-item-meta-item">
+                <time datetime="2015-11-11" itemprop="datePublished">
+                  2015-11-11 00:00:00<ago class="ago">
+                </time>
+              </li>
+                <li class="post-item-meta-item">
+                  <span class="tags"><i class="fa fa-tags"></i>
+                      <span>
+                      <a href="https://blahcadepodcast.github.io/tag/U-I">UI</a>, <a href="https://blahcadepodcast.github.io/tag/Mac"> Mac</a>, <a href="https://blahcadepodcast.github.io/tag/Tot-M"> TotM</a>, <a href="https://blahcadepodcast.github.io/tag/Tot-W"> TotW</a>, <a href="https://blahcadepodcast.github.io/tag/Beta"> Beta</a>, <a href="https://blahcadepodcast.github.io/tag/P-C"> PC</a>, <a href="https://blahcadepodcast.github.io/tag/Zen"> Zen</a></span>
+                  </span>
+                </li>
+              <li class="post-item-meta-item">
+                <a href="https://blahcadepodcast.github.io/2015/11/11/Episode-30-38-Weeks-Old-Next-week-Brains.html#disqus_thread" data-pjax data-disqus-identifier="">Comments</a>
+              </li>
+            </ul>
+          </footer>
+        </article>
+        <article itemscope itemtype="http://schema.org/BlogPosting"
+          role="article" class="post-item post tag-U-I tag-Leaks tag-Seasons">
+          <header class="post-item-header">
+            <h2 itemprop="name" class="post-item-title">
+              <a href="https://blahcadepodcast.github.io/2015/11/01/Episode-29-Blah-Cade-Back-Room.html" itemprop="url" data-pjax title="Episode 29: BlahCade BackRoom">
+                Episode 29: BlahCade BackRoom
+                    <br/><img class="post-cover-image" src="https://blahcadepodcast.github.io/images/logo.png" alt="" title="Episode 29: BlahCade BackRoom"><br/>
+              </a>
+            </h2>
+          </header>
+          <section itemprop="description" class="post-item-excerpt">
+            <p>It has been thirty-eight weeks since Chris kicked off this little thing called Table of the Month (TotM)! We talk about some challenges with running the TotM/TotW and the results from the last tourney.&hellip;</p>
+          </section>
+          <footer class="post-item-footer">
+            <ul class="post-item-meta-list">
+              <li class="post-item-meta-item">
+                <time datetime="2015-11-01" itemprop="datePublished">
+                  2015-11-01 00:00:00<ago class="ago">
+                </time>
+              </li>
+                <li class="post-item-meta-item">
+                  <span class="tags"><i class="fa fa-tags"></i>
+                      <span>
+                      <a href="https://blahcadepodcast.github.io/tag/U-I">UI</a>, <a href="https://blahcadepodcast.github.io/tag/Leaks"> Leaks</a>, <a href="https://blahcadepodcast.github.io/tag/Seasons"> Seasons</a></span>
+                  </span>
+                </li>
+              <li class="post-item-meta-item">
+                <a href="https://blahcadepodcast.github.io/2015/11/01/Episode-29-Blah-Cade-Back-Room.html#disqus_thread" data-pjax data-disqus-identifier="">Comments</a>
+              </li>
+            </ul>
+          </footer>
+        </article>
+        <article itemscope itemtype="http://schema.org/BlogPosting"
+          role="article" class="post-item post tag-Zen tag-Tot-W tag-Scared tag-Stiff">
+          <header class="post-item-header">
+            <h2 itemprop="name" class="post-item-title">
+              <a href="https://blahcadepodcast.github.io/2015/10/27/Episode-28-If-It-Walks-Like-A-Duck-Its-Pinball.html" itemprop="url" data-pjax title="Episode 28: If It Walks Like A Duck, It&#x27;s Pinball">
+                Episode 28: If It Walks Like A Duck, It&#x27;s Pinball
+                    <br/><img class="post-cover-image" src="https://blahcadepodcast.github.io/images/logo.png" alt="" title="Episode 28: If It Walks Like A Duck, It&#x27;s Pinball"><br/>
+              </a>
+            </h2>
+          </header>
+          <section itemprop="description" class="post-item-excerpt">
+            <p>It has been thirty-eight weeks since Chris kicked off this little thing called Table of the Month (TotM)! We talk about some challenges with running the TotM/TotW and the results from the last tourney.&hellip;</p>
+          </section>
+          <footer class="post-item-footer">
+            <ul class="post-item-meta-list">
+              <li class="post-item-meta-item">
+                <time datetime="2015-10-27" itemprop="datePublished">
+                  2015-10-27 00:00:00<ago class="ago">
+                </time>
+              </li>
+                <li class="post-item-meta-item">
+                  <span class="tags"><i class="fa fa-tags"></i>
+                      <span>
+                      <a href="https://blahcadepodcast.github.io/tag/Zen">Zen</a>, <a href="https://blahcadepodcast.github.io/tag/Tot-W"> TotW</a>, <a href="https://blahcadepodcast.github.io/tag/Scared"> Scared</a>, <a href="https://blahcadepodcast.github.io/tag/Stiff"> Stiff</a></span>
+                  </span>
+                </li>
+              <li class="post-item-meta-item">
+                <a href="https://blahcadepodcast.github.io/2015/10/27/Episode-28-If-It-Walks-Like-A-Duck-Its-Pinball.html#disqus_thread" data-pjax data-disqus-identifier="">Comments</a>
+              </li>
+            </ul>
+          </footer>
+        </article>
+    </section>
+
+      <nav role="pagination" class="post-list-pagination">
+    <a href="https://blahcadepodcast.github.io/" class="post-list-pagination-item post-list-pagination-item-prev" data-pjax>
+      <i class="fa fa-angle-double-left"></i>&nbsp;Newer
+    </a>
+  <span class="post-list-pagination-item post-list-pagination-item-current">Page 2 of 5</span>
+    <a href="https://blahcadepodcast.github.io/page/3/" class="post-list-pagination-item post-list-pagination-item-next" data-pjax>
+      Older&nbsp;<i class="fa fa-angle-double-right"></i>
+    </a>
+</nav>
+
+
+    <footer role="contentinfo" class="footer">
+      <p><small>Copyright &copy; <span itemprop="copyrightHolder">BlahCade Podcast</span>. 2016. All Rights Reserved.</small></p>
+      <p><small><a href="http://ghostium.oswaldoacauan.com/" target="_blank">Ghostium Theme</a> by <a href="http://twitter.com/oswaldoacauan" target="_blank">@oswaldoacauan</a></small></p>
+      <p><small>Adapted by <a href="https://twitter.com/mgreau">Maxime Gréau</a></small></p>
+      <p><small>Published with <a href="http://hubpress.io">HubPress</a></small></p>
+    </footer>
+  </div>
+</section>
+
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js?v="></script> <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment-with-locales.min.js?v="></script> <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js?v="></script> 
+      <script type="text/javascript">
+        jQuery( document ).ready(function() {
+          // change date with ago
+          jQuery('ago.ago').each(function(){
+            var element = jQuery(this).parent();
+            element.html( moment(element.text()).fromNow());
+          });
+        });
+
+        hljs.initHighlightingOnLoad();      
+      </script>
+
+    <script src="//blahcadepodcast.github.io/themes/ghostium/assets/js/foot-scripts.min.js?v=1.0.0"></script>
+
+
+  </body>
+</html>

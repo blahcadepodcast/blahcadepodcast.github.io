@@ -1,6 +1,6 @@
 = Episode 48: Jarful, Meaty, Prickly, Pinball Discussion
 :hp-tags: TotM, TotW, Snacks, Bacon, Cactus
-:hp-image: logo.png
+// :hp-image: logo.png
 
 Because life happens, we are running a bit behind schedule.
 But don't worry, because we make up for our tardiness with lots of "meaty" pinball discussion.

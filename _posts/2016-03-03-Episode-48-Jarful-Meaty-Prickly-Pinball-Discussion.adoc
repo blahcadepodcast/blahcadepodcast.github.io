@@ -1,0 +1,47 @@
+= Episode 48: Jarful, Meaty, Prickly, Pinball Discussion
+:hp-tags: TotM, TotW, Snacks, Bacon, Cactus
+:hp-image: logo.png
+
+Because life happens, we are running a bit behind schedule.
+But don't worry, because we make up for our tardiness with lots of "meaty" pinball discussion.
+
+There's bacon banter, cactus conversation, and lighting loquacities.
+Digest it now by downloading it from the links below.
+
+We also let you know about the website. That's worth a separate paragraph.
+
+== Links
+
+http://shoutengine.com/BlahCadePodcast/    [Stream/Download/RSS]
+
+https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
+
+https://blab.im/BlahCade[Blab.im Live Session]
+
+https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+
+== Timings
+
+* Introduction - 0:45
+** Happy Birthday Chris - 1:30
+** Jarrfull (Jaffle) Maker? - 4:30
+** Beers of Australia - 5:50
+* Bacon, Bacon, Bacon
+** [Ba][Co][N] shirt - 7:00
+** Making Bacon Sexy - 7:45
+** Stern's _Makin' Bacon_ - 10:25
+* Tournament of the Month (TotM) - 10:55
+* Cactus Canyon Gripes and Suggestions for Improvement - 13:20
+* Dynamic Ambient Lighting Issues/RFEs - 18:00
+** Jared Hypothesises Why Ambient Lighting is Strange - 20:20
+** Algorithmic Lighting vs Manually Crafted Lighting? - 21:45
+** Glowing Things That Should/Shouldn't Glow - 23:00
+** Ball Playfield Reflection Bug - 24:25
+* Ball Shadow Bugs (Android) - 25:30
+* FlippyFloppy Tunes Tables - 26:50
+* BlahCade Website Under Development - 27:10
+* BlahCade Shirt - 30:05
+* Season Six Wants - 31:00
+* Bally Wide Body - 35:20
+* Spoiled for Top 100 Choice - 41:55
+* Outro - 46:45

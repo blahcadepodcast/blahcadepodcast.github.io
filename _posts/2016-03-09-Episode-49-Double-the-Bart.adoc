@@ -1,5 +1,5 @@
 = Episode 49: Double the Bart
-:hp-tags: TotM, TotW, Cactus, Pro, Health, Dr, Who,
+:hp-tags: TotM, TotW, Cactus, Pro, Health, Dr, Who
 :hp-image: logo.png
 
 It's about Pro Mode discoveries, Dr Who: Regenerated, table tear-downs, and some off-topic chat about Tomb Raider and why video games don't translate well to the silver screen.

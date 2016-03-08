@@ -1,0 +1,52 @@
+= Episode 49: Double the Bart
+:hp-tags: TotM, TotW, Cactus, Pro, Health, Dr, Who,
+:hp-image: logo.png
+
+It's about Pro Mode discoveries, Dr Who: Regenerated, table tear-downs, and some off-topic chat about Tomb Raider and why video games don't translate well to the silver screen.
+
+Jared does the Blab.io session from North Lakes this time, so expect some audio stutter as he battles with the less than awesome Australian internet.
+
+Chris has his regularly-scheduled PC crash which magically vanishes in post-production.
+
+== Links
+
+http://shoutengine.com/BlahCadePodcast/    [Stream/Download/RSS]
+
+https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
+
+https://blab.im/BlahCade[Blab.im Live Session]
+
+https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+
+== Timings
+
+* Introduction - 0:45
+* Jared Health Update - 1:00
+* LeRoy Health Update - 4:25
+* Chris' Wife Health Update - 14:30
+* Pro Mode Table Exploration
+** Double the Bart! - 15:50
+** Why This Happened - 18:00
+** Aside: Rescue 911 Tear-down Video on YouTube - 18:20
+*** Norman Cameo
+*** How do they remember where everything goes?
+** Why Does FarSight Leave This Stuff In? - 20:30
+** Oh Noes: PC Woes - 22:25
+* Are Clean Assets Available for Art Passes? - 23:25
+* Fitting Stuff In - 24:55
+* Tomb Raider (Non Pinball) - 26:10
+* Why Games About Movies Don't Work - 34:28
+* Self-deprecation and Last Action Hero - 37:28
+* Apply Zen-like Features to the LAH Theme in Pinball - 38:20
+* What Will FarSight's Last "Sony" Table Be - 39:20
+* Thoughts on Dr Who: Regenerated - 40:30
+** How Ghostbusters Re-skin contributed to Dr Who: Regen
+** How Will FarSight Regenerate the ROM code? - 43:28
+** Can Re-gen be _better_ than the original? - 44:30
+* Website Update - 45:00
+** Disqus Plug-in
+** How Forum Comms will evolve.
+* Nearly 100 Twitter Followers - 47:00
+* T-Shirts Generated Weekly - 47:38
+* Bulk T-Shirt Order for Aussie Listeners? - 48:20
+* Outro - 49:00

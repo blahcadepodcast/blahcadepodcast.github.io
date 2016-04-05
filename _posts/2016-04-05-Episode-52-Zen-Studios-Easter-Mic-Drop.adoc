@@ -1,0 +1,56 @@
+= Episode 52: Zen Studios Easter Mic Drop
+:hp-tags: Zen, Aliens, Predator, VR, Oculus, TotW, Tech, Shirts
+:hp-image: logo.png
+
+Zen Studios comes out swinging over the Easter BlahCade Hiatus with a huge announcement! 
+Everything from the new Zen Studios _Aliens vs Pinball_ teaser is discussed and speculated on in depth, to how to get the most out of TPA and Zen with wireless and wired controllers.
+
+With all the action over Easter, who knows what next week's episode will bring.
+
+Will we see a teaser release of the Zen AvP trailer? Will FarSight reveal something in their playbook?
+Rest assured we'll cover it here if they do.
+
+== Links
+
+http://shoutengine.com/BlahCadePodcast/[Stream/Download/RSS]
+
+https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
+
+https://blab.im/BlahCade[Blab.im Live Session]
+
+https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+
+== Timings
+
+* Introduction - 0:45
+* On Stop Motion Techniques - 6:48
+* Zen _Aliens vs Pinball_ Release - 8:20
+** Zen Post - https://blog.zenstudios.com/?p=6209
+** National Aliens Day Release?
+** Three Table Speculation.
+** How Will the Modes Be Structured?
+** Chest Burster Shock Modes?
+** Playfield Mechanism Speculation.
+** Bring On the Zen Fantasy With This Pack.
+** Will Quotes Still Have Meaning Without Swearies.
+** Motion Tracker Mode - Aww Yeah!
+** Fox Interactive and Movie Licensing
+** How Sound Will Pay a Crucial Part in this Pack
+** Die Hard on the Cards with Fox Licenses?
+* Occulus Rift and Pinball
+** Oculus Zen Pinball VR Pinball Controller (http://www.tested.com/tech/gaming/566809-oculus-rift-virtual-pinball-cabinet-mod/[Tested.com]) - 25:08
+** Virtual Pin vs Oculus
+** Is Zen justified in charging again for this title?
+* About Catering For New Tech in Games, or _The 1%_ - 30:50
+* Tesla Pre-sale - 32:44
+** Disturbing Charging Snake is Disturbing - 35:30
+* Zen vs TPA Next Gen Console Upgrade Experience - 36:10
+* Controllers for PC Pinball - 37:40
+** http://ds4windows.com for PS4 to PC Mapping - 41:18
+*** Rumble Fixed
+*** Swap Tilt Sticks
+*** SixAxis for Nudging
+* SixAxis Controller App for Android - 44:00
+* TShirt and Website Plug - 46:40
+* TotW is JackBot - 48:15
+* Outtro - 49:20

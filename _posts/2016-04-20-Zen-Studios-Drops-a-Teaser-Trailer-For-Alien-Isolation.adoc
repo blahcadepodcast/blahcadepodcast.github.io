@@ -4,7 +4,7 @@
 
 As the date for _Alien Day_ on the 26th April fast approaches, Zen Studios drops a pretty shiny looking teaser video for their _Alien: Isolation_ pinball table.
 
-video::12VvS9EE0sc[youtube]
+video::12VvS9EE0sc[youtube, width=768, height=1024]
 
 The usual Zen spit 'n' polish is definitely evident in this release. 
 Lots of animated characters from the show jumping around and being attacked by Xenomorphs. 

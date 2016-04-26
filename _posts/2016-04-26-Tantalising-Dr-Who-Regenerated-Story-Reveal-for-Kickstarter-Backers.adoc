@@ -1,0 +1,33 @@
+= Tantalising Dr Who:Regenerated Story Reveal for Kickstarter Backers
+Jared Morgan
+:hp-tags: FarSight, Dr_Who, Kickstarter, Articles
+:hp-image: logo.png
+
+In their latest https://www.kickstarter.com/projects/1067367405/pinball-arcade-doctor-who/posts/1557680[Kickstarter update], FarSight Studios have revealed the basic story they want to tell with their Dr Who: Regenerated table.
+
+[quote, FarSight Studios]
+--
+*We've been working hard on the Regenerated version of of the Doctor Who Pinball table. Here is a little sneak peek into the regenerated story line. More updates to come!*
+
+The Doctor’s existence is fading… and only you can save him! 
+
+After reshaping the events of the Time War, paradoxical fissures have created a causal nexus by ripping the very fabric of the space and time. Taking advantage of these anomalies, the Doctor’s most devious adversaries have entered these tears in an effort to defeat him across various points in his life.
+
+Like a big ball of wibbly-wobbly, timey-wimey stuff...
+
+As his newest companion, you can relive all the best moments from the Doctor’s most recent incarnations and adventures.
+
+Revisit old friends. Battle against terrifying villains and monsters. Save the universe with attack eyebrows.
+
+Come on pudding brains, what are you waiting for?
+--
+
+You'll remember from http://blahcadepinball.com/2016/02/09/Episode-45-Timey-Wimey-Farsight-Chat.html[our chat with Mike Lindsay] that the BBC was working very closely with FarSight and giving them an unusually high level of creative license with what they could do with the re-theme.
+
+Will FarSight keep the seven existing Doctor slots in the ROM for the story points, or expand the stories for a deeper story? 
+
+How will the existing time expander mechanism be used to integrate the stories together? 
+
+Will the geometary of the table change to fit the new story points?
+
+It might be time for us to probe Mike for some questions again.

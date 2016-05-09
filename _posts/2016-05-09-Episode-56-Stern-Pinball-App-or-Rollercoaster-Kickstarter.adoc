@@ -1,0 +1,60 @@
+= Episode 56: Stern Pinball App, or Rollercoaster Kickstarter?
+:hp-tags: Kickstarter, Stern, SPA, Emulation, Snacks
+:hp-image: logo.png
+
+In this episode, we talk about:
+
+* Waffles.
+* Stern Pinball App.
+* The Rise, Fall, and Phoenix of the AC/DC Kickstarter.
+
+While that sounds somewhat terse in topics, you'll find out that this nearly 1hr show is far from lacking in Pinball talk.
+
+To those of you who asked for talk of this nature, prepare your ears!
+
+== Links
+
+http://shoutengine.com/BlahCadePodcast/#[Stream/Download/RSS]
+
+https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
+
+https://twitter.com/blahcade[@BlahCade on Twitter]
+
+https://blab.im/BlahCade[BlahCade on Blab.im (Live Session Recordings)]
+
+https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+
+== Timings
+
+* Introduction - 0:30
+* Mother's Day, Waffles at IHOP, and Dicey Internet - 0:35
+* Why we do weekly podcasts - 7:05
+* Stern Pinball Arcade App Details Revealed - 8:45
+** Original Press Release - 9:15
+** Why Emulation is Challenging - 9:50
+** Graphics Tuning per platform - 19:10
+** Minimum OS Version for Android - 20:05
+** VR on Android! - 21:50
+** VR on iOS? - 23:45
+** _Pinball_ Physics 4.0 - 24:30
+** Launch Tables - 27:05
+** Pricing - 27:25
+** Release cadence - 28:35
+* AC/DC Kickstarter
+** Mixed Messages in Communication - 30:50
+** BlahCade Communication Tips - 32:00
+** Digital Licensing - 32:55
+** Doing AC/DC before Metallica - 33:30
+** Table tier is "pre-order" - 34:35
+** AC/DC Brings the Boys to the Yard - 35:50
+* Kickstarter *Cancelled*? - 37:25
+** Stern pulls all tweets about Kickstarter - 38:45
+** The agonising wait for an announcement - 39:35
+* Kickstarter *Fully Funded*! - 41:00
+** Who is the mystery angel investor? - 42:10
+** What is the motivation? - 42:40
+** What does Launch Table actually mean? - 44:00
+** From IRL table launch to digital table release? - 46:20
+* Inks on iOS - 50:25
+* Suggestion for spending Kickstarter "savings" on - 52:10
+* Outtro - 53:25

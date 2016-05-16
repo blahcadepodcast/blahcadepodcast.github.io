@@ -1,0 +1,71 @@
+= Episode 57: Dnyeahh I speak good, or Sharks with Flippers?
+:hp-tags: TotM, FarSight, Zen, Physics, VPCabs, PinballX
+:hp-image: logo.png
+
+In this episode, we talk about:
+
+* Snorzel's Tournament of the Month
+* BlahCade Tourney and Table Stats
+* FarSight Physics Discussion Thread
+* Shark Tank and VPCabs
+
+If you are a bit of a tech geek, the Physics discussion will spin your propeller hat.
+
+If you dig stats, the TotM table stats discussion will interest you.
+
+If you like venture capitalism, you'll totally want to seed fund the Shark Tank discussion.
+
+And if you want to laugh at Chris mangling words, you'll also want to tune in.
+ 
+== Links
+
+http://shoutengine.com/BlahCadePodcast/#[Stream/Download/RSS]
+
+https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
+
+https://twitter.com/blahcade[@BlahCade on Twitter]
+
+https://blab.im/BlahCade[BlahCade on Blab.im (Live Session Recordings)]
+
+https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+
+== Timings
+
+* Introduction - 0:30
+* Eurovision Update - 0:50
+* No new Stern App info - 2:20
+* Snorzel's Tournament of the Month - 3:20
+** Tourney Dates - 4:20
+** How many tables? - 5:05
+** How scoring works - 5:50
+** What tables? - 6:45
+* Tournament of the Month in Review
+** Put Up or Shut Up Selections. Why? - 7:25
+** Put Up or Shut Up Historical Choices - 10:30
+** TotM Stats - 15:10
+** Why Bespoke Tourney Software? - 16:35
+** Were brackets something you liked? - 18:30
+* http://pinballarcadefans.com/showthread.php/11495-Physics-engine-discussion/[Physics Discussion Thread] - 19:00
+** Why not use Unreal Engine for Physics? - 24:45
+** Could This Open Modder Communities for Tuning? - 26:15
+** Interface for Gas Plasma DMDs - 27:55
+* Shark Tank and http://virtualpinball.com[VPCabs] - 29:00
+** Pinball FX2 Included - 32:00
+** Zen's Clip - 33:20
+** Cab Interface (PinballX) - 34:40
+** Shark's Reception - 35:35
+** Demographics - 37:35
+** Pinball Arcade on VPCabs? - 41:25
+** All Zen Tables Included - 43:15
+** Aside: FarSight New UI vs Zen UI, and Cabinet Play - 43:50
+** Oculus Rig Possibilities? - 46:45
+** System Specification - 47:40
+** Coin Door, But No Mechs - 49:20
+** Vertigo Pin and MAME Cabinet - 50:45
+** Classic (Pro) Version - 51:30
+** Mini (Safe Cracker) Version - 52:45
+* Plug for Pinball Supernova - 54:15
+* Tina Fey's _Whiskey Tango Foxtrot_ Movie - 54:40
+* Rant: Why Aussies Torrent Movies - 55:40
+* T-shirt Reminder - 57:00
+* Outtro - 57:20

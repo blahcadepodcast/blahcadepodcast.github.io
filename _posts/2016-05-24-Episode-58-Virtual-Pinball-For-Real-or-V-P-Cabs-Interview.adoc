@@ -1,0 +1,62 @@
+= Episode 58: Virtual Pinball For Real, or VPCabs Interview.
+:hp-tags: VPCabs, Shark_Tank, 
+:hp-image: logo.png
+
+In this episode, we talk with Brad Baker from http://virtualpinball.com[VPCabs].
+
+Brad tells us about his experience pitching his Virtual Pinball cabinet product to _The Sharks_ on http://abc.go.com/shows/shark-tank/episode-guide[ABC's _Shark Tank_ (USA)] program.
+
+It's an engaging interview we're sure you'll like as a pinhead.
+The journey from how VPCabs started to it's success on Shark Tank is a great story, and Brad tells it well.
+
+Let us know what you think.
+
+== Links
+
+http://shoutengine.com/BlahCadePodcast/#[Stream/Download/RSS]
+
+https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
+
+https://twitter.com/blahcade[@BlahCade on Twitter]
+
+https://blab.im/BlahCade[BlahCade on Blab.im (Live Session Recordings)]
+
+https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+
+== Timings
+
+* Introduction - 0:30
+* Chris Purchased a Tesla - 0:40
+* Mason Crashes the Podcast - 1:10
+* Brad Baker Talks VPCabs - 4:30
+** How VPCabs Started - 5:10
+** What Prompted Different Size Cabs? - 8:05
+** Why go with custom size Cabs? - 8:40
+** Is the DMD Gas Plasma or LED? - 10:15
+** How did pitching on Shark Tank happen? - 11:10
+** How nerve wracking is it to pitch? - 13:05
+** How long did your pitch actually go for? - 13:50
+** How did the Sharks react to your pitch? - 14:55
+** Did some Sharks "get" the idea? - 16:15
+** Ply or Die - 17:50
+** How do you replicate the mechanics of pinball? - 18:30
+** Does the Vertigo model tilt? - 19:15
+** When was the Vertigo conceived? - 20:35
+** Which Shark Did You Partner With? - 21:35
+** How did the Zen Studios partnership come about? - 22:50
+** What happens when new Zen tables are released? - 26:25
+** How does The Pinball Arcade run on the hardware? - 27:45
+** Why Pinball companies should embrace digital pinball. - 29:25
+** The Vertigo DMD and MAME Marquees - 32:10
+** Copping flack from the pinball community for cab size - 33:10
+** How many displays in total in the product? - 34:50
+** Rockin' sound system - 36:50
+** Is 4K or OLED something that is necessary for VPCabs? - 37:45
+** How does VR fit into the VPCabs product suite? - 39:20
+** Trade Show visibility - 42:30
+** Available Down Under (or outside USA)? - 44:00
+** Assembly Time on The Wizard Model - 45:40
+** How do I get one? - 48:15
+* Summary - 49:50
+* T-shirts and Social - 51:30
+* Outtro - 57:20

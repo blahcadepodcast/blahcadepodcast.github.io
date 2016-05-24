@@ -1,5 +1,5 @@
 = Episode 58: Virtual Pinball For Real, or VPCabs Interview.
-:hp-tags: VPCabs, Shark_Tank, 
+:hp-tags: VPCabs, Shark_Tank
 :hp-image: logo.png
 
 In this episode, we talk with Brad Baker from http://virtualpinball.com[VPCabs].

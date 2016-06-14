@@ -1,0 +1,49 @@
+= Episode 60: Flip 'n' Bitch
+:hp-tags: Gottlieb, Rant, Tuning, New_UI, shmup
+:hp-image: logo.png
+
+In this episode, we freestyle it a bit and talk about stuff that is annoying us or otherwise needs to be fixed.
+
+Yep, it's a "Flip 'n' Bitch" about:
+
+* Gottlieb Premier (Chris isn't quite done yet),
+* Table vs Table Comparisons
+* FarSight Tuning Issues and New UI
+* Some non-pinball games that we used to distract ourselves over our break.
+
+Still plenty of pinball talk, so get on it!
+
+== Links
+
+http://shoutengine.com/BlahCadePodcast/#[Stream/Download/RSS]
+
+https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
+
+https://twitter.com/blahcade[@BlahCade on Twitter]
+
+https://blab.im/BlahCade[BlahCade on Blab.im (Live Session Recordings)]
+
+https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+
+== Timings
+
+* Introduction - 0:30
+* Stern Pinball Arcade (SPA) Released on Gear VR - 1:50
+* No Doubts About Who's Steering the SPA Ship - 3:30
+* TX-Sector Stupid Wizard Goals - 5:05
+** Earn an Non-Value Extra Ball? - 6:20
+** Get Two Balls Into The Shooter Lane - 10:50
+* If it's pre-85 Gottlieb, digitise it. - 14:50
+* Teed-Off vs No Good Gophers - 15:25
+* El Dorado vs City of Gold - 17:50
+* Chris' Wizard Goal Mission - 18:00
+* Fireball Is a One Ball Table - 19:55
+* About Inconsistencies with Plunger Tuning - 24:35
+* About FarSight Warp Gates and Tuning - 27:10
+* New UI on Mobile Early Thoughts - 30:10
+* Independence Day: Resurgence Pinball? - 33:10
+* Jared Finally Gets a Pinball Machine - 38:00
+* Air Attack 2 and Sky Force Reloaded - 39:15
+* Uncharted: Fortune Hunter - 43:20
+* Jared's Frustration with Health and Pinball - 45:10
+* Outtro - 47:00

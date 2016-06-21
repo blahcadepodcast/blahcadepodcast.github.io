@@ -1,0 +1,60 @@
+= Episode 61: U and I Gotta Talk
+:hp-tags: New_UI, Oculus, Zaccaria, Steam, Gear_VR, Guests, BackRoom
+:hp-image: logo.png
+
+In this episode, we provide commentary on what many Pinball Arcade Fans folks feel to be the premature release of the New UI on Android.
+
+Sven (Xanija) joins us for a chat live about the New UI from a consumer's perspective, and Jared gives a perspective as a beta tester.
+
+Thankfully Xanija was on because Chris had his regular PC crash during the session.
+It takes more than a simple PC crash to stop the conversation.
+
+The BackRoom discussion is included in this episode because it kind of dovetails right back into the UI discussion.
+Hang in there and check the show notes for timings if you aren't interested.
+
+Would love to hear your thoughts about the New UI on Android, or Steam for that matter.
+Hit us up on any of the contact methods below and let us know your thoughts.
+
+== Links
+
+http://shoutengine.com/BlahCadePodcast/#[Stream/Download/RSS]
+
+https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
+
+https://twitter.com/blahcade[@BlahCade on Twitter]
+
+https://blab.im/BlahCade[BlahCade on Blab.im (Live Session Recordings)]
+
+https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+
+== Timings
+
+* Introduction - 0:30
+* New UI on Android (!) - 1:10
+* How were testers informed it was released? - 2:10
+* How long has the New UI been on Steam? - 3:00
+* What was Jared hoping would be fixed? - 5:00
+* What were Xanija's first-run impressions? - 6:00
+* New UI Steam Controller Quirks - 9:00
+* Bug: Entering initials on Steam broken - 10:00
+* Discussion: Why release something that isn't ready? - 12:00
+** All 60 tables require download after upgrading - 14:35
+** Other factors contributing to early release - 15:25
+* Requirements for Oculus Gear VR games - 16:20
+* TPA: Touchscreen vs Controller - 18:20
+* TPA: Swipe Nudge vs Tap Nudging - 20:40
+* Tuning Zaccaria Pinball on Android - 21:55
+* Zaccaria on Steam Thoughts - 23:35
+** Why not open up the trial table fully - 24:40
+** When does a game stop being a game - 25:45
+** Arcade vs Simulation - 27:25
+** Pricing on Steam vs Android - 29:45
+** No regrets about the Gold price - 30:50
+** Is Gold still the best deal? - 33:15
+* Zaccaria vs TPA UI - 34:20
+* BlahCade BackRoom
+** Chris' National Lampoon to Sequoia and Yosemite - 36:25
+** Chris' Brother, and the _concept_ of Stupidity of Intelligence - 51:38
+** How this _concept_ relates to the New UI - 58:50
+* USA VaterTag - 1:01:00
+* Outtro - 1:03:00

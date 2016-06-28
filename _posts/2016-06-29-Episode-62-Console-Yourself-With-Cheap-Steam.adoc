@@ -1,5 +1,5 @@
 = Episode 62: Console Yourself With Cheap Steam
-:hp-tags: steam, console, New_UI, BackRoom
+:hp-tags: steam, console, UI, BackRoom
 :hp-image: logo.png
 
 It's a bit light on this week with pinball news.

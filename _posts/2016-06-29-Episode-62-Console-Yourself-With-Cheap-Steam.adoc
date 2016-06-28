@@ -1,0 +1,50 @@
+= Episode 62: Console Yourself With Cheap Steam
+:hp-tags: steam, console, New_UI, BackRoom
+:hp-image: logo.png
+
+It's a bit light on this week with pinball news.
+
+In light of this, we look into how folks on other platforms could capitalise on Steam Sales for PC.
+You might be surprised about how easy it is for a TPA Console player (PS3/PS4 or XBox) to get cheap tables and frequent updates.
+
+In the aftermath of the New UI Premature birth on Android, we also give a PSA about how to talk to engineers about fixes or observations you have with an application.
+
+There's a BlahCade BackRoom longer than the main show, with one of the most obnoxious wedding announcements you will have ever heard.
+If you don't fancy hearing us talking about it, just take a look at the link and prepare to groan.
+
+NOTE: There is a bit of an audio race condition at about 17 minutes in.
+It sounds like Jared is talking right over Chris.
+He wasn't.
+It's a Blab thing...
+
+== Links
+
+http://shoutengine.com/BlahCadePodcast/#[Stream/Download/RSS]
+
+https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
+
+https://twitter.com/blahcade[@BlahCade on Twitter]
+
+https://blab.im/BlahCade[BlahCade on Blab.im (Live Session Recordings)]
+
+https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+
+== Timings
+
+* Introduction - 0:30
+* Beta for Indy 500 on PC - 1:10
+* Pinball Arcade Tables Deeply Discounted - 3:20
+* Zen Tables Deeply Discounted - 6:05
+* Should Console Owners Switch to Steam? - 6:35
+** What is the minimum recommended GPU spec? - 7:20
+** Can a GTX-670 cope with TPA? - 9:15
+** Chris, reporting from Blackwater 300 - 10:45
+** How could I test it out on my PC? - 11:40
+* http://www.samvandoorn.net/?/web/project-1/[_STYN The Machine_ by Sam Van Doorn] - 12:45
+* New UI on Android Progress Report - 15:20
+** _Constructive_ criticism sought - 17:50
+** How to be constructive when providing feedback - 19:40
+* TPA Android Users Guide 2.0 - 22:08
+* Outtro (before BackRoom) - 24:14
+* http://postgradproblems.com/this-hipster-marriage-announcement-from-the-new-york-times-is-the-most-insufferable-yet/[BackRoom: Hipster Wedding Announcement] - 25:55
+* Hard Outtro - 43:25

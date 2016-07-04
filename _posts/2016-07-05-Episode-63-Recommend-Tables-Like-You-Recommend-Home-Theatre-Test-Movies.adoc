@@ -1,0 +1,61 @@
+= Episode 63: Recommend Tables Like You Recommend Home Theatre Test Movies
+:hp-tags: Top_10, Indy, Big_Hurt
+:hp-image: logo.png
+
+This episode will help new folks to The Pinball Arcade pick some great tables, and avoid the terrible ones.
+
+The list isn't based on personal likes or dislikes, rather what would be considered a "reference" table as far as TPA's implementation goes.
+
+We also cover the current release and the hinted next release for Season 6.
+
+We'd love to hear what your Top 10 Best and Worst tables are. Get in touch!
+
+== Links
+
+http://shoutengine.com/BlahCadePodcast/#[Stream/Download/RSS]
+
+https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
+
+https://twitter.com/blahcade[@BlahCade on Twitter]
+
+https://blab.im/BlahCade[BlahCade on Blab.im (Live Session Recordings)]
+
+https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+
+== Timings
+
+* Introduction - 0:30
+* Frank Thomas' Big Hurt is the Next Table - 2:55
+* Could Season 6 be a Sports Themed Season? - 9:50
+* Indy 500 Release and Commentary - 11:45
+* Known ROM Bug with Indy 500 - 18:20
+* Top "Reference" Tables in TPA - 20:25
+** The Addams Family - 23:40
+** Medieval Madness - 24:40
+*** Bride of Pinbot (not a top 10) - 26:35
+** Eldorado and Fireball EM Pack - 28:35
+*** Big Shot? (not a top 10)- 29:35
+** Road Show - 31:05
+** Jack*Bot - 33:20
+** Bram Stoker's Dracula - 35:15
+** Fish Tales - 36:30
+** White Water (with some caveats) - 39:00
+*** DX11 Brightness Tuning Tip - 40:25
+** Personal Top 10 Recommendations
+*** The Champion Pub - 43:25
+*** High Speed - 45:10
+* Top "Avoid" Tables in TPA
+** Goin' Nuts - 46:58
+** Black Knight - 48:00
+** Creature from the Black Lagoon - 48:32
+** Cirqus Voltaire - 50:10
+** Fun House - 52:14
+** Dr Dude - 52:50
+** Firepower - 53:50
+** Harley Davidson - 55:48
+** Taxi - 56:32
+** Attack from Mars - 57:26
+** Genie - 59:40
+* What are your top 10 best and worst reference tables? 61:22
+* Thanks for not making Hurricane wizard goals brutal - 62:52
+* Outtro - 64:48

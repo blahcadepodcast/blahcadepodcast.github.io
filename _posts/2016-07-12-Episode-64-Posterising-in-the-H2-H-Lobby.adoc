@@ -1,0 +1,65 @@
+= Episode 64: Posterising in the H2H Lobby
+:hp-tags: Tourney, H2H, LootCrate, NBA, Fastbreak
+:hp-image: logo.png
+
+It's all about Head to Head and Tournament action in this episode.
+
+Chris shares his experience playing a _linked_ NBA Fast Break pinball duo.
+We then talk more about how Head to Head should work in TPA.
+
+There's talk about a way to save money on cool stuff, then we launch into discussing a custom tourney that is being managed through the Steam version of TPA.
+
+Heaps of stuff to think about, so let us know what you think.
+
+Oh, and there's a little something extra at the end. Stay tuned.
+
+== Links
+
+* http://shoutengine.com/BlahCadePodcast/#[Stream/Download/RSS]
+* https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
+* http://trylootcrate.com/blahcade[Try LootCrate and Get 10% Off Crates with Code `bridge10`]
+* https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+* https://twitter.com/blahcade[@BlahCade on Twitter]
+* https://blab.im/BlahCade[BlahCade on Blab.im (Live Session Recordings)]
+* blahblahblahcade@gmail.com
+
+== Timings
+
+* Introduction - 0:30
+* _Bally_ NBA Fastbreak Head to Head Play - 1:10
+** Control settings on Head to Head - 4:50
+** How do the games sync? - 7:20
+** Operator Time Settings - 7:50
+** Guaranteed play time - 9:10
+** Ambrose play - 9:35
+** How many players can be linked? - 11:10
+** Floor space concerns - 12:05
+* H2H in TPA?
+** Pestering Norman - 13:00
+** Desired FarSight Play for H2H - 14:10
+** How would the grind-fest be managed - 15:05
+** How many H2H tables are there? - 17:15
+** Could NBA Fastbreak be a better table to implement first? - 17:15
+* How should matchmaking work in TPA H2H?
+** Please no FPS matchmaking system - 18:20
+** Yes please Guitar Hero matchmaking system - 19:00
+** What should the lobby experience be like? - 19:30
+* Tell FarSight what your H2H lobby experience should be like! - 21:20
+** Feedback is being collected - 23:15
+** Translating feedback into reality - 23:50
+** Laying foundations - 24:20
+* Introducing LootCrate, and an opportunity to save 10% - 26:15
+* Private Tournament by Major League Pinball - 29:50
+** How does sign-up work? - 31:55
+** Set up bespoke tournaments - 32:30
+** Tourney sign-ups appear positive - 33:30
+** Open up new avenues for user feedback - 34:20
+* Five minute games change _everything_ - 34:55
+** Creature From The Black Lagoon - 35:35
+** Attack From Mars - 38:10
+** Big Shot (5-ball) - 39:00
+** Theatre of Magic - 39:55
+** Gorgar - 40:15
+** Harley Davidson - 40:40
+* What is Posterising? - 45:15
+* Outtro - 48:00

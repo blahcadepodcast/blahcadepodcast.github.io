@@ -1,5 +1,5 @@
 = Episode 64: Posterising in the H2H Lobby
-:hp-tags: Tourney, H2H, LootCrate, NBA, Fastbreak
+:hp-tags: Tourney, H2H, LootCrate, NBA, Fastbreak, Pinball
 :hp-image: logo.png
 
 It's all about Head to Head and Tournament action in this episode.

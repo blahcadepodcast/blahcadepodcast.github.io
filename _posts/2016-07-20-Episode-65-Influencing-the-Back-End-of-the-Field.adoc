@@ -11,7 +11,7 @@ There's plenty of other stuff for your listening pleasure, and some extra bits a
 
 == Links
 
-* http://shoutengine.com/BlahCadePodcast/#[Stream/Download/RSS]
+* http://shoutengine.com/BlahCadePodcast/influencing-the-back-end-of-the-field-21726[Stream/Download/RSS]
 * https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
 * http://trylootcrate.com/blahcade[Try LootCrate and Get 10% Off Crates with Code `bridge10`]
 * https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]

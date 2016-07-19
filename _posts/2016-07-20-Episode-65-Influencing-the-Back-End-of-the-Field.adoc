@@ -1,0 +1,52 @@
+= Episode 65: Influencing the Back End of the Field
+:hp-tags: tourney, lootcrate,
+:hp-image: logo.png
+
+Based on some quips Don and Jeff made on their recent The Pinball Podcast, Chris and I felt we should clarify just how "influential" we really are with Farsight.
+
+Chris also talks about his attack from the rear approach with the Steam-only Major League Pinball tourney that just finished.
+You'll never guess where Chris finished!
+
+There's plenty of other stuff for your listening pleasure, and some extra bits after the credits. So hang around and check them out.
+
+== Links
+
+* http://shoutengine.com/BlahCadePodcast/#[Stream/Download/RSS]
+* https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
+* http://trylootcrate.com/blahcade[Try LootCrate and Get 10% Off Crates with Code `bridge10`]
+* https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+* https://twitter.com/blahcade[@BlahCade on Twitter]
+* https://blab.im/BlahCade[BlahCade on Blab.im (Live Session Recordings)]
+* blahblahblahcade@gmail.com
+
+== Timings
+
+* Introduction - 0:30
+* Limited run shirts - 1:35
+* Shirts on Demand vs Produce in Bulk - 2:50
+* Does BlahCade have influence at FarSight? - 4:10
+** The harsh reality of TPA pricing - 6:05
+** Does BlahCade like Kickstarters? - 6:40
+** Stern and their table sales - 8:00
+** Licensors clip is likely a factor  - 8:45
+** What if FarSight adopted a volume sales model? - 10:15
+** Could Season 1 be a heavy discount target? - 11:05
+** Indy Games sales motiviation - 11:35
+** Color Monkey and pricing - 12:30
+** About BlahCade's "influence" - 13:20
+** Open invite to FarSight to conference us in :P - 15:00
+* About using a Business Analyst approach to feedback collection - 15:25
+* About getting The Benjamins for our "expertise" - 16:35
+* Dissecting LootCrate Loot - 17:35
+* The BlahCade Mascot and Plushies - 19:55
+* Major League Pinball Tourney Talk - 20:35
+** Players vs Fans - 21:15
+** Getting the heads-up about this forum - 22:55
+** The investment of Facebook users vs other types - 23:15
+** About the five minute play format - 24:40
+** Chris vs Tarek: Five minute score differential - 28:15
+** Chris' Race to the Rear - 31:10
+* Please Do a FarSight 5 Tourney, FarSight - 34:55
+* The secret to TPA Tourney Success - 35:20
+* Closing - 36:20
+* Outtro and Extra Bits - nn:00

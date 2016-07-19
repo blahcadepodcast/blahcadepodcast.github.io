@@ -1,0 +1,6255 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[BlahCade Podcast]]></title><description><![CDATA[Digital Pinball, Real Pinball, Movies, Snacks (but mostly Digital Pinball)]]></description><link>http://blahcadepinball.com</link><image><url>/images/cover.jpg</url><title>BlahCade Podcast</title><link>http://blahcadepinball.com</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 19 Jul 2016 21:43:52 GMT</lastBuildDate><atom:link href="http://blahcadepinball.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Episode 65: Influencing the Back End of the Field]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Based on some quips Don and Jeff made on their recent The Pinball Podcast, Chris and I felt we should clarify just how "influential" we really are with Farsight.</p>
+</div>
+<div class="paragraph">
+<p>Chris also talks about his attack from the rear approach with the Steam-only Major League Pinball tourney that just finished.
+You&#8217;ll never guess where Chris finished!</p>
+</div>
+<div class="paragraph">
+<p>There&#8217;s plenty of other stuff for your listening pleasure, and some extra bits after the credits. So hang around and check them out.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://shoutengine.com/BlahCadePodcast/#">Stream/Download/RSS</a></p>
+</li>
+<li>
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</li>
+<li>
+<p><a href="http://trylootcrate.com/blahcade">Try LootCrate and Get 10% Off Crates with Code <code>bridge10</code></a></p>
+</li>
+<li>
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/blahcade">@BlahCade on Twitter</a></p>
+</li>
+<li>
+<p><a href="https://blab.im/BlahCade">BlahCade on Blab.im (Live Session Recordings)</a></p>
+</li>
+<li>
+<p><a href="mailto:blahblahblahcade@gmail.com">blahblahblahcade@gmail.com</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Introduction - 0:30</p>
+</li>
+<li>
+<p>Limited run shirts - 1:35</p>
+</li>
+<li>
+<p>Shirts on Demand vs Produce in Bulk - 2:50</p>
+</li>
+<li>
+<p>Does BlahCade have influence at FarSight? - 4:10</p>
+<div class="ulist">
+<ul>
+<li>
+<p>The harsh reality of TPA pricing - 6:05</p>
+</li>
+<li>
+<p>Does BlahCade like Kickstarters? - 6:40</p>
+</li>
+<li>
+<p>Stern and their table sales - 8:00</p>
+</li>
+<li>
+<p>Licensors clip is likely a factor  - 8:45</p>
+</li>
+<li>
+<p>What if FarSight adopted a volume sales model? - 10:15</p>
+</li>
+<li>
+<p>Could Season 1 be a heavy discount target? - 11:05</p>
+</li>
+<li>
+<p>Indy Games sales motiviation - 11:35</p>
+</li>
+<li>
+<p>Color Monkey and pricing - 12:30</p>
+</li>
+<li>
+<p>About BlahCade&#8217;s "influence" - 13:20</p>
+</li>
+<li>
+<p>Open invite to FarSight to conference us in :P - 15:00</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>About using a Business Analyst approach to feedback collection - 15:25</p>
+</li>
+<li>
+<p>About getting The Benjamins for our "expertise" - 16:35</p>
+</li>
+<li>
+<p>Dissecting LootCrate Loot - 17:35</p>
+</li>
+<li>
+<p>The BlahCade Mascot and Plushies - 19:55</p>
+</li>
+<li>
+<p>Major League Pinball Tourney Talk - 20:35</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Players vs Fans - 21:15</p>
+</li>
+<li>
+<p>Getting the heads-up about this forum - 22:55</p>
+</li>
+<li>
+<p>The investment of Facebook users vs other types - 23:15</p>
+</li>
+<li>
+<p>About the five minute play format - 24:40</p>
+</li>
+<li>
+<p>Chris vs Tarek: Five minute score differential - 28:15</p>
+</li>
+<li>
+<p>Chris' Race to the Rear - 31:10</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Please Do a FarSight 5 Tourney, FarSight - 34:55</p>
+</li>
+<li>
+<p>The secret to TPA Tourney Success - 35:20</p>
+</li>
+<li>
+<p>Closing - 36:20</p>
+</li>
+<li>
+<p>Outtro and Extra Bits - nn:00</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/07/20/Episode-65-Influencing-the-Back-End-of-the-Field.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/07/20/Episode-65-Influencing-the-Back-End-of-the-Field.html</guid><category><![CDATA[tourney]]></category><category><![CDATA[ lootcrate]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 20 Jul 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 64: Posterising in the H2H Lobby]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>It&#8217;s all about Head to Head and Tournament action in this episode.</p>
+</div>
+<div class="paragraph">
+<p>Chris shares his experience playing a <em>linked</em> NBA Fast Break pinball duo.
+We then talk more about how Head to Head should work in TPA.</p>
+</div>
+<div class="paragraph">
+<p>There&#8217;s talk about a way to save money on cool stuff, then we launch into discussing a custom tourney that is being managed through the Steam version of TPA.</p>
+</div>
+<div class="paragraph">
+<p>Heaps of stuff to think about, so let us know what you think.</p>
+</div>
+<div class="paragraph">
+<p>Oh, and there&#8217;s a little something extra at the end. Stay tuned.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://shoutengine.com/BlahCadePodcast/posterising-in-the-h2h-lobby-21514">Stream/Download/RSS</a></p>
+</li>
+<li>
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</li>
+<li>
+<p><a href="http://trylootcrate.com/blahcade">Try LootCrate and Get 10% Off Crates with Code <code>bridge10</code></a></p>
+</li>
+<li>
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/blahcade">@BlahCade on Twitter</a></p>
+</li>
+<li>
+<p><a href="https://blab.im/BlahCade">BlahCade on Blab.im (Live Session Recordings)</a></p>
+</li>
+<li>
+<p><a href="mailto:blahblahblahcade@gmail.com">blahblahblahcade@gmail.com</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Introduction - 0:30</p>
+</li>
+<li>
+<p><em>Bally</em> NBA Fastbreak Head to Head Play - 1:10</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Control settings on Head to Head - 4:50</p>
+</li>
+<li>
+<p>How do the games sync? - 7:20</p>
+</li>
+<li>
+<p>Operator Time Settings - 7:50</p>
+</li>
+<li>
+<p>Guaranteed play time - 9:10</p>
+</li>
+<li>
+<p>Ambrose play - 9:35</p>
+</li>
+<li>
+<p>How many players can be linked? - 11:10</p>
+</li>
+<li>
+<p>Floor space concerns - 12:05</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>H2H in TPA?</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Pestering Norman - 13:00</p>
+</li>
+<li>
+<p>Desired FarSight Play for H2H - 14:10</p>
+</li>
+<li>
+<p>How would the grind-fest be managed - 15:05</p>
+</li>
+<li>
+<p>How many H2H tables are there? - 17:15</p>
+</li>
+<li>
+<p>Could NBA Fastbreak be a better table to implement first? - 17:15</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>How should matchmaking work in TPA H2H?</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Please no FPS matchmaking system - 18:20</p>
+</li>
+<li>
+<p>Yes please Guitar Hero matchmaking system - 19:00</p>
+</li>
+<li>
+<p>What should the lobby experience be like? - 19:30</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Tell FarSight what your H2H lobby experience should be like! - 21:20</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Feedback is being collected - 23:15</p>
+</li>
+<li>
+<p>Translating feedback into reality - 23:50</p>
+</li>
+<li>
+<p>Laying foundations - 24:20</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Introducing LootCrate, and an opportunity to save 10% - 26:15</p>
+</li>
+<li>
+<p>Private Tournament by Major League Pinball - 29:50</p>
+<div class="ulist">
+<ul>
+<li>
+<p>How does sign-up work? - 31:55</p>
+</li>
+<li>
+<p>Set up bespoke tournaments - 32:30</p>
+</li>
+<li>
+<p>Tourney sign-ups appear positive - 33:30</p>
+</li>
+<li>
+<p>Open up new avenues for user feedback - 34:20</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Five minute games change <em>everything</em> - 34:55</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Creature From The Black Lagoon - 35:35</p>
+</li>
+<li>
+<p>Attack From Mars - 38:10</p>
+</li>
+<li>
+<p>Big Shot (5-ball) - 39:00</p>
+</li>
+<li>
+<p>Theatre of Magic - 39:55</p>
+</li>
+<li>
+<p>Gorgar - 40:15</p>
+</li>
+<li>
+<p>Harley Davidson - 40:40</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>What is Posterising? - 45:15</p>
+</li>
+<li>
+<p>Outtro - 48:00</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/07/12/Episode-64-Posterising-in-the-H2-H-Lobby.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/07/12/Episode-64-Posterising-in-the-H2-H-Lobby.html</guid><category><![CDATA[Tourney]]></category><category><![CDATA[ H2H]]></category><category><![CDATA[ LootCrate]]></category><category><![CDATA[ NBA]]></category><category><![CDATA[ Fastbreak]]></category><category><![CDATA[ Pinball]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 12 Jul 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 63: Recommend Tables Like You Recommend Home Theatre Test Movies]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>This episode will help new folks to The Pinball Arcade pick some great tables, and avoid the terrible ones.</p>
+</div>
+<div class="paragraph">
+<p>The list isn&#8217;t based on personal likes or dislikes, rather what would be considered a "reference" table as far as TPA&#8217;s implementation goes.</p>
+</div>
+<div class="paragraph">
+<p>We also cover the current release and the hinted next release for Season 6.</p>
+</div>
+<div class="paragraph">
+<p>We&#8217;d love to hear what your Top 10 Best and Worst tables are. Get in touch!</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/recommend-tables-like-you-recommend-home-theatre-t-21213">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://twitter.com/blahcade">@BlahCade on Twitter</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">BlahCade on Blab.im (Live Session Recordings)</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Introduction - 0:30</p>
+</li>
+<li>
+<p>Frank Thomas' Big Hurt is the Next Table - 2:55</p>
+</li>
+<li>
+<p>Could Season 6 be a Sports Themed Season? - 9:50</p>
+</li>
+<li>
+<p>Indy 500 Release and Commentary - 11:45</p>
+</li>
+<li>
+<p>Known ROM Bug with Indy 500 - 18:20</p>
+</li>
+<li>
+<p>Top "Reference" Tables in TPA - 20:25</p>
+<div class="ulist">
+<ul>
+<li>
+<p>The Addams Family - 23:40</p>
+</li>
+<li>
+<p>Medieval Madness - 24:40</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Bride of Pinbot (not a top 10) - 26:35</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Eldorado and Fireball EM Pack - 28:35</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Big Shot? (not a top 10)- 29:35</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Road Show - 31:05</p>
+</li>
+<li>
+<p>Jack*Bot - 33:20</p>
+</li>
+<li>
+<p>Bram Stoker&#8217;s Dracula - 35:15</p>
+</li>
+<li>
+<p>Fish Tales - 36:30</p>
+</li>
+<li>
+<p>White Water (with some caveats) - 39:00</p>
+<div class="ulist">
+<ul>
+<li>
+<p>DX11 Brightness Tuning Tip - 40:25</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Personal Top 10 Recommendations</p>
+<div class="ulist">
+<ul>
+<li>
+<p>The Champion Pub - 43:25</p>
+</li>
+<li>
+<p>High Speed - 45:10</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Top "Avoid" Tables in TPA</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Goin' Nuts - 46:58</p>
+</li>
+<li>
+<p>Black Knight - 48:00</p>
+</li>
+<li>
+<p>Creature from the Black Lagoon - 48:32</p>
+</li>
+<li>
+<p>Cirqus Voltaire - 50:10</p>
+</li>
+<li>
+<p>Fun House - 52:14</p>
+</li>
+<li>
+<p>Dr Dude - 52:50</p>
+</li>
+<li>
+<p>Firepower - 53:50</p>
+</li>
+<li>
+<p>Harley Davidson - 55:48</p>
+</li>
+<li>
+<p>Taxi - 56:32</p>
+</li>
+<li>
+<p>Attack from Mars - 57:26</p>
+</li>
+<li>
+<p>Genie - 59:40</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>What are your top 10 best and worst reference tables? 61:22</p>
+</li>
+<li>
+<p>Thanks for not making Hurricane wizard goals brutal - 62:52</p>
+</li>
+<li>
+<p>Outtro - 64:48</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/07/05/Episode-63-Recommend-Tables-Like-You-Recommend-Home-Theatre-Test-Movies.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/07/05/Episode-63-Recommend-Tables-Like-You-Recommend-Home-Theatre-Test-Movies.html</guid><category><![CDATA[Top_10]]></category><category><![CDATA[ Indy]]></category><category><![CDATA[ Big_Hurt]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 05 Jul 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 62: Console Yourself With Cheap Steam]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>It&#8217;s a bit light on this week with pinball news.</p>
+</div>
+<div class="paragraph">
+<p>In light of this, we look into how folks on other platforms could capitalise on Steam Sales for PC.
+You might be surprised about how easy it is for a TPA Console player (PS3/PS4 or XBox) to get cheap tables and frequent updates.</p>
+</div>
+<div class="paragraph">
+<p>In the aftermath of the New UI Premature birth on Android, we also give a PSA about how to talk to engineers about fixes or observations you have with an application.</p>
+</div>
+<div class="paragraph">
+<p>There&#8217;s a BlahCade BackRoom longer than the main show, with one of the most obnoxious wedding announcements you will have ever heard.
+If you don&#8217;t fancy hearing us talking about it, just take a look at the link and prepare to groan.</p>
+</div>
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-note" title="Note"></i>
+</td>
+<td class="content">
+There is a bit of an audio race condition at about 17 minutes in.
+It sounds like Jared is talking right over Chris.
+He wasn&#8217;t.
+It&#8217;s a Blab thing&#8230;&#8203;
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/console-yourself-with-cheap-steam-21027">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://twitter.com/blahcade">@BlahCade on Twitter</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">BlahCade on Blab.im (Live Session Recordings)</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Introduction - 0:30</p>
+</li>
+<li>
+<p>Beta for Indy 500 on PC - 1:10</p>
+</li>
+<li>
+<p>Pinball Arcade Tables Deeply Discounted - 3:20</p>
+</li>
+<li>
+<p>Zen Tables Deeply Discounted - 6:05</p>
+</li>
+<li>
+<p>Should Console Owners Switch to Steam? - 6:35</p>
+<div class="ulist">
+<ul>
+<li>
+<p>What is the minimum recommended GPU spec? - 7:20</p>
+</li>
+<li>
+<p>Can a GTX-670 cope with TPA? - 9:15</p>
+</li>
+<li>
+<p>Chris, reporting from Blackwater 300 - 10:45</p>
+</li>
+<li>
+<p>How could I test it out on my PC? - 11:40</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p><a href="http://www.samvandoorn.net/?/web/project-1/"><em>STYN The Machine</em> by Sam Van Doorn</a> - 12:45</p>
+</li>
+<li>
+<p>New UI on Android Progress Report - 15:20</p>
+<div class="ulist">
+<ul>
+<li>
+<p><em>Constructive</em> criticism sought - 17:50</p>
+</li>
+<li>
+<p>How to be constructive when providing feedback - 19:40</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>TPA Android Users Guide 2.0 - 22:08</p>
+</li>
+<li>
+<p>Outtro (before BackRoom) - 24:14</p>
+</li>
+<li>
+<p><a href="http://postgradproblems.com/this-hipster-marriage-announcement-from-the-new-york-times-is-the-most-insufferable-yet/">BackRoom: Hipster Wedding Announcement</a> - 25:55</p>
+</li>
+<li>
+<p>Hard Outtro - 43:25</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/06/29/Episode-62-Console-Yourself-With-Cheap-Steam.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/06/29/Episode-62-Console-Yourself-With-Cheap-Steam.html</guid><category><![CDATA[steam]]></category><category><![CDATA[ console]]></category><category><![CDATA[ UI]]></category><category><![CDATA[ BackRoom]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 29 Jun 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 61: U and I Gotta Talk]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>In this episode, we provide commentary on what many Pinball Arcade Fans folks feel to be the premature release of the New UI on Android.</p>
+</div>
+<div class="paragraph">
+<p>Sven (Xanija) joins us for a chat live about the New UI from a consumer&#8217;s perspective, and Jared gives a perspective as a beta tester.</p>
+</div>
+<div class="paragraph">
+<p>Thankfully Xanija was on because Chris had his regular PC crash during the session.
+It takes more than a simple PC crash to stop the conversation.</p>
+</div>
+<div class="paragraph">
+<p>The BackRoom discussion is included in this episode because it kind of dovetails right back into the UI discussion.
+Hang in there and check the show notes for timings if you aren&#8217;t interested.</p>
+</div>
+<div class="paragraph">
+<p>Would love to hear your thoughts about the New UI on Android, or Steam for that matter.
+Hit us up on any of the contact methods below and let us know your thoughts.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/u-and-i-gotta-talk-20780">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://twitter.com/blahcade">@BlahCade on Twitter</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">BlahCade on Blab.im (Live Session Recordings)</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Introduction - 0:30</p>
+</li>
+<li>
+<p>New UI on Android (!) - 1:10</p>
+</li>
+<li>
+<p>How were testers informed it was released? - 2:10</p>
+</li>
+<li>
+<p>How long has the New UI been on Steam? - 3:00</p>
+</li>
+<li>
+<p>What was Jared hoping would be fixed? - 5:00</p>
+</li>
+<li>
+<p>What were Xanija&#8217;s first-run impressions? - 6:00</p>
+</li>
+<li>
+<p>New UI Steam Controller Quirks - 9:00</p>
+</li>
+<li>
+<p>Bug: Entering initials on Steam broken - 10:00</p>
+</li>
+<li>
+<p>Discussion: Why release something that isn&#8217;t ready? - 12:00</p>
+<div class="ulist">
+<ul>
+<li>
+<p>All 60 tables require download after upgrading - 14:35</p>
+</li>
+<li>
+<p>Other factors contributing to early release - 15:25</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Requirements for Oculus Gear VR games - 16:20</p>
+</li>
+<li>
+<p>TPA: Touchscreen vs Controller - 18:20</p>
+</li>
+<li>
+<p>TPA: Swipe Nudge vs Tap Nudging - 20:40</p>
+</li>
+<li>
+<p>Tuning Zaccaria Pinball on Android - 21:55</p>
+</li>
+<li>
+<p>Zaccaria on Steam Thoughts - 23:35</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Why not open up the trial table fully - 24:40</p>
+</li>
+<li>
+<p>When does a game stop being a game - 25:45</p>
+</li>
+<li>
+<p>Arcade vs Simulation - 27:25</p>
+</li>
+<li>
+<p>Pricing on Steam vs Android - 29:45</p>
+</li>
+<li>
+<p>No regrets about the Gold price - 30:50</p>
+</li>
+<li>
+<p>Is Gold still the best deal? - 33:15</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Zaccaria vs TPA UI - 34:20</p>
+</li>
+<li>
+<p>BlahCade BackRoom</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Chris' National Lampoon to Sequoia and Yosemite - 36:25</p>
+</li>
+<li>
+<p>Chris' Brother, and the <em>concept</em> of Stupidity of Intelligence - 51:38</p>
+</li>
+<li>
+<p>How this <em>concept</em> relates to the New UI - 58:50</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>USA VaterTag - 1:01:00</p>
+</li>
+<li>
+<p>Outtro - 1:03:00</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/06/22/Episode-61-U-and-I-Gotta-Talk.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/06/22/Episode-61-U-and-I-Gotta-Talk.html</guid><category><![CDATA[New_UI]]></category><category><![CDATA[ Oculus]]></category><category><![CDATA[ Zaccaria]]></category><category><![CDATA[ Steam]]></category><category><![CDATA[ Gear_VR]]></category><category><![CDATA[ Guests]]></category><category><![CDATA[ BackRoom]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 22 Jun 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 60: Flip 'n' Bitch]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>In this episode, we freestyle it a bit and talk about stuff that is annoying us or otherwise needs to be fixed.</p>
+</div>
+<div class="paragraph">
+<p>Yep, it&#8217;s a "Flip 'n' Bitch" about:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Gottlieb Premier (Chris isn&#8217;t quite done yet),</p>
+</li>
+<li>
+<p>Table vs Table Comparisons</p>
+</li>
+<li>
+<p>FarSight Tuning Issues and New UI</p>
+</li>
+<li>
+<p>Some non-pinball games that we used to distract ourselves over our break.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Still plenty of pinball talk, so get on it!</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/flip-n-bitch-20504">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://twitter.com/blahcade">@BlahCade on Twitter</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">BlahCade on Blab.im (Live Session Recordings)</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Introduction - 0:30</p>
+</li>
+<li>
+<p>Stern Pinball Arcade (SPA) Released on Gear VR - 1:50</p>
+</li>
+<li>
+<p>No Doubts About Who&#8217;s Steering the SPA Ship - 3:30</p>
+</li>
+<li>
+<p>TX-Sector Stupid Wizard Goals - 5:05</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Earn an Non-Value Extra Ball? - 6:20</p>
+</li>
+<li>
+<p>Get Two Balls Into The Shooter Lane - 10:50</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>If it&#8217;s pre-85 Gottlieb, digitise it. - 14:50</p>
+</li>
+<li>
+<p>Teed-Off vs No Good Gophers - 15:25</p>
+</li>
+<li>
+<p>El Dorado vs City of Gold - 17:50</p>
+</li>
+<li>
+<p>Chris' Wizard Goal Mission - 18:00</p>
+</li>
+<li>
+<p>Fireball Is a One Ball Table - 19:55</p>
+</li>
+<li>
+<p>About Inconsistencies with Plunger Tuning - 24:35</p>
+</li>
+<li>
+<p>About FarSight Warp Gates and Tuning - 27:10</p>
+</li>
+<li>
+<p>New UI on Mobile Early Thoughts - 30:10</p>
+</li>
+<li>
+<p>Independence Day: Resurgence Pinball? - 33:10</p>
+</li>
+<li>
+<p>Jared Finally Gets a Pinball Machine - 38:00</p>
+</li>
+<li>
+<p>Air Attack 2 and Sky Force Reloaded - 39:15</p>
+</li>
+<li>
+<p>Uncharted: Fortune Hunter - 43:20</p>
+</li>
+<li>
+<p>Jared&#8217;s Frustration with Health and Pinball - 45:10</p>
+</li>
+<li>
+<p>Outtro - 47:00</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/06/15/Episode-60-Flip-n-Bitch.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/06/15/Episode-60-Flip-n-Bitch.html</guid><category><![CDATA[Gottlieb]]></category><category><![CDATA[ Rant]]></category><category><![CDATA[ Tuning]]></category><category><![CDATA[ New_UI]]></category><category><![CDATA[ shmup]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 15 Jun 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 59: Why Gottlieb's Aren't Chris' Favourite Manufacturer]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>In this episode, Chris justifies his position on Gottlieb Premier Tables. That&#8217;s really it.</p>
+</div>
+<div class="paragraph">
+<p>Why only Chris? Well, Jared was nursing a sick household so couldn&#8217;t do the regular recording time.</p>
+</div>
+<div class="paragraph">
+<p>And Chris will be away next weekend on a shoot, so there may not be a full show next week either.</p>
+</div>
+<div class="paragraph">
+<p>We&#8217;ll be back in full force in a week or two. Stay tuned.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/why-gottliebs-arent-chris-favourite-manufacture-19994">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://twitter.com/blahcade">@BlahCade on Twitter</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">BlahCade on Blab.im (Live Session Recordings)</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Introduction - 0:30</p>
+</li>
+<li>
+<p>Tx-Sector - 2:20</p>
+<div class="ulist">
+<ul>
+<li>
+<p>The Gottlieb tables in TPA - 4:10</p>
+</li>
+<li>
+<p>The TX-Sector Sound Package as a Justification - 5:20</p>
+</li>
+<li>
+<p>Each ball is it&#8217;s own game - 8:35</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>On the other Gottlieb Premier Games in TPA - 9:40</p>
+</li>
+<li>
+<p>TX is a Trudeau Table. Who would have thought. - 12:30</p>
+</li>
+<li>
+<p>Season 6 Kick-off: Indy 500! - 13:00</p>
+</li>
+<li>
+<p>Social Media and Shirts - 15:25</p>
+</li>
+<li>
+<p>Outtro - 16:30</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/06/01/Episode-59-Why-Gottliebs-Arent-Chris-Favourite-Manufacturer.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/06/01/Episode-59-Why-Gottliebs-Arent-Chris-Favourite-Manufacturer.html</guid><category><![CDATA[Gottlieb]]></category><category><![CDATA[ Rant]]></category><category><![CDATA[ Solo]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 01 Jun 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 58: Virtual Pinball For Real, or VPCabs Interview.]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>In this episode, we talk with Brad Baker from <a href="http://virtualpinball.com">VPCabs</a>.</p>
+</div>
+<div class="paragraph">
+<p>Brad tells us about his experience pitching his Virtual Pinball cabinet product to <em>The Sharks</em> on <a href="http://abc.go.com/shows/shark-tank/episode-guide">ABC&#8217;s <em>Shark Tank</em> (USA)</a> program.</p>
+</div>
+<div class="paragraph">
+<p>It&#8217;s an engaging interview we&#8217;re sure you&#8217;ll like as a pinhead.
+The journey from how VPCabs started to it&#8217;s success on Shark Tank is a great story, and Brad tells it well.</p>
+</div>
+<div class="paragraph">
+<p>Let us know what you think.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/virtual-pinball-for-real-or-vpcabs-interview-19733">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://twitter.com/blahcade">@BlahCade on Twitter</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">BlahCade on Blab.im (Live Session Recordings)</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Introduction - 0:30</p>
+</li>
+<li>
+<p>Chris Purchased a Tesla - 0:40</p>
+</li>
+<li>
+<p>Mason Crashes the Podcast - 1:10</p>
+</li>
+<li>
+<p>Brad Baker Talks VPCabs - 4:30</p>
+<div class="ulist">
+<ul>
+<li>
+<p>How VPCabs Started - 5:10</p>
+</li>
+<li>
+<p>What Prompted Different Size Cabs? - 8:05</p>
+</li>
+<li>
+<p>Why go with custom size Cabs? - 8:40</p>
+</li>
+<li>
+<p>Is the DMD Gas Plasma or LED? - 10:15</p>
+</li>
+<li>
+<p>How did pitching on Shark Tank happen? - 11:10</p>
+</li>
+<li>
+<p>How nerve wracking is it to pitch? - 13:05</p>
+</li>
+<li>
+<p>How long did your pitch actually go for? - 13:50</p>
+</li>
+<li>
+<p>How did the Sharks react to your pitch? - 14:55</p>
+</li>
+<li>
+<p>Did some Sharks "get" the idea? - 16:15</p>
+</li>
+<li>
+<p>Ply or Die - 17:50</p>
+</li>
+<li>
+<p>How do you replicate the mechanics of pinball? - 18:30</p>
+</li>
+<li>
+<p>Does the Vertigo model tilt? - 19:15</p>
+</li>
+<li>
+<p>When was the Vertigo conceived? - 20:35</p>
+</li>
+<li>
+<p>Which Shark Did You Partner With? - 21:35</p>
+</li>
+<li>
+<p>How did the Zen Studios partnership come about? - 22:50</p>
+</li>
+<li>
+<p>What happens when new Zen tables are released? - 26:25</p>
+</li>
+<li>
+<p>How does The Pinball Arcade run on the hardware? - 27:45</p>
+</li>
+<li>
+<p>Why Pinball companies should embrace digital pinball. - 29:25</p>
+</li>
+<li>
+<p>The Vertigo DMD and MAME Marquees - 32:10</p>
+</li>
+<li>
+<p>Copping flack from the pinball community for cab size - 33:10</p>
+</li>
+<li>
+<p>How many displays in total in the product? - 34:50</p>
+</li>
+<li>
+<p>Rockin' sound system - 36:50</p>
+</li>
+<li>
+<p>Is 4K or OLED something that is necessary for VPCabs? - 37:45</p>
+</li>
+<li>
+<p>How does VR fit into the VPCabs product suite? - 39:20</p>
+</li>
+<li>
+<p>Trade Show visibility - 42:30</p>
+</li>
+<li>
+<p>Available Down Under (or outside USA)? - 44:00</p>
+</li>
+<li>
+<p>Assembly Time on The Wizard Model - 45:40</p>
+</li>
+<li>
+<p>How do I get one? - 48:15</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Summary - 49:50</p>
+</li>
+<li>
+<p>T-shirts and Social - 51:30</p>
+</li>
+<li>
+<p>Outtro - 57:20</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/05/24/Episode-58-Virtual-Pinball-For-Real-or-V-P-Cabs-Interview.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/05/24/Episode-58-Virtual-Pinball-For-Real-or-V-P-Cabs-Interview.html</guid><category><![CDATA[VPCabs]]></category><category><![CDATA[ Shark_Tank]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 24 May 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 57: Dnyeahh I speak good, or Sharks with Flippers?]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>In this episode, we talk about:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Snorzel&#8217;s Tournament of the Month</p>
+</li>
+<li>
+<p>BlahCade Tourney and Table Stats</p>
+</li>
+<li>
+<p>FarSight Physics Discussion Thread</p>
+</li>
+<li>
+<p>Shark Tank and VPCabs</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>If you are a bit of a tech geek, the Physics discussion will spin your propeller hat.</p>
+</div>
+<div class="paragraph">
+<p>If you dig stats, the TotM table stats discussion will interest you.</p>
+</div>
+<div class="paragraph">
+<p>If you like venture capitalism, you&#8217;ll totally want to seed fund the Shark Tank discussion.</p>
+</div>
+<div class="paragraph">
+<p>And if you want to laugh at Chris mangling words, you&#8217;ll also want to tune in.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/dnyeahh-i-speak-good-or-sharks-with-flippers-19483">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://twitter.com/blahcade">@BlahCade on Twitter</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">BlahCade on Blab.im (Live Session Recordings)</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Introduction - 0:30</p>
+</li>
+<li>
+<p>Eurovision Update - 0:50</p>
+</li>
+<li>
+<p>No new Stern App info - 2:20</p>
+</li>
+<li>
+<p>Snorzel&#8217;s Tournament of the Month - 3:20</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Tourney Dates - 4:20</p>
+</li>
+<li>
+<p>How many tables? - 5:05</p>
+</li>
+<li>
+<p>How scoring works - 5:50</p>
+</li>
+<li>
+<p>What tables? - 6:45</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Tournament of the Month in Review</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Put Up or Shut Up Selections. Why? - 7:25</p>
+</li>
+<li>
+<p>Put Up or Shut Up Historical Choices - 10:30</p>
+</li>
+<li>
+<p>TotM Stats - 15:10</p>
+</li>
+<li>
+<p>Why Bespoke Tourney Software? - 16:35</p>
+</li>
+<li>
+<p>Were brackets something you liked? - 18:30</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p><a href="http://pinballarcadefans.com/showthread.php/11495-Physics-engine-discussion/">Physics Discussion Thread</a> - 19:00</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Why not use Unreal Engine for Physics? - 24:45</p>
+</li>
+<li>
+<p>Could This Open Modder Communities for Tuning? - 26:15</p>
+</li>
+<li>
+<p>Interface for Gas Plasma DMDs - 27:55</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Shark Tank and <a href="http://virtualpinball.com">VPCabs</a> - 29:00</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Pinball FX2 Included - 32:00</p>
+</li>
+<li>
+<p>Zen&#8217;s Clip - 33:20</p>
+</li>
+<li>
+<p>Cab Interface (PinballX) - 34:40</p>
+</li>
+<li>
+<p>Shark&#8217;s Reception - 35:35</p>
+</li>
+<li>
+<p>Demographics - 37:35</p>
+</li>
+<li>
+<p>Pinball Arcade on VPCabs? - 41:25</p>
+</li>
+<li>
+<p>All Zen Tables Included - 43:15</p>
+</li>
+<li>
+<p>Aside: FarSight New UI vs Zen UI, and Cabinet Play - 43:50</p>
+</li>
+<li>
+<p>Oculus Rig Possibilities? - 46:45</p>
+</li>
+<li>
+<p>System Specification - 47:40</p>
+</li>
+<li>
+<p>Coin Door, But No Mechs - 49:20</p>
+</li>
+<li>
+<p>Vertigo Pin and MAME Cabinet - 50:45</p>
+</li>
+<li>
+<p>Classic (Pro) Version - 51:30</p>
+</li>
+<li>
+<p>Mini (Safe Cracker) Version - 52:45</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Plug for Pinball Supernova - 54:15</p>
+</li>
+<li>
+<p>Tina Fey&#8217;s <em>Whiskey Tango Foxtrot</em> Movie - 54:40</p>
+</li>
+<li>
+<p>Rant: Why Aussies Torrent Movies - 55:40</p>
+</li>
+<li>
+<p>T-shirt Reminder - 57:00</p>
+</li>
+<li>
+<p>Outtro - 57:20</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/05/17/Episode-57-Dnyeahh-I-speak-good-or-Sharks-with-Flippers.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/05/17/Episode-57-Dnyeahh-I-speak-good-or-Sharks-with-Flippers.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[ FarSight]]></category><category><![CDATA[ Zen]]></category><category><![CDATA[ Physics]]></category><category><![CDATA[ VPCabs]]></category><category><![CDATA[ PinballX]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 17 May 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 56: Stern Pinball App, or Rollercoaster Kickstarter?]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>In this episode, we talk about:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Waffles.</p>
+</li>
+<li>
+<p>Stern Pinball App.</p>
+</li>
+<li>
+<p>The Rise, Fall, and Phoenix of the AC/DC Kickstarter.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>While that sounds somewhat terse in topics, you&#8217;ll find out that this nearly 1hr show is far from lacking in Pinball talk.</p>
+</div>
+<div class="paragraph">
+<p>To those of you who asked for talk of this nature, prepare your ears!</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/stern-pinball-app-or-rollercoaster-kickstarter-19139">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://twitter.com/blahcade">@BlahCade on Twitter</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">BlahCade on Blab.im (Live Session Recordings)</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Introduction - 0:30</p>
+</li>
+<li>
+<p>Mother&#8217;s Day, Waffles at IHOP, and Dicey Internet - 0:35</p>
+</li>
+<li>
+<p>Why we do weekly podcasts - 7:05</p>
+</li>
+<li>
+<p>Stern Pinball Arcade App Details Revealed - 8:45</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Original Press Release - 9:15</p>
+</li>
+<li>
+<p>Why Emulation is Challenging - 9:50</p>
+</li>
+<li>
+<p>Graphics Tuning per platform - 19:10</p>
+</li>
+<li>
+<p>Minimum OS Version for Android - 20:05</p>
+</li>
+<li>
+<p>VR on Android! - 21:50</p>
+</li>
+<li>
+<p>VR on iOS? - 23:45</p>
+</li>
+<li>
+<p><em>Pinball</em> Physics 4.0 - 24:30</p>
+</li>
+<li>
+<p>Launch Tables - 27:05</p>
+</li>
+<li>
+<p>Pricing - 27:25</p>
+</li>
+<li>
+<p>Release cadence - 28:35</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>AC/DC Kickstarter</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Mixed Messages in Communication - 30:50</p>
+</li>
+<li>
+<p>BlahCade Communication Tips - 32:00</p>
+</li>
+<li>
+<p>Digital Licensing - 32:55</p>
+</li>
+<li>
+<p>Doing AC/DC before Metallica - 33:30</p>
+</li>
+<li>
+<p>Table tier is "pre-order" - 34:35</p>
+</li>
+<li>
+<p>AC/DC Brings the Boys to the Yard - 35:50</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Kickstarter <strong>Cancelled</strong>? - 37:25</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Stern pulls all tweets about Kickstarter - 38:45</p>
+</li>
+<li>
+<p>The agonising wait for an announcement - 39:35</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Kickstarter <strong>Fully Funded</strong>! - 41:00</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Who is the mystery angel investor? - 42:10</p>
+</li>
+<li>
+<p>What is the motivation? - 42:40</p>
+</li>
+<li>
+<p>What does Launch Table actually mean? - 44:00</p>
+</li>
+<li>
+<p>From IRL table launch to digital table release? - 46:20</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Inks on iOS - 50:25</p>
+</li>
+<li>
+<p>Suggestion for spending Kickstarter "savings" on - 52:10</p>
+</li>
+<li>
+<p>Outtro - 53:25</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/05/09/Episode-56-Stern-Pinball-App-or-Rollercoaster-Kickstarter.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/05/09/Episode-56-Stern-Pinball-App-or-Rollercoaster-Kickstarter.html</guid><category><![CDATA[Kickstarter]]></category><category><![CDATA[ Stern]]></category><category><![CDATA[ SPA]]></category><category><![CDATA[ Emulation]]></category><category><![CDATA[ Snacks]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 09 May 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 55: Education is Important, But Pinball is Importanter]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>In this episode, we talk about:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Aliens vs Pinball from Zen</p>
+</li>
+<li>
+<p>Hankin Pinball&#8217;s <em>Empire Strikes Back</em> Field Trip</p>
+</li>
+<li>
+<p>The future of BlahCade&#8217;s Tourney of the Month.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>We just missed the huge announcement from FarSight about the Kickstarter for Stern Pinball Arcade, and Acca Dacca (AC/DC) pinball, so stay tuned for that next week.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/education-is-important-but-pinball-is-importanter-18936">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://twitter.com/blahcade">@BlahCade on Twitter</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">BlahCade on Blab.im (Live Session Recordings)</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Introduction - 0:30</p>
+</li>
+<li>
+<p>Chris' HP Printer Woes - 1:00</p>
+</li>
+<li>
+<p>Fax Machine? Really? - 9:45</p>
+</li>
+<li>
+<p>Overall Take on <em>Aliens vs Pinball</em> - 10:40</p>
+<div class="ulist">
+<ul>
+<li>
+<p><em>Aliens vs Pinball</em> Voice Acting - 14:30</p>
+</li>
+<li>
+<p><em>Aliens vs Predator</em> Movie Watching - 15:00</p>
+</li>
+<li>
+<p><em>AvP</em> Heat Mode is Awesome - 17:00</p>
+</li>
+<li>
+<p><em>Aliens: Isolation</em> Has Tough Shots - 18:00</p>
+</li>
+<li>
+<p>Audio Feedback for <em>Aliens</em> Table - 18:40</p>
+</li>
+<li>
+<p>Integrating Rollover Lanes into Gameplay - 19:50</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Zen Tables on Sale - 21:20</p>
+</li>
+<li>
+<p><em>Civil War</em> Story Update for the Movie? - 22:40</p>
+</li>
+<li>
+<p>Hankin Empire Strikes Back House Visit - 25:55</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Aside: Double Danger Pinball Merch - 28:00</p>
+</li>
+<li>
+<p>Component Condition - 29:25</p>
+</li>
+<li>
+<p>Playfield Condition - 31:15</p>
+</li>
+<li>
+<p>Mike from HomePin and Hankin Boards - 33:35</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>The Future of BlahCade TotM - 36:30</p>
+</li>
+<li>
+<p>Jared and Chris' Tourney Games - 39:50</p>
+</li>
+<li>
+<p>Thank you for Playing Tourney of the Month - 48:45</p>
+</li>
+<li>
+<p>Outtro - 50:30</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/05/03/Episode-55-Education-is-Important-But-Pinball-is-Importanter.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/05/03/Episode-55-Education-is-Important-But-Pinball-is-Importanter.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[ TotM]]></category><category><![CDATA[ Tourney]]></category><category><![CDATA[ Aliens]]></category><category><![CDATA[ Predator]]></category><category><![CDATA[ Hankin]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 03 May 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Tantalising Dr Who:Regenerated Story Reveal for Kickstarter Backers]]></title><description><![CDATA[<div class="paragraph">
+<p>In their latest <a href="https://www.kickstarter.com/projects/1067367405/pinball-arcade-doctor-who/posts/1557680">Kickstarter update</a>, FarSight Studios have revealed the basic story they want to tell with their Dr Who: Regenerated table.</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p><strong>We&#8217;ve been working hard on the Regenerated version of of the Doctor Who Pinball table. Here is a little sneak peek into the regenerated story line. More updates to come!</strong></p>
+</div>
+<div class="paragraph">
+<p>The Doctor’s existence is fading… and only you can save him!</p>
+</div>
+<div class="paragraph">
+<p>After reshaping the events of the Time War, paradoxical fissures have created a causal nexus by ripping the very fabric of the space and time. Taking advantage of these anomalies, the Doctor’s most devious adversaries have entered these tears in an effort to defeat him across various points in his life.</p>
+</div>
+<div class="paragraph">
+<p>Like a big ball of wibbly-wobbly, timey-wimey stuff&#8230;&#8203;</p>
+</div>
+<div class="paragraph">
+<p>As his newest companion, you can relive all the best moments from the Doctor’s most recent incarnations and adventures.</p>
+</div>
+<div class="paragraph">
+<p>Revisit old friends. Battle against terrifying villains and monsters. Save the universe with attack eyebrows.</p>
+</div>
+<div class="paragraph">
+<p>Come on pudding brains, what are you waiting for?</p>
+</div>
+</blockquote>
+<div class="attribution">
+&#8212; FarSight Studios
+</div>
+</div>
+<div class="paragraph">
+<p>You&#8217;ll remember from <a href="http://blahcadepinball.com/2016/02/09/Episode-45-Timey-Wimey-Farsight-Chat.html">our chat with Mike Lindsay</a> that the BBC was working very closely with FarSight and giving them an unusually high level of creative license with what they could do with the re-theme.</p>
+</div>
+<div class="paragraph">
+<p>Will FarSight keep the seven existing Doctor slots in the ROM for the story points, or expand the stories for a deeper story?</p>
+</div>
+<div class="paragraph">
+<p>How will the existing time expander mechanism be used to integrate the stories together?</p>
+</div>
+<div class="paragraph">
+<p>Will the geometary of the table change to fit the new story points?</p>
+</div>
+<div class="paragraph">
+<p>It might be time for us to probe Mike for some questions again.</p>
+</div>]]></description><link>http://blahcadepinball.com/2016/04/26/Tantalising-Dr-Who-Regenerated-Story-Reveal-for-Kickstarter-Backers.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/04/26/Tantalising-Dr-Who-Regenerated-Story-Reveal-for-Kickstarter-Backers.html</guid><category><![CDATA[FarSight]]></category><category><![CDATA[ Dr_Who]]></category><category><![CDATA[ Kickstarter]]></category><category><![CDATA[ Articles]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 26 Apr 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 54: Blabbing into the Ether]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>In this episode:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Zen and <em>Aliens vs Pinball</em> pack review by Chris.</p>
+</li>
+<li>
+<p>Bringing the pinball truck costs closer to reality.</p>
+</li>
+<li>
+<p>Playing pinball with headphones.</p>
+</li>
+<li>
+<p>Brisbane Pinball Club 2015 Final Talk.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>We didn&#8217;t slack off and not record last week: <a href="https://blab.im" class="bare">https://blab.im</a> didn&#8217;t furnish us with our audio recording like they usually do so that episode can be viewed on the blab site if you&#8217;re interested.</p>
+</div>
+<div class="paragraph">
+<p>There is a over-abundance of pinball pontification in this episode.
+So strap on a pair (of headphones) and prepare your ears for a bumper BlahCade.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/blabbing-into-the-ether-18692">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://twitter.com/blahcade">@BlahCade on Twitter</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">BlahCade on Blab.im (Live Session Recordings)</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Introduction - 0:30</p>
+</li>
+<li>
+<p>Pinball Truck Costings - 2:30</p>
+</li>
+<li>
+<p>Location Pinball Chat - 10:35</p>
+</li>
+<li>
+<p>Brisbane Pinball Club Final at WOKA&#8217;s Place - 11:45</p>
+</li>
+<li>
+<p>Collector&#8217;s Common Tables - 15:00</p>
+</li>
+<li>
+<p>Using Tables as Commodities - 16:00</p>
+</li>
+<li>
+<p>Final Tourney Standings - 17:00</p>
+</li>
+<li>
+<p>Last Action Hero w/ Festered Audio - 18:30</p>
+</li>
+<li>
+<p>Wii U Pinball Arcade w/o DMD on Controller - 23:50</p>
+</li>
+<li>
+<p>Alien vs Pinball In-depth Review - 30:00</p>
+</li>
+<li>
+<p>AvP Review Summary - 49:00</p>
+</li>
+<li>
+<p>Wizard of Oz "Land Down Under LE" Headphones Play - 49:40</p>
+</li>
+<li>
+<p>Social Network Reminders - 51:40</p>
+</li>
+<li>
+<p>Outtro - 49:00</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/04/26/Episode-54-Blabbing-into-the-Ether.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/04/26/Episode-54-Blabbing-into-the-Ether.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ Tourney]]></category><category><![CDATA[ Aliens]]></category><category><![CDATA[ Predator]]></category><category><![CDATA[ BrisPinClub]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 26 Apr 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Zen Studios Drops a Teaser Trailer For Alien: Isolation]]></title><description><![CDATA[<div class="paragraph">
+<p>As the date for <em>Alien Day</em> on the 26th April fast approaches, Zen Studios drops a pretty shiny looking teaser video for their <em>Alien: Isolation</em> pinball table.</p>
+</div>
+<div class="videoblock">
+<div class="content">
+<iframe src="https://www.youtube.com/embed/12VvS9EE0sc?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+<div class="paragraph">
+<p>The usual Zen spit 'n' polish is definitely evident in this release.
+Lots of animated characters from the show jumping around and being attacked by Xenomorphs.</p>
+</div>
+<div class="paragraph">
+<p>There appears to be a focus on pop-up Xenomorph targets in this collection of tables, as this table features targets that spin on the table.
+Reminds us of the Cactus Canyon drops.</p>
+</div>
+<div class="paragraph">
+<p>Can&#8217;t wait to get flipping this collection.</p>
+</div>]]></description><link>http://blahcadepinball.com/2016/04/20/Zen-Studios-Drops-a-Teaser-Trailer-For-Alien-Isolation.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/04/20/Zen-Studios-Drops-a-Teaser-Trailer-For-Alien-Isolation.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[ Aliens]]></category><category><![CDATA[ Blog]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 20 Apr 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 53: Drop a Rotary In It]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>We cover pinball:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>in the news.</p>
+</li>
+<li>
+<p>in Japan.</p>
+</li>
+<li>
+<p>in a truck.</p>
+</li>
+<li>
+<p>in 2000.</p>
+</li>
+<li>
+<p>as a redemption device.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>After the tantalizing teaser of Aliens vs Pinball from Zen, we&#8217;re left a bit lost for words.
+Well, not really. We&#8217;re <strong>never</strong> lost for words here at the BlahCade Podcast. :D</p>
+</div>
+<div class="paragraph">
+<p>Enjoy, and let us know what you think.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/drop-a-rotary-in-it-18258">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://twitter.com/blahcade">@BlahCade on Twitter</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">BlahCade on Blab.im (Live Session Recordings)</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Introduction - 0:30</p>
+</li>
+<li>
+<p>Sportsball - 0:45</p>
+</li>
+<li>
+<p>Chris' Car Engine Woes - 3:05</p>
+</li>
+<li>
+<p>Buying (pins) and Selling (cars) on Craig&#8217;s List - 8:30</p>
+</li>
+<li>
+<p>Pinball 2000 is <em>not</em> VR (<a href="https://versions.killscreen.com/can-pinball-ever-trust-vr-again/">Killscreen Article</a>) - 11:30</p>
+</li>
+<li>
+<p>Pinball in Japan - 20:40</p>
+</li>
+<li>
+<p>Pinball as Redemption Equipment - 21:30</p>
+</li>
+<li>
+<p>Ideas for Running a Pinball Arcade Today - 25:25</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Pinball Trucks - 28:10</p>
+</li>
+<li>
+<p>PayRange as a Swiper System - 30:25</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>TotW is JunkYard - 33:55</p>
+</li>
+<li>
+<p>Want to Host Your Own TotM? - 34:50</p>
+</li>
+<li>
+<p>FarSight Should Enable Bespoke Tourneys! - 36:45</p>
+</li>
+<li>
+<p>Zen VR Future Project Chatter - 39:00</p>
+</li>
+<li>
+<p>Can Farsight Compete with Zen? - 39:30</p>
+</li>
+<li>
+<p>Is PC <em>the</em> Platform for Pinball? - 41:15</p>
+</li>
+<li>
+<p>Got a T-Shirt Yet? - 45:20</p>
+</li>
+<li>
+<p>Boutique Burger Menu Hacks - 46:10</p>
+</li>
+<li>
+<p>Buy 1 Get 2 Free - 47:40</p>
+</li>
+<li>
+<p>Outtro - 49:00</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/04/15/Episode-53-Drop-a-Rotary-In-It.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/04/15/Episode-53-Drop-a-Rotary-In-It.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[ VR]]></category><category><![CDATA[ Oculus]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ Tech]]></category><category><![CDATA[ Shirts]]></category><category><![CDATA[ PC]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Fri, 15 Apr 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 52: Zen Studios Easter Mic Drop]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Zen Studios comes out swinging over the Easter BlahCade Hiatus with a huge announcement!
+Everything from the new Zen Studios <em>Aliens vs Pinball</em> teaser is discussed and speculated on in depth, to how to get the most out of TPA and Zen with wireless and wired controllers.</p>
+</div>
+<div class="paragraph">
+<p>With all the action over Easter, who knows what next week&#8217;s episode will bring.</p>
+</div>
+<div class="paragraph">
+<p>Will we see a teaser release of the Zen AvP trailer? Will FarSight reveal something in their playbook?
+Rest assured we&#8217;ll cover it here if they do.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/zen-studios-easter-mic-drop-17837">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Introduction - 0:45</p>
+</li>
+<li>
+<p>On Stop Motion Techniques - 6:48</p>
+</li>
+<li>
+<p>Zen <em>Aliens vs Pinball</em> Release - 8:20</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Zen Post - <a href="https://blog.zenstudios.com/?p=6209" class="bare">https://blog.zenstudios.com/?p=6209</a></p>
+</li>
+<li>
+<p>National Aliens Day Release?</p>
+</li>
+<li>
+<p>Three Table Speculation.</p>
+</li>
+<li>
+<p>How Will the Modes Be Structured?</p>
+</li>
+<li>
+<p>Chest Burster Shock Modes?</p>
+</li>
+<li>
+<p>Playfield Mechanism Speculation.</p>
+</li>
+<li>
+<p>Bring On the Zen Fantasy With This Pack.</p>
+</li>
+<li>
+<p>Will Quotes Still Have Meaning Without Swearies.</p>
+</li>
+<li>
+<p>Motion Tracker Mode - Aww Yeah!</p>
+</li>
+<li>
+<p>Fox Interactive and Movie Licensing</p>
+</li>
+<li>
+<p>How Sound Will Pay a Crucial Part in this Pack</p>
+</li>
+<li>
+<p>Die Hard on the Cards with Fox Licenses?</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Occulus Rift and Pinball</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Oculus Zen Pinball VR Pinball Controller (<a href="http://www.tested.com/tech/gaming/566809-oculus-rift-virtual-pinball-cabinet-mod/">Tested.com</a>) - 25:08</p>
+</li>
+<li>
+<p>Virtual Pin vs Oculus</p>
+</li>
+<li>
+<p>Is Zen justified in charging again for this title?</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>About Catering For New Tech in Games, or <em>The 1%</em> - 30:50</p>
+</li>
+<li>
+<p>Tesla Pre-sale - 32:44</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Disturbing Charging Snake is Disturbing - 35:30</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Zen vs TPA Next Gen Console Upgrade Experience - 36:10</p>
+</li>
+<li>
+<p>Controllers for PC Pinball - 37:40</p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://ds4windows.com" class="bare">http://ds4windows.com</a> for PS4 to PC Mapping - 41:18</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Rumble Fixed</p>
+</li>
+<li>
+<p>Swap Tilt Sticks</p>
+</li>
+<li>
+<p>SixAxis for Nudging</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>SixAxis Controller App for Android - 44:00</p>
+</li>
+<li>
+<p>TShirt and Website Plug - 46:40</p>
+</li>
+<li>
+<p>TotW is JackBot - 48:15</p>
+</li>
+<li>
+<p>Outtro - 49:20</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/04/05/Episode-52-Zen-Studios-Easter-Mic-Drop.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/04/05/Episode-52-Zen-Studios-Easter-Mic-Drop.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[ Aliens]]></category><category><![CDATA[ Predator]]></category><category><![CDATA[ VR]]></category><category><![CDATA[ Oculus]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ Tech]]></category><category><![CDATA[ Shirts]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 05 Apr 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 51: It's 10 Inches Man: It Fits Through the Hole]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Slurpees, early solid state flipper tech tips, Ghostbusters Pro, Rescue 911 thoughts, and other topics abound in this mixed bag episode.</p>
+</div>
+<div class="paragraph">
+<p>We&#8217;ll be taking a podcast break over Easter so we&#8217;ll see you in two weeks with a bumper episode.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/its-10-inches-man-it-fits-through-the-hole-17325">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Introduction - 0:45</p>
+</li>
+<li>
+<p>7-11 BYO Cup Days - 1:00</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Chris Med Alert - 5:15</p>
+</li>
+<li>
+<p>Bob Dyln? (Heretic) - 7:25</p>
+</li>
+<li>
+<p>Other Notable BYO Cup Day Vessels - 9:25</p>
+</li>
+<li>
+<p>Multi-spigot, Single Flavour, Maximum Frozen - 10:55</p>
+</li>
+<li>
+<p>Mixing Flavour Woes - 11:55</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Tournament Tech Talk - 13:10</p>
+</li>
+<li>
+<p>Fixing Early Solid State Flipper Strength - 14:10</p>
+</li>
+<li>
+<p>Free Gold Watch Firepower Vector Art Playfield Decals - 20:30</p>
+</li>
+<li>
+<p>Dead Flip <em>Ghostbusters Pro</em> Stream Thoughts - 21:00</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Trudeau Drain Monster</p>
+</li>
+<li>
+<p>Ladder Modes</p>
+</li>
+<li>
+<p><em>Americas' Most Haunted</em> Ladder Comparison</p>
+</li>
+<li>
+<p><em>Road Show</em> Ladder Modes (AKA doing it right)</p>
+</li>
+<li>
+<p>Slimer Toy Action</p>
+</li>
+<li>
+<p>Half-baked Video Mode</p>
+</li>
+<li>
+<p>Great Video Modes: <em>William&#8217;s Indy Jones</em></p>
+</li>
+<li>
+<p>Chris Doesn&#8217;t Like to Watch.</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Next Table: <em>Rescue 911</em> - 35:35</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Heli Arc Issues</p>
+</li>
+<li>
+<p>Minor Graphical Tweaks</p>
+</li>
+<li>
+<p>Drop the Ball Into Where, Exactly?</p>
+</li>
+<li>
+<p>Many Modes To Do.</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Stern&#8217;s Data East Heritage - 40:25</p>
+</li>
+<li>
+<p>Opinions on Spooky Pinball&#8217;s Offerings - 43:00</p>
+</li>
+<li>
+<p><em>Full Throttle</em> and <em>Aliens</em> Opinions - 44:30</p>
+</li>
+<li>
+<p>P3 Platform Opinions - 45:20</p>
+</li>
+<li>
+<p>Jared Picks TotW, and Easter Tourney - 46:30</p>
+</li>
+<li>
+<p>Australian BlahCade Shirts Bulk Buy - 49:15</p>
+</li>
+<li>
+<p>No Podcast on Easter Monday - 50:25</p>
+</li>
+<li>
+<p>Outtro - 49:00</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/03/23/Episode-51-Its-10-Inches-Man-It-Fits-Through-the-Hole.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/03/23/Episode-51-Its-10-Inches-Man-It-Fits-Through-the-Hole.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ Ghostbusters]]></category><category><![CDATA[ Rescue_911]]></category><category><![CDATA[ Tech]]></category><category><![CDATA[ Shirts]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 23 Mar 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 50: Is Virtual Reality the Pinnacle of Pinball?]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="admonitionblock warning">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-warning" title="Warning"></i>
+</td>
+<td class="content">
+Mild coarse language in this episode.
+</td>
+</tr>
+</table>
+</div>
+<div class="paragraph">
+<p>It&#8217;s all about VR and Pinball in this episode.</p>
+</div>
+<div class="paragraph">
+<p>Stern&#8217;s new Ghostbusters table is discussed at length, then we move into the exciting new world of Virtual Reality and Pinball with Zen Pinbal FX2 VR.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/is-virtual-reality-the-pinnacle-of-pinball-17087">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Introduction - 0:45</p>
+</li>
+<li>
+<p>Footnotes about Game and Movie crossovers - 3:10</p>
+</li>
+<li>
+<p>7-11 BYO Cup Day - 8:20</p>
+</li>
+<li>
+<p>Hungry Jacks Peak Hour - 11:00</p>
+</li>
+<li>
+<p>Stern Ghostbusters - 12:15</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Art style</p>
+</li>
+<li>
+<p>Laser-cut side-rails</p>
+</li>
+<li>
+<p>Ecto Goggles</p>
+</li>
+<li>
+<p>Shout-out to Nate Shivers</p>
+</li>
+<li>
+<p>Ghost Slingshot Tech Talk - 16:00</p>
+</li>
+<li>
+<p>Where can I watch gameplay? - 20:00</p>
+</li>
+<li>
+<p>Subway Lock - 20:50</p>
+</li>
+<li>
+<p>Pro vs Premium Disparity - 22:10</p>
+</li>
+<li>
+<p>Zen-like features - 23:10</p>
+</li>
+<li>
+<p>Pro feature disparity RAGE (and language) by Jared - 25:00</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Zen Pinball FX2 VR - 27:35</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Is VR needed for pinball?</p>
+</li>
+<li>
+<p>Repurchase required - 30:10</p>
+</li>
+<li>
+<p>FX2 VR for Mobile?</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Gear VR</p>
+<div class="ulist">
+<ul>
+<li>
+<p>and Rollercoasters - 32:50</p>
+</li>
+<li>
+<p>FarSight&#8217;s VR Offering, and Market Expectations - 37:00</p>
+</li>
+<li>
+<p>Oculus vs Vive vs Sony VR - 38:40</p>
+</li>
+<li>
+<p>Head straps and Google Cardboard - 40:00</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>2016: The Pinnacle for Digital Pinball? - 44:00</p>
+</li>
+<li>
+<p>Jared called it: June 2016 for Stern Pinball momentum</p>
+</li>
+<li>
+<p>$30 for Premium/LE Stern App tables? - 45:40</p>
+</li>
+<li>
+<p>Brisbane Tourney and General Pinball Action - 46:30</p>
+</li>
+<li>
+<p>Twitter Reminder - 48:00</p>
+</li>
+<li>
+<p>Outro - 49:00</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/03/16/Episode-50-Is-Virtual-Reality-the-Pinnacle-of-Pinball.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/03/16/Episode-50-Is-Virtual-Reality-the-Pinnacle-of-Pinball.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ Oculus]]></category><category><![CDATA[ Zen]]></category><category><![CDATA[ Ghostbusters]]></category><category><![CDATA[ 7-11]]></category><category><![CDATA[ Rollercoaster]]></category><category><![CDATA[ VR]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 16 Mar 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 49: Double the Bart]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>It&#8217;s about Pro Mode discoveries, Dr Who: Regenerated, table tear-downs, and some off-topic chat about Tomb Raider and why video games don&#8217;t translate well to the silver screen.</p>
+</div>
+<div class="paragraph">
+<p>Jared does the Blab.io session from North Lakes this time, so expect some audio stutter as he battles with the less than awesome Australian internet.</p>
+</div>
+<div class="paragraph">
+<p>Chris has his regularly-scheduled PC crash which magically vanishes in post-production.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/double-the-bart-16891">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Introduction - 0:45</p>
+</li>
+<li>
+<p>Jared Health Update - 1:00</p>
+</li>
+<li>
+<p>LeRoy Health Update - 4:25</p>
+</li>
+<li>
+<p>Chris' Wife Health Update - 14:30</p>
+</li>
+<li>
+<p>Pro Mode Table Exploration</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Double the Bart! - 15:50</p>
+</li>
+<li>
+<p>Why This Happened - 18:00</p>
+</li>
+<li>
+<p>Aside: Rescue 911 Tear-down Video on YouTube - 18:20</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Norman Cameo</p>
+</li>
+<li>
+<p>How do they remember where everything goes?</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Why Does FarSight Leave This Stuff In? - 20:30</p>
+</li>
+<li>
+<p>Oh Noes: PC Woes - 22:25</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Are Clean Assets Available for Art Passes? - 23:25</p>
+</li>
+<li>
+<p>Fitting Stuff In - 24:55</p>
+</li>
+<li>
+<p>Tomb Raider (Non Pinball) - 26:10</p>
+</li>
+<li>
+<p>Why Games About Movies Don&#8217;t Work - 34:28</p>
+</li>
+<li>
+<p>Self-deprecation and Last Action Hero - 37:28</p>
+</li>
+<li>
+<p>Apply Zen-like Features to the LAH Theme in Pinball - 38:20</p>
+</li>
+<li>
+<p>What Will FarSight&#8217;s Last "Sony" Table Be - 39:20</p>
+</li>
+<li>
+<p>Thoughts on Dr Who: Regenerated - 40:30</p>
+<div class="ulist">
+<ul>
+<li>
+<p>How Ghostbusters Re-skin contributed to Dr Who: Regen</p>
+</li>
+<li>
+<p>How Will FarSight Regenerate the ROM code? - 43:28</p>
+</li>
+<li>
+<p>Can Re-gen be <em>better</em> than the original? - 44:30</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Website Update - 45:00</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Disqus Plug-in</p>
+</li>
+<li>
+<p>How Forum Comms will evolve.</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Nearly 100 Twitter Followers - 47:00</p>
+</li>
+<li>
+<p>T-Shirts Generated Weekly - 47:38</p>
+</li>
+<li>
+<p>Bulk T-Shirt Order for Aussie Listeners? - 48:20</p>
+</li>
+<li>
+<p>Outro - 49:00</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/03/09/Episode-49-Double-the-Bart.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/03/09/Episode-49-Double-the-Bart.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ Cactus]]></category><category><![CDATA[ Pro]]></category><category><![CDATA[ Health]]></category><category><![CDATA[ Dr]]></category><category><![CDATA[ Who]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 09 Mar 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 48: Jarful, Meaty, Prickly, Pinball Discussion]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Because life happens, we are running a bit behind schedule.
+But don&#8217;t worry, because we make up for our tardiness with lots of "meaty" pinball discussion.</p>
+</div>
+<div class="paragraph">
+<p>There&#8217;s bacon banter, cactus conversation, and lighting loquacities.
+Digest it now by downloading it from the links below.</p>
+</div>
+<div class="paragraph">
+<p>We also let you know about the website. That&#8217;s worth a separate paragraph.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/jarful-meaty-prickly-pinball-discussion-16596">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Introduction - 0:45</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Happy Birthday Chris - 1:30</p>
+</li>
+<li>
+<p>Jarrfull (Jaffle) Maker? - 4:30</p>
+</li>
+<li>
+<p>Beers of Australia - 5:50</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Bacon, Bacon, Bacon</p>
+<div class="ulist">
+<ul>
+<li>
+<p>[Ba][Co][N] shirt - 7:00</p>
+</li>
+<li>
+<p>Making Bacon Sexy - 7:45</p>
+</li>
+<li>
+<p>Stern&#8217;s <em>Makin' Bacon</em> - 10:25</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Tournament of the Month (TotM) - 10:55</p>
+</li>
+<li>
+<p>Cactus Canyon Gripes and Suggestions for Improvement - 13:20</p>
+</li>
+<li>
+<p>Dynamic Ambient Lighting Issues/RFEs - 18:00</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Jared Hypothesises Why Ambient Lighting is Strange - 20:20</p>
+</li>
+<li>
+<p>Algorithmic Lighting vs Manually Crafted Lighting? - 21:45</p>
+</li>
+<li>
+<p>Glowing Things That Should/Shouldn&#8217;t Glow - 23:00</p>
+</li>
+<li>
+<p>Ball Playfield Reflection Bug - 24:25</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Ball Shadow Bugs (Android) - 25:30</p>
+</li>
+<li>
+<p>FlippyFloppy Tunes Tables - 26:50</p>
+</li>
+<li>
+<p>BlahCade Website Under Development - 27:10</p>
+</li>
+<li>
+<p>BlahCade Shirt - 30:05</p>
+</li>
+<li>
+<p>Season Six Wants - 31:00</p>
+</li>
+<li>
+<p>Bally Wide Body - 35:20</p>
+</li>
+<li>
+<p>Spoiled for Top 100 Choice - 41:55</p>
+</li>
+<li>
+<p>Outro - 46:45</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/03/03/Episode-48-Jarful-Meaty-Prickly-Pinball-Discussion.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/03/03/Episode-48-Jarful-Meaty-Prickly-Pinball-Discussion.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ Snacks]]></category><category><![CDATA[ Bacon]]></category><category><![CDATA[ Cactus]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Thu, 03 Mar 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 47: Tourney and Three Dee Backroom]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>It&#8217;s BackRoom time!
+Jared talks about his time in the Australian Pinball Championships (that he incorrectly refers to as Australian Pinball Open).</p>
+</div>
+<div class="paragraph">
+<p>We also talk about new tourney options, and have a frank discussion about a wide range of 3D TV and Movie talking points.</p>
+</div>
+<div class="paragraph">
+<p>Perhaps you have some perspectives you&#8217;d like to add to this conversation. Hit us up on Twitter at @blahcade if you do: we&#8217;d love to hear from you.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/tourney-and-three-dee-backroom-16221">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Australian Pinball Championships</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Indy Jones</p>
+</li>
+<li>
+<p>Diner</p>
+</li>
+<li>
+<p>Medieval Madness field faults</p>
+</li>
+<li>
+<p>Dark Knight</p>
+</li>
+<li>
+<p>Iron Man Vault</p>
+</li>
+<li>
+<p>Spiderman Black</p>
+</li>
+<li>
+<p>Genie</p>
+</li>
+<li>
+<p>Cyclone</p>
+</li>
+<li>
+<p>Black Pyramid</p>
+</li>
+<li>
+<p>Meteor</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Tourney of the Month Ideas - 15:30</p>
+</li>
+<li>
+<p>Want to Run a Tourney? - 19:00</p>
+</li>
+<li>
+<p>3D is Dead for TVs - 20:30</p>
+</li>
+<li>
+<p>How does VR fit in? - 21:30</p>
+</li>
+<li>
+<p>Direct Your Own TV - 24:00</p>
+</li>
+<li>
+<p>Hardcore Henry FPS Stuntman - 26:30</p>
+</li>
+<li>
+<p>Multiple actor 360 perspective - 27:50</p>
+</li>
+<li>
+<p>Driver on PS2&#8217;s "Director Mode" - 30:00</p>
+</li>
+<li>
+<p>There&#8217;s 3D and there&#8217;s <strong>3D</strong> - 32:20</p>
+</li>
+<li>
+<p>Prescription 3D Glasses - 40:00</p>
+</li>
+<li>
+<p>Outro - 42:00</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/02/17/Episode-47-Tourney-and-Three-Dee-Backroom.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/02/17/Episode-47-Tourney-and-Three-Dee-Backroom.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[ 3D]]></category><category><![CDATA[ pinball]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 17 Feb 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 46: Kickstart my Heart]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>It&#8217;s all about crowd funding in this BlahCade.</p>
+</div>
+<div class="paragraph">
+<p>We talk Kickstarter, now that the Doctor Who Kickstarter has successfully funded.</p>
+</div>
+<div class="paragraph">
+<p>The Zaccaria Steam Greenlight push has succeeded and now Magic Pixel (formerly A.S.K Homework) are doing an indiegogo campaign to raise some funds for cool PC features.
+We also touch on TPA mobile graphical improvements planned.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/kickstart-my-heart-16144">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Intro</p>
+</li>
+<li>
+<p>Deadpool Box Office Records - 2:15</p>
+</li>
+<li>
+<p>Should Zen update Deadpool? - 3:15</p>
+</li>
+<li>
+<p>Blab Gremilins in #44 - 5:35</p>
+</li>
+<li>
+<p>Faster Internet - 6:55</p>
+</li>
+<li>
+<p>Dr Who Kickstarter Retrospective - 11:15</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Which tier was the lynchpin? - 12:45</p>
+</li>
+<li>
+<p>Want the Wallpaper - 14:00</p>
+</li>
+<li>
+<p>TAF Gold Kickstarter exclusivity - 15:00</p>
+</li>
+<li>
+<p>Use TAF Gold as a funding method - 16:40</p>
+</li>
+<li>
+<p>Historical license pricing - 19:35</p>
+</li>
+<li>
+<p>Is 50K the cost for modern pinball licenses? - 20:20</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Magic Pixel Zaccaria Indiegogo - 22:50</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Steam Greenlight Key if campaign fails - 24:55</p>
+</li>
+<li>
+<p>Pinball Arcade Fans Zaccaria plug - 26:15</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Pinball Arcade mobile graphics improvements - 27:00</p>
+</li>
+<li>
+<p>TotW: Space Shuttle - 27:30</p>
+</li>
+<li>
+<p>The Thing Ball - 33:05</p>
+</li>
+<li>
+<p>Pinball Forum Initialisms - 34:15</p>
+</li>
+<li>
+<p>Initialism Decoder on PAF - 36:00</p>
+</li>
+<li>
+<p>The PAF Moderators - 38:00</p>
+</li>
+<li>
+<p>Outro - 40:00</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/02/15/Episode-46-Kickstart-my-Heart.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/02/15/Episode-46-Kickstart-my-Heart.html</guid><category><![CDATA[Kickstarter]]></category><category><![CDATA[ Dr Who]]></category><category><![CDATA[ Zaccaria]]></category><category><![CDATA[ Magic]]></category><category><![CDATA[ Pixel]]></category><category><![CDATA[ TotW]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 15 Feb 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 45: Timey Wimey Farsight Chat]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>We are joined this week by Mike from FarSight Studios, in the closing days of the Kickstarter.
+Even though the Kickstarter has surpassed the funding goal, there is still time to talk about it.
+Don&#8217;t let this one fester in your podcatcher. Listen now!</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/timey-wimey-farsight-chat-15959">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Intro</p>
+</li>
+<li>
+<p>Superb Owl - 0:45</p>
+</li>
+<li>
+<p>Kickstarter intro - 5:20</p>
+</li>
+<li>
+<p>Starship Troopers TotW - 6:25</p>
+</li>
+<li>
+<p>Kickstarter Q&amp;A - 8:45</p>
+<div class="ulist">
+<ul>
+<li>
+<p>What does your $17 get you?</p>
+</li>
+<li>
+<p>Will there be a Pro mode on DH:R</p>
+</li>
+<li>
+<p>Will there be custom voice?</p>
+</li>
+<li>
+<p>Are there two different ball packs?</p>
+</li>
+<li>
+<p>What does the Beta testing tier get you?</p>
+</li>
+<li>
+<p>What Doctors will make it into DH:R?</p>
+</li>
+<li>
+<p>Will Companions make it into DH:R?</p>
+</li>
+<li>
+<p>What about new DMD dots?</p>
+</li>
+<li>
+<p>Will there be a rule change?</p>
+</li>
+<li>
+<p>Will DH:R be stand-alone?</p>
+</li>
+<li>
+<p>Will it be exclusive to Kickstarter?</p>
+</li>
+<li>
+<p>Why can this table be so heavily modded?</p>
+</li>
+<li>
+<p>Will Ghostbusters be included in TPA?</p>
+</li>
+<li>
+<p>Can you sneak into a booth at Gallifrey One?</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Other Kickstarter News - 18:30</p>
+<div class="ulist">
+<ul>
+<li>
+<p>New tiers</p>
+</li>
+<li>
+<p>How can the community help?</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>About TAF Gold inclusion? - 20:30</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Why can&#8217;t new adopters purchase TAF Gold?</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Converting Scripted SS tables to Emulated - 23:50</p>
+</li>
+<li>
+<p>FarSight Android team is growing - 24:46</p>
+</li>
+<li>
+<p>The challenges of keeping ahead of the curve - 25:30</p>
+</li>
+<li>
+<p>VR Update - 26:00</p>
+</li>
+<li>
+<p>Could FarSight Take a Gap Month - 26:40</p>
+<div class="ulist">
+<ul>
+<li>
+<p>What about a price increase to allow a gap month?</p>
+</li>
+<li>
+<p>Balancing Fan desires vs Casual customers</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Arcade Expo Retrospective</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Mobile graphical improvements - 32:00</p>
+</li>
+<li>
+<p>Game of Thrones - 35:00</p>
+</li>
+<li>
+<p>Toppers, and attracting bystanders - 37:50</p>
+</li>
+<li>
+<p>Banzai Run and Pinball Circus? - 38:30</p>
+</li>
+<li>
+<p>Cactus Canyon Continued - 43:50</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Big Bear Pinball Arcade - 44:55</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Where&#8217;s the cashbox takings going to?</p>
+</li>
+<li>
+<p>Why NIB tables are popular.</p>
+</li>
+<li>
+<p>Locations scouts.</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Lunar Sale on Steam - 50:00</p>
+</li>
+<li>
+<p>Outro - 52:00</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/02/09/Episode-45-Timey-Wimey-Farsight-Chat.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/02/09/Episode-45-Timey-Wimey-Farsight-Chat.html</guid><category><![CDATA[Kickstarter]]></category><category><![CDATA[ Dr]]></category><category><![CDATA[ Who]]></category><category><![CDATA[ BBC]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ Events]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 09 Feb 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 44: Timings on the Mind (TotM)]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>With the BlahCade Tournament of the Month season drawing to a close, it&#8217;s time to put our minds to work on getting a new season started up.
+But we need your help.</p>
+</div>
+<div class="paragraph">
+<p>If you haven&#8217;t already taken a look at the option on the Pinball Arcade Fans poll, let us go through them for you and discuss a few things about them.</p>
+</div>
+<div class="paragraph">
+<p>We also talk about Zen "Season Passes" and talk about the now-released Electro-mechanical tables in The Pinball Arcade.</p>
+</div>
+<div class="paragraph">
+<p>Plenty of pinball again this episode. Enjoy.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/timings-on-the-mind-totm-talk-15775">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Intro</p>
+</li>
+<li>
+<p>Everything in Australia wants to kill you - 0:45</p>
+</li>
+<li>
+<p>Jellyfish Pinball - 4:25</p>
+</li>
+<li>
+<p>The most pop bumpers on a pinball? - 6:25</p>
+</li>
+<li>
+<p>Using the /Q feature on Blab - 7:25</p>
+</li>
+<li>
+<p>TotM Results - 7:55</p>
+</li>
+<li>
+<p>TotM Season Restart - 10:45</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Tourney structure</p>
+</li>
+<li>
+<p>Options to consider</p>
+</li>
+<li>
+<p>Tourney format options - PinPortal?</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Zen Pinball&#8217;s "Season Passes" - 23:35</p>
+</li>
+<li>
+<p>New GI FX in El Dorado EM - 25:45</p>
+</li>
+<li>
+<p>EM vs SS El Dorado Behaviour - 28:55</p>
+</li>
+<li>
+<p>Fireball Physics Foibles - 30:20</p>
+</li>
+<li>
+<p>Tuning for the Fireball Skill Shot - 31:35</p>
+</li>
+<li>
+<p>Plunger Behaviour with Analog Sticks - 33:00</p>
+</li>
+<li>
+<p>Sound Effects and EMs - 36:00</p>
+</li>
+<li>
+<p>Pro Pinball price point - 37:35</p>
+<div class="ulist">
+<ul>
+<li>
+<p>99c, or it&#8217;s too much?</p>
+</li>
+<li>
+<p>Franchise familiarity makes it OK?</p>
+</li>
+<li>
+<p>Pre-rendering adds to the cost.</p>
+</li>
+<li>
+<p>Cost disparity between mobile and steam.</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Outro - 47:00</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/02/01/Episode-44-Timings-on-the-Mind-Tot-M.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/02/01/Episode-44-Timings-on-the-Mind-Tot-M.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[ Pinball]]></category><category><![CDATA[ TPA]]></category><category><![CDATA[ Controller]]></category><category><![CDATA[ Pro]]></category><category><![CDATA[ Pinball]]></category><category><![CDATA[ EMs]]></category><category><![CDATA[ TotM]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 01 Feb 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 43: What a Mother Bucker]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Here is a rather pinbally BackRoom.</p>
+</div>
+<div class="paragraph">
+<p>We have a dig at some of the seemingly recurring themes that are emerging on the Forum and the Kickstarter zeitgeist.
+When re-listening to the podcast, it was clear that while some of the Kickstarter suggestions are perhaps a bit misguided, they all have one goal in mind: to have the kickstarter succeed.</p>
+</div>
+<div class="paragraph">
+<p>And that is worth discussing.
+So keep thinking of ideas, and keep on being passionate.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/backroom-what-a-mother-bucker-15650">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Silly Complaints Department - 0:00</p>
+<div class="ulist">
+<ul>
+<li>
+<p>EM Haters!</p>
+</li>
+<li>
+<p>"Wouldn&#8217;t Buy Season Pass Because EMs!"</p>
+</li>
+<li>
+<p>"Won&#8217;t Buy Any Tables Until [Favourite] is Released!"</p>
+</li>
+<li>
+<p>Zen and Leaderboard Hate.</p>
+</li>
+<li>
+<p>"I&#8217;m not going to be a customer any more!"</p>
+</li>
+<li>
+<p>"I want to stick with the old UI"</p>
+</li>
+<li>
+<p>"I can make a better UI in two days"</p>
+</li>
+<li>
+<p>Jared&#8217;s tip about not being a duckhead with developers</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Kickstarter Engagement Discussion - 11:00</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Badgering about "why not this table, waaaaah"</p>
+</li>
+<li>
+<p>TSPP in TPA. Probably not, right?</p>
+</li>
+<li>
+<p>"Rewards are not compelling"</p>
+</li>
+<li>
+<p>"Make us an entitlement table"</p>
+</li>
+<li>
+<p>"Why CafePress for TPA Merch?"</p>
+</li>
+<li>
+<p>"Integration with BBC for Merch"</p>
+</li>
+<li>
+<p>"Farsight relies on community outreach for Kickstarters"</p>
+</li>
+<li>
+<p>Sell the sizzle, not the sausage</p>
+</li>
+<li>
+<p>"Why aren&#8217;t all the modern doctors on the table"</p>
+</li>
+<li>
+<p>Look out Knight: Trolls to fight</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Outro - 21:30</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/01/27/Episode-43-What-a-Mother-Bucker.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/01/27/Episode-43-What-a-Mother-Bucker.html</guid><category><![CDATA[Kickstarter]]></category><category><![CDATA[ Forum]]></category><category><![CDATA[ Dr]]></category><category><![CDATA[ Who]]></category><category><![CDATA[ Zen]]></category><category><![CDATA[ BackRoom]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 27 Jan 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 42: Zen Star Wars Tables]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>There is so much content in this BlahCade that we made the call to split some of it off into a BackRoom episode while recording it.
+That should give you an idea of what to expect.
+If it doesn&#8217;t, then you should expect this episode to contain a motherlode of digital pinball discussion again.</p>
+</div>
+<div class="paragraph">
+<p>We focus on:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Zen Star Wars Ep 8 digital releases (no spoilers)</p>
+</li>
+<li>
+<p>Zen Balls of Glory / Fox Animation tables</p>
+</li>
+<li>
+<p>A.S.K Homework&#8217;s foray into Steam for their Zaccaria product</p>
+</li>
+<li>
+<p>FarSight&#8217;s Dr Who Kickstarter</p>
+</li>
+<li>
+<p>Table of the Week.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>The real meat to the Kickstarter discussion is in the BackRoom, which will land later this week.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/zen-studios-star-wars-tables-15594">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Intro and Sponsors</p>
+</li>
+<li>
+<p>Introductions and Stuff - 0:45</p>
+</li>
+<li>
+<p>Blab.io Reminder - 1:48</p>
+</li>
+<li>
+<p>Comparison Between New Star Wars Tables - 3:30</p>
+<div class="ulist">
+<ul>
+<li>
+<p>The Force Awakens (TFA) vs Might of the First Order (MOTFO)</p>
+</li>
+<li>
+<p>Vacuum Ramps vs Real Life</p>
+</li>
+<li>
+<p>Shots on MOTFO vs TFA</p>
+</li>
+<li>
+<p>MOTFO Upper and Lower Playfield Mind Fracking</p>
+</li>
+<li>
+<p>Spelling Tables vs Shots Tables</p>
+</li>
+<li>
+<p>Issues with in-game guidance</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Zen Custom Call-outs and DMD Tweaks Suggestions - 15:40</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Custom shot callouts are so needed.</p>
+</li>
+<li>
+<p>DMD graphics and text clashes.</p>
+</li>
+<li>
+<p>DMD instructions vs table visual queues.</p>
+</li>
+<li>
+<p>Bally/Williams/Stern in-game UX vs Zen UX</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>TFA and Mode Progression - 19:00</p>
+<div class="ulist">
+<ul>
+<li>
+<p>TFA&#8217;s 12 Modes.</p>
+</li>
+<li>
+<p>Center hole hard to shoot?</p>
+</li>
+<li>
+<p>Millenium Falcon modes add variety.</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Zen Fox Entertainment/Balls of Glory - 22:30</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Branding differences on Steam vs Mobile</p>
+</li>
+<li>
+<p>Navigation differences between Steam vs Mobile</p>
+</li>
+<li>
+<p>Archer: The Yelling Table</p>
+</li>
+<li>
+<p>Archer: Spell the words table gets old</p>
+</li>
+<li>
+<p>Making the franchise accessible for non-fans</p>
+</li>
+<li>
+<p>Archer: Cool toys!</p>
+</li>
+<li>
+<p>Archer: Quote authenticity vs usability</p>
+</li>
+<li>
+<p>Archer Whitewood?</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>BlahCade on the Zen Press list - 31:48</p>
+</li>
+<li>
+<p>A.S.K Steam Greenlight Push - 32:20</p>
+</li>
+<li>
+<p>Dr Who Kickstarter - 34:20</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Table Reveals? Maybe&#8230;&#8203;</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Speculation Threads Closure Requests - 35:30</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Hard Evidence or no close</p>
+</li>
+<li>
+<p>Reasons why Jared is not a Speculation Thread watcher</p>
+</li>
+<li>
+<p>Closure Rules sticky? Nah&#8230;&#8203;</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>The last TPA TotM - 38:20</p>
+</li>
+<li>
+<p>Outro - 40:00</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/01/25/Episode-42-Zen-Star-Wars-Tables.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/01/25/Episode-42-Zen-Star-Wars-Tables.html</guid><category><![CDATA[Kickstarter]]></category><category><![CDATA[ Forum]]></category><category><![CDATA[ Dr]]></category><category><![CDATA[ Who]]></category><category><![CDATA[ Zen]]></category><category><![CDATA[ Star]]></category><category><![CDATA[ Wars]]></category><category><![CDATA[ Magic]]></category><category><![CDATA[ Pixel]]></category><category><![CDATA[ ASK]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 25 Jan 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 41: Musical Eff Chimes, or Arcade Expo 2016]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>See what happens when we have three weeks off? You get a motherlode of pinball talk!
+Interspersed with other topics that act as a segue into the pinball topics.</p>
+</div>
+<div class="paragraph">
+<p>Excuse the slight audio oddities in this episode, where it sounds like we&#8217;re running over each other all the time.
+We&#8217;re just super excited to be back again talking pinball and stuff.</p>
+</div>
+<div class="paragraph">
+<p>Look out for a BlahCade BackRoom episode later in the week (it&#8217;s one of <em>those</em> episodes).</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/musical-eff-chimes-or-arcade-expo-2016-15411">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Intro and Sponsors</p>
+</li>
+<li>
+<p>Introductions and Stuff - 0:45</p>
+</li>
+<li>
+<p>T-shirts Have Arrived! - 2:35</p>
+</li>
+<li>
+<p>BlahCade at Arcade Expo - 4:50</p>
+</li>
+<li>
+<p>What Should Chris Expect? - 7:00</p>
+</li>
+<li>
+<p>G&#8217;day Nick Baldridge - 8:45</p>
+</li>
+<li>
+<p>Jared&#8217;s Challenge to Chris - 9:50</p>
+</li>
+<li>
+<p>Stern&#8217;s "Tough Times" vs "Vault" - 10:50</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Analog vs Digital - 14:00</p>
+</li>
+<li>
+<p>A note about Film vs Digital - 17:00</p>
+</li>
+<li>
+<p>Resurgence vs Sustainability - 20:00</p>
+</li>
+<li>
+<p>Spooky Sustainability - 23:50</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>You Won&#8217;t Believe Who The Canonical Source of Stern App Info Is - 25:00</p>
+</li>
+<li>
+<p>Occulus Rift Speculation - 28:00</p>
+</li>
+<li>
+<p>Wii-U Delay Speculation - 36:00</p>
+</li>
+<li>
+<p>FarSight at Arcade Expo? - 39:00</p>
+</li>
+<li>
+<p>Dr Who Kickstarter - 40:00</p>
+</li>
+<li>
+<p>Stern Kickstarter? - 41:35</p>
+</li>
+<li>
+<p>Stern App Modus Operandi - 41:50</p>
+</li>
+<li>
+<p>TAF Gold, yo! - 43:25</p>
+</li>
+<li>
+<p>Zen, and the Art of Timing in Pinball - 44:30</p>
+</li>
+<li>
+<p>Zen Table Designers - 46:45</p>
+</li>
+<li>
+<p>Outro - 48:00</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/01/18/Episode-41-Musical-Eff-Chimes-or-Arcade-Expo-2016.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/01/18/Episode-41-Musical-Eff-Chimes-or-Arcade-Expo-2016.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[ Events]]></category><category><![CDATA[ Stern]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 18 Jan 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 40: Christmas Break Summary]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Because we went long last episode (surprise surprise), here is a little bit extra about what we got up to over the Christmas break and how we celebrated.</p>
+</div>
+<div class="paragraph">
+<p>It&#8217;s only 15 minutes, so enjoy.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/christmas-break-summary-15319">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Intro and Sponsors</p>
+</li>
+<li>
+<p>Christmas Shenanigans</p>
+</li>
+<li>
+<p>Outro</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/01/16/Episode-40-Christmas-Break-Summary.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/01/16/Episode-40-Christmas-Break-Summary.html</guid><category><![CDATA[BackRoom]]></category><category><![CDATA[ Christmas]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Sat, 16 Jan 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 39: T-Shirts, Tough Times, and Tie-ins]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>See what happens when we have three weeks off?
+You get a motherlode of pinball talk!
+Interspersed with other topics that act as a segue into the pinball topics.</p>
+</div>
+<div class="paragraph">
+<p>Excuse the slight audio oddities in this episode, where it sounds like we&#8217;re running over each other all the time.
+We&#8217;re just super excited to be back again talking pinball and stuff.</p>
+</div>
+<div class="paragraph">
+<p>Look out for a BlahCade BackRoom episode later in the week (it&#8217;s one of <em>those</em> episodes).</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/tshirts-tough-times-and-tie-ins-15221">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Intro and Sponsors</p>
+</li>
+<li>
+<p>Introductions and Stuff - 0:45</p>
+</li>
+<li>
+<p>T-shirts Have Arrived! - 2:35</p>
+</li>
+<li>
+<p>BlahCade at Arcade Expo - 4:50</p>
+</li>
+<li>
+<p>What Should Chris Expect? - 7:00</p>
+</li>
+<li>
+<p>G&#8217;day Nick Baldridge - 8:45</p>
+</li>
+<li>
+<p>Jared&#8217;s Challenge to Chris - 9:50</p>
+</li>
+<li>
+<p>Stern&#8217;s "Tough Times" vs "Vault" - 10:50</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Analog vs Digital - 14:00</p>
+</li>
+<li>
+<p>A note about Film vs Digital - 17:00</p>
+</li>
+<li>
+<p>Resurgence vs Sustainability - 20:00</p>
+</li>
+<li>
+<p>Spooky Sustainability - 23:50</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>You Won&#8217;t Believe Who The Canonical Source of Stern App Info Is - 25:00</p>
+</li>
+<li>
+<p>Occulus Rift Speculation - 28:00</p>
+</li>
+<li>
+<p>Wii-U Delay Speculation - 36:00</p>
+</li>
+<li>
+<p>FarSight at Arcade Expo? - 39:00</p>
+</li>
+<li>
+<p>Dr Who Kickstarter - 40:00</p>
+</li>
+<li>
+<p>Stern Kickstarter? - 41:35</p>
+</li>
+<li>
+<p>Stern App Modus Operandi - 41:50</p>
+</li>
+<li>
+<p>TAF Gold, yo! - 43:25</p>
+</li>
+<li>
+<p>Zen, and the Art of Timing in Pinball - 44:30</p>
+</li>
+<li>
+<p>Zen Table Designers - 46:45</p>
+</li>
+<li>
+<p>Outro - 48:00</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/01/11/Episode-39-T-Shirts-Tough-Times-and-Tie-ins.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/01/11/Episode-39-T-Shirts-Tough-Times-and-Tie-ins.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[ Events]]></category><category><![CDATA[ Stern]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 11 Jan 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 38: Festivus Frivoloty]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Closing out the year, the last official BlahCade of 2015 is here.</p>
+</div>
+<div class="paragraph">
+<p>We talk about missed opportunities with a concurrent SWEP7 pinball tie-in, we give you a nutty stocking filler, we talk about "fashion", Chris masticates food, and there is actual pin talk as well, so you&#8217;re covered.</p>
+</div>
+<div class="paragraph">
+<p>We even deliver sugar plum fairies. Happy Festivus, and may your sack be full.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/festivus-em-nom-noms-14695">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Intro and Sponsors</p>
+</li>
+<li>
+<p>Introductions and Stuff - 0:35</p>
+</li>
+<li>
+<p>Om nom nom - 2:00</p>
+</li>
+<li>
+<p>T-shirts - 3:00</p>
+</li>
+<li>
+<p>Brisbane Pinball League Swag - 4:20</p>
+</li>
+<li>
+<p>AHS Wrap Gifts - 6:00</p>
+</li>
+<li>
+<p>Sexy Synthesizer Swag - 8:51</p>
+</li>
+<li>
+<p>On Australia and Natural Resources - 9:50</p>
+</li>
+<li>
+<p>Chris Tells Jared How Australian Cars are Made - 10:45</p>
+</li>
+<li>
+<p>Submarine Cars - 12:45</p>
+</li>
+<li>
+<p>Judge Dredd - 15:10</p>
+</li>
+<li>
+<p>TPA Discounts and 12 Days - 20:20</p>
+</li>
+<li>
+<p>EMs Incoming - 21:45</p>
+</li>
+<li>
+<p>Star Wars Screening Etiquette in California - 25:10</p>
+</li>
+<li>
+<p>Star Wars Tie(Fighter)-ins - 35:20</p>
+</li>
+<li>
+<p>Pinball on Google Play - 39:10</p>
+</li>
+<li>
+<p>Some Pro Pinball Commentary - 42:00</p>
+</li>
+<li>
+<p>Table of the Week - 46:30</p>
+</li>
+<li>
+<p>Outro - 48:40</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/01/11/Episode-38-Festivus-Frivoloty.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/01/11/Episode-38-Festivus-Frivoloty.html</guid><category><![CDATA[EM]]></category><category><![CDATA[ Events]]></category><category><![CDATA[ Stern]]></category><category><![CDATA[ Music]]></category><category><![CDATA[ Pro]]></category><category><![CDATA[ Pinball]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 11 Jan 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 37: Now with More Chaps and Rage]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>It&#8217;s a pre-christmas romp in the land of small wheels.
+Yep, we take a less structured approach to this show and let it take us where we want.</p>
+</div>
+<div class="paragraph">
+<p>There&#8217;s an extra long, super-sized rant from Chris about School Christmas pageants but don&#8217;t be put off by that.
+If you are a parent, you&#8217;ll love this segment. And if you&#8217;re not, you&#8217;ll feel the pain we expereince as parents.</p>
+</div>
+<div class="paragraph">
+<p>There is actual pin talk as well, so you&#8217;re covered. Get on it!</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/now-with-more-chaps-and-rage-14593">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Intro and Sponsors</p>
+</li>
+<li>
+<p>Introductions and Stuff - 0:45</p>
+</li>
+<li>
+<p>Farsight Tourney - 8:15</p>
+</li>
+<li>
+<p>TotW: Safe Cracker - 8:45</p>
+</li>
+<li>
+<p>Beta Talk - 10:00</p>
+</li>
+<li>
+<p>Studio North Lakes - 11:30</p>
+</li>
+<li>
+<p>14 Minutes of Rage With Chris - 13:15</p>
+</li>
+<li>
+<p>Jared the Pageant Greenskin - 27:55</p>
+</li>
+<li>
+<p>Stern&#8217;s Next Pin! - 30:45</p>
+</li>
+<li>
+<p>Heighway Pinball and Modular Design - 32:45</p>
+</li>
+<li>
+<p>Motion Picture Industry Procedural Drudgery - 40:00</p>
+</li>
+<li>
+<p>Podcast Plans for Festivus - 51:10</p>
+</li>
+<li>
+<p>Upload Issues Tech Talk - 51:52</p>
+</li>
+<li>
+<p>Outro - 54:00</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2015/12/16/Episode-37-Now-with-More-Chaps-and-Rage.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/12/16/Episode-37-Now-with-More-Chaps-and-Rage.html</guid><category><![CDATA[Pageant]]></category><category><![CDATA[ Heighway]]></category><category><![CDATA[ Pinball]]></category><category><![CDATA[ Film]]></category><category><![CDATA[ Safe]]></category><category><![CDATA[ Cracker]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 16 Dec 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 36: Metadata Mike from Farsight]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>With No Fear going out the door, we wanted to get FarSight back on to talk with us about all things Digital Pinball.</p>
+</div>
+<div class="paragraph">
+<p>As you can see from the show notes, nary a thing is left untouched.
+What was most interesting was to hear about what Mike actually does as Community Manager.</p>
+</div>
+<div class="paragraph">
+<p>So sit down, and enjoy the chat. And buy a T-shirt. C&#8217;mon, you know you want to.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/metadata-mike-from-farsight-14408">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Intro and Sponsors</p>
+</li>
+<li>
+<p>Introductions (Hello Mike from FarSight) - 0:45</p>
+</li>
+<li>
+<p>Will we get a table for December? - 2:10</p>
+</li>
+<li>
+<p>Would a bigger Dev remove release blockers? - 3:45</p>
+</li>
+<li>
+<p>How do you manage all the IRL tables you have? - 5:20</p>
+</li>
+<li>
+<p>What&#8217;s the FS Routed tables revenue going towards? - 6:20</p>
+</li>
+<li>
+<p>Where do you get parts? - 8:00</p>
+</li>
+<li>
+<p>How is 3D printing helping the pinball industry? - 8:20</p>
+</li>
+<li>
+<p>Could delicensing open up other opportunities? - 9:50</p>
+</li>
+<li>
+<p>Table designers using product placements? - 12:30</p>
+</li>
+<li>
+<p>Coming clean about the leaked table list? - 13:55</p>
+</li>
+<li>
+<p>How did you do Goin' Nuts without owning the table? - 15:45</p>
+</li>
+<li>
+<p>RFE: Please fix the DMD window in 3D - 17:00</p>
+</li>
+<li>
+<p>How is the feedback from the UI 2.0 Beta? - 18:20</p>
+</li>
+<li>
+<p>Old UI differences between Android and iOS - 20:20</p>
+</li>
+<li>
+<p>Twelve Days of Christmas Discounts? - 22:20</p>
+</li>
+<li>
+<p>Highlights and lowlights of Community Management - 23:40</p>
+</li>
+<li>
+<p>Metadata is hard. Let&#8217;s go to the mall! - 25:00</p>
+</li>
+<li>
+<p>T-shirts and Merch - 31:40</p>
+</li>
+<li>
+<p>Sponsors and Outtro - 33:50</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2015/12/07/Episode-36-Metadata-Mike-from-Farsight.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/12/07/Episode-36-Metadata-Mike-from-Farsight.html</guid><category><![CDATA[Mike]]></category><category><![CDATA[ Reitmeyer]]></category><category><![CDATA[ FarSight]]></category><category><![CDATA[ Interview]]></category><category><![CDATA[ UI]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 07 Dec 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 35: Dressed to a Tee]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Before we say anything else, we now have an official BlahCade Shirt!
+Visit the link to get one.</p>
+</div>
+<div class="paragraph">
+<p>It&#8217;s a potpourri of pinball topics, TV and movies, next TPA table musings, and T-shirts (did we mention T-shirts!!!).</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/dressed-to-a-tee-14210">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Intro and Sponsors</p>
+</li>
+<li>
+<p>Introductions - 0:45</p>
+</li>
+<li>
+<p>Thanks Giving - 1:00</p>
+</li>
+<li>
+<p>Cyber Monday Sales - 3:20</p>
+</li>
+<li>
+<p>T-shirts for Sale! - 7:20</p>
+</li>
+<li>
+<p>T-shirt Pricing and Portal - 10:00</p>
+</li>
+<li>
+<p>Why T-shirts - 12:36</p>
+</li>
+<li>
+<p>Tournament Results - 13:00</p>
+</li>
+<li>
+<p>Bracketing in TotM? - 17:40</p>
+</li>
+<li>
+<p>Zen Book Club - 18:36</p>
+</li>
+<li>
+<p>Zen Devs and Table Flow - 23:00</p>
+</li>
+<li>
+<p>How to join the Book Club - 24:00</p>
+</li>
+<li>
+<p>Judge Dredd - 25:30</p>
+</li>
+<li>
+<p>No Fear and Licensing - 28:20</p>
+</li>
+<li>
+<p>Rollergames and Custom Audio - 29:20</p>
+</li>
+<li>
+<p>Brunswick Pro Bowling or Big Lebowski - 30:00</p>
+</li>
+<li>
+<p>Lego Dimensions: Gateway Drug to Movie Introductions - 31:00</p>
+</li>
+<li>
+<p>Jared Owns Up to Lack of Portal - 36:20</p>
+</li>
+<li>
+<p>Television Talk: Mid-season Breaks - 38:30</p>
+</li>
+<li>
+<p>Must Watch TV Because Spoilers - 42:00</p>
+</li>
+<li>
+<p>Instant Fix Society. Boo! - 46:00</p>
+</li>
+<li>
+<p>TotW: FunHouse - 48:00</p>
+</li>
+<li>
+<p>Final T-shirt Plug - 49:45</p>
+</li>
+<li>
+<p>Sponsors and Outro - 51:00</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2015/11/30/Episode-35-Dressed-to-a-Tee.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/11/30/Episode-35-Dressed-to-a-Tee.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[ No]]></category><category><![CDATA[ Fear]]></category><category><![CDATA[ TotW]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 30 Nov 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 34: Zen Interview Retrospective]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>We ease into this week’s BlahCade gently with some random talk.
+Then it’s right into the Meat ‘n’ Three Veg of the Zen Interview retrospective.</p>
+</div>
+<div class="paragraph">
+<p>Towards the end we talk about the Table of the Week and Tourney of the Month, and Chris’ wife provides background hilarity to close us out.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/zen-interview-retrospective-14111">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Bump-in and Sponsors</p>
+</li>
+<li>
+<p>Introduction - 0.45</p>
+</li>
+<li>
+<p>Shaved heads and podcast fashion - 1:00</p>
+</li>
+<li>
+<p>Windows 10 upgrade untimeliness - 4:40</p>
+</li>
+<li>
+<p>Chris' Color TV and Pinball - 12:10</p>
+</li>
+<li>
+<p>TPA and Zen 3D Review - 13:00</p>
+</li>
+<li>
+<p>3D and DMD Focal Point - 15:40</p>
+</li>
+<li>
+<p>Input Lag on Zen and TPA Issue - 17:20</p>
+</li>
+<li>
+<p>Lag Resolution - 19:20</p>
+</li>
+<li>
+<p>Zen Interview Retrospective - 21:05</p>
+</li>
+<li>
+<p>Jared Gets Confused With Timelines - 23:00</p>
+</li>
+<li>
+<p>If FarSight Had Zen Pinball&#8217;s Team Size - 24:50</p>
+</li>
+<li>
+<p>Putting the "FX" In Pinball - 26:30</p>
+</li>
+<li>
+<p>Box Episodes, or kicking the Kickstarter - 29:30</p>
+</li>
+<li>
+<p>License Cost Considerations - 31:45</p>
+</li>
+<li>
+<p>Migrating DLC Entitlements - 32:40</p>
+</li>
+<li>
+<p>Loyal Customer are Loyal - 35:35</p>
+</li>
+<li>
+<p>TotM - 38:30</p>
+</li>
+<li>
+<p>Chris' MedMad Castle Lock Tourney Tip - 40:00</p>
+</li>
+<li>
+<p>PBWiz45b' Victory Tourney Tip - 42:40</p>
+</li>
+<li>
+<p>TotW is Xenon (not in tourney) - 44:05</p>
+</li>
+<li>
+<p>Chris' Wife Sends Us Into Hysterics - 44:25</p>
+</li>
+<li>
+<p>Food Talk - 46:45</p>
+</li>
+<li>
+<p>Sponsors and Bump-out</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2015/11/26/Episode-34-Zen-Interview-Retrospective.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/11/26/Episode-34-Zen-Interview-Retrospective.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[ Interview]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ TotM]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Thu, 26 Nov 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 33: Zen, and the Art of Digital Pinball]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>We ease into this week’s BlahCade gently with some random talk.
+Then it’s right into the Meat ‘n’ Three Veg of the Zen Interview retrospective.</p>
+</div>
+<div class="paragraph">
+<p>Towards the end we talk about the Table of the Week and Tourney of the Month, and Chris’ wife provides background hilarity to close us out.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/zen-and-the-art-of-digital-pinball-13958">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Bump In and Ads - 0:00</p>
+</li>
+<li>
+<p>Introductions - 0:45</p>
+</li>
+<li>
+<p>Blab Woes - 1:00</p>
+</li>
+<li>
+<p>Shiny New TV - 1:35</p>
+</li>
+<li>
+<p>Monopress.com Advert (not!) - 2:35</p>
+</li>
+<li>
+<p>Bobby from Zen Studios joins - 5:00</p>
+<div class="ulist">
+<ul>
+<li>
+<p>How Bobby became Community Manager - 6:00</p>
+</li>
+<li>
+<p>How many titles does zen support? - 6:28</p>
+</li>
+<li>
+<p>What&#8217;s the most challenging title/platform to support - 6:50</p>
+</li>
+<li>
+<p>Chris' first Zen support case - 8:16</p>
+</li>
+<li>
+<p>3D support - 9:30</p>
+</li>
+<li>
+<p>What is the most challenging platform - 11:30</p>
+</li>
+<li>
+<p>Team size - 12:15</p>
+</li>
+<li>
+<p>Zen&#8217;s Design Philosophy - 13:15</p>
+</li>
+<li>
+<p>How long does a table take to release - 15:45</p>
+</li>
+<li>
+<p>Homage to tables past - 17:00</p>
+</li>
+<li>
+<p>How much input do licensors have on tables - 18:38</p>
+</li>
+<li>
+<p>Why no Kickstarters? - 20:30</p>
+</li>
+<li>
+<p>Dealing with Disney Merger - 22:00</p>
+</li>
+<li>
+<p>The holy grail of licenses - 24:15</p>
+</li>
+<li>
+<p>Balls of Steel Animation Style - 25:20</p>
+</li>
+<li>
+<p>Moon Night? Why? - 27:00</p>
+</li>
+<li>
+<p>Blab Questions - 28:00</p>
+</li>
+<li>
+<p>On Customer loyalty and cross-buy - 29:00</p>
+</li>
+<li>
+<p>Tournaments? Anybody? Bueller? - 30:00</p>
+</li>
+<li>
+<p>eSports - 31:24</p>
+</li>
+<li>
+<p>Core Code System - 32:25</p>
+</li>
+<li>
+<p>Dynamic lighting - 33:15</p>
+</li>
+<li>
+<p>Head 2 Head - 34:00</p>
+</li>
+<li>
+<p>How eSports Works - 35:48</p>
+</li>
+<li>
+<p>Why Flash Sales and Discounts? - 36:10</p>
+</li>
+<li>
+<p>Humble Bundles FTW - 38:00</p>
+</li>
+<li>
+<p>On table builds that mimic reality - 38:40</p>
+</li>
+<li>
+<p>It&#8217;s called Pinball "FX" for a reason ;) - 41:15</p>
+</li>
+<li>
+<p>Crazy ideas are mini games - 42:52</p>
+</li>
+<li>
+<p>Bring back the Roto target! - 43:15</p>
+</li>
+<li>
+<p>PvZ on Mobile? - 46:35</p>
+</li>
+<li>
+<p>Stern used Excalibur as the blueprint for GoT - 47:55</p>
+</li>
+<li>
+<p>Pinball FX1 Tables on new platforms - 49:40</p>
+</li>
+<li>
+<p>Strong slings, and designer preferences - 50:36</p>
+</li>
+<li>
+<p>Release Cadence - 53:15</p>
+</li>
+<li>
+<p>Embedded rules in tables - 53:55</p>
+</li>
+<li>
+<p>Bobby picks Zen Book Club tables - 58:15</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Outro - 1:03:00</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2015/11/16/Episode-33-Zen-and-the-Art-of-Digital-Pinball.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/11/16/Episode-33-Zen-and-the-Art-of-Digital-Pinball.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[ Interview]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 16 Nov 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 32: BlahCade BackRoom #2]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Before we get stuck into another interview (stay tuned later in the week), we bring you some extra content that happened after the TPA UI interview.</p>
+</div>
+<div class="paragraph">
+<p>There is some pinball chat intermingled between other topics.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/blahcade-backroom-2-13902">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>None available.</p>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2015/11/16/Episode-32-Blah-Cade-Back-Room-2.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/11/16/Episode-32-Blah-Cade-Back-Room-2.html</guid><category><![CDATA[BackRoom]]></category><category><![CDATA[ Pinball]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 16 Nov 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 31: U Interested in a New UI?]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Just like a breath of fresh air, we’re back with another interview.
+Yep, you don’t have to listen to us blab on about stuff (as much) this episode.</p>
+</div>
+<div class="paragraph">
+<p>Instead, listen to Mike, Lee, and Ben from FarSight Studios talk with us live on <a href="https://blab.im/BlahCade" class="bare">https://blab.im/BlahCade</a> about some of the big wins and challenges they had with implementing the new UI currently in public beta on Steam PC.</p>
+</div>
+<div class="paragraph">
+<p>It’s both an enjoyable and informative session so get streaming and let us know if you want to hear more of this type of content by tweeting @blahcade, @jaredmorgs or @shutyertraps.</p>
+</div>
+<div class="paragraph">
+<p>Keep an ear out for the BackRoom later in the week.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/u-interested-in-a-new-ui-13785">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Intro</p>
+</li>
+<li>
+<p>Greetings and Salutations - 0:45</p>
+</li>
+<li>
+<p>UI Blab - 1:30</p>
+</li>
+<li>
+<p>Sponsors and Outro - 38:00</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2015/11/11/Episode-31-U-Interested-in-a-New-U-I.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/11/11/Episode-31-U-Interested-in-a-New-U-I.html</guid><category><![CDATA[UI]]></category><category><![CDATA[ Wizard]]></category><category><![CDATA[ Amusements]]></category><category><![CDATA[ FarSight]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 11 Nov 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 30: 38 Weeks Old. Next week: Brains]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>It has been thirty-eight weeks since Chris kicked off this little thing called Table of the Month (TotM)!</p>
+</div>
+<div class="paragraph">
+<p>We talk about some challenges with running the TotM/TotW and the results from the last tourney.</p>
+</div>
+<div class="paragraph">
+<p>There’s new UI blah, Jared goes to the dark side and tests out TPA on Steam Mac, and we talk about Evil Week and Halloween in Aussie.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/38-weeks-old-next-week-brains-13658">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Intro</p>
+</li>
+<li>
+<p>Greetings and Salutations - 0:45</p>
+</li>
+<li>
+<p>TotM Admin Challenges - 3:50</p>
+</li>
+<li>
+<p>TotM Results - 8:00</p>
+</li>
+<li>
+<p>TotW - 9:50</p>
+</li>
+<li>
+<p>New UI PC Beta Hands-on - 14:55</p>
+</li>
+<li>
+<p>Android User Guide 2.0? - 21:35</p>
+</li>
+<li>
+<p>Jared Tries out TPA for Steam Mac - 23:50</p>
+</li>
+<li>
+<p>Insurance Day On Set - 27:00</p>
+</li>
+<li>
+<p>Evil Week - 31:35</p>
+</li>
+<li>
+<p>Halloween in Aussie - 39:50</p>
+</li>
+<li>
+<p>New PTX Album - 44:00</p>
+</li>
+<li>
+<p>Interview Plans and Tshirts - 44:45</p>
+</li>
+<li>
+<p>Penny for your Thoughts? - 46:00</p>
+</li>
+<li>
+<p>Sponsors and Outro - 47:00</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2015/11/11/Episode-30-38-Weeks-Old-Next-week-Brains.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/11/11/Episode-30-38-Weeks-Old-Next-week-Brains.html</guid><category><![CDATA[UI]]></category><category><![CDATA[ Mac]]></category><category><![CDATA[ TotM]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ Beta]]></category><category><![CDATA[ PC]]></category><category><![CDATA[ Zen]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 11 Nov 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 29: BlahCade BackRoom]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>It has been thirty-eight weeks since Chris kicked off this little thing called Table of the Month (TotM)!</p>
+</div>
+<div class="paragraph">
+<p>We talk about some challenges with running the TotM/TotW and the results from the last tourney.</p>
+</div>
+<div class="paragraph">
+<p>There’s new UI blah, Jared goes to the dark side and tests out TPA on Steam Mac, and we talk about Evil Week and Halloween in Aussie.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/blahcade-backroom-13602">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Intro</p>
+</li>
+<li>
+<p>Greetings and Salutations - 0:45</p>
+</li>
+<li>
+<p>TotW - 3:00</p>
+</li>
+<li>
+<p>TotM - 3:40</p>
+</li>
+<li>
+<p>Table Designer Fracking - 6:55</p>
+</li>
+<li>
+<p>It&#8217;s Not Pinball But A Video Game - 8:55</p>
+</li>
+<li>
+<p>New Zen Tables - 9:45</p>
+</li>
+<li>
+<p>Not Pinball But Video Game Redux - 12:45s</p>
+</li>
+<li>
+<p>Zen Book Club - 15:20</p>
+</li>
+<li>
+<p>Alleged Leaked Season 5 Tables - 18:00</p>
+</li>
+<li>
+<p>Kay Joins the Leaked Chat - 20:50</p>
+</li>
+<li>
+<p>Leaks, or Deliberate Tactic - 25:00</p>
+</li>
+<li>
+<p>Tech Talk on New UI - 29:00</p>
+</li>
+<li>
+<p>SPIKE Emulation Device Support Speculation - 33:35</p>
+</li>
+<li>
+<p>TShirts - 38:00</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2015/11/01/Episode-29-Blah-Cade-Back-Room.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/11/01/Episode-29-Blah-Cade-Back-Room.html</guid><category><![CDATA[UI]]></category><category><![CDATA[ Leaks]]></category><category><![CDATA[ Seasons]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Sun, 01 Nov 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 28: If It Walks Like A Duck, It's Pinball]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>It has been thirty-eight weeks since Chris kicked off this little thing called Table of the Month (TotM)!</p>
+</div>
+<div class="paragraph">
+<p>We talk about some challenges with running the TotM/TotW and the results from the last tourney.</p>
+</div>
+<div class="paragraph">
+<p>There’s new UI blah, Jared goes to the dark side and tests out TPA on Steam Mac, and we talk about Evil Week and Halloween in Aussie.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/if-it-walks-like-a-duck-its-pinball-13360">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Introductions - 0:45
+Accessories and Tech - 2:45
+Invite to Create Stings - 5:00
+Scared Stiff TotW - 6:25
+Frankenstein Beta - 15:30
+Zen Book Club - 29:30
+Ghost Rider - 33:10
+Fantastic Four - 34:25
+Pinballwiz45b Drops In - 35:20
+Tangental Zen Discussion - 38:00
+Outro and Sponsors - 45:00</p>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2015/10/27/Episode-28-If-It-Walks-Like-A-Duck-Its-Pinball.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/10/27/Episode-28-If-It-Walks-Like-A-Duck-Its-Pinball.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ Scared]]></category><category><![CDATA[ Stiff]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 27 Oct 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 27: Ten Seconds or Less and No Farts]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>It’s a full compliment of ‘caders today with Chris, Jared and Kay.
+We talk about the Mary Shelley’s Frankenstein Beta and our progress in the Zen Book Club.</p>
+</div>
+<div class="paragraph">
+<p>Pinballwiz45b calls in to help us with some Zen tips as well.
+If you want to listen to BlahCade live while we record, link your twitter account to <a href="http://blab.im" class="bare">http://blab.im</a> and join the live chat.</p>
+</div>
+<div class="paragraph">
+<p>If you want to have some fun and create some bumps for Beta Blah and Table of the Week, feel free to have a crack and send them to <a href="mailto:blahblahblahcade@gmail.com">blahblahblahcade@gmail.com</a>.
+No longer than ten seconds.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/ten-seconds-or-less-and-no-farts-13136">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Introductions - 0:45</p>
+</li>
+<li>
+<p>Accessories and Tech - 2:45</p>
+</li>
+<li>
+<p>Invite to Create Stings - 5:00</p>
+</li>
+<li>
+<p>Scared Stiff TotW - 6:25</p>
+</li>
+<li>
+<p>Frankenstein Beta - 15:30</p>
+</li>
+<li>
+<p>Zen Book Club - 29:30</p>
+</li>
+<li>
+<p>Ghost Rider - 33:10</p>
+</li>
+<li>
+<p>Fantastic Four - 34:25</p>
+</li>
+<li>
+<p>Pinballwiz45b Drops In - 35:20</p>
+</li>
+<li>
+<p>Tangental Zen Discussion - 38:00</p>
+</li>
+<li>
+<p>Outro and Sponsors - 45:00</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2015/10/20/Episode-27-Ten-Seconds-or-Less-and-No-Farts.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/10/20/Episode-27-Ten-Seconds-or-Less-and-No-Farts.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ Frankenstein]]></category><category><![CDATA[ Stings]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 20 Oct 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 26: Teeny Tiny Isn't Always a Bad Thing]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>We’re testing out <a href="http://Blab.im" class="bare">http://Blab.im</a> and think the results speak for themselves audio-wise.</p>
+</div>
+<div class="paragraph">
+<p>We introduce the Zen Book Club, talk POTO and TotW, and threaten 20 minutes of <em>Let it Go</em> or <em>Goin' Nuts</em> music for folks who don’t switch feeds.</p>
+</div>
+<div class="paragraph">
+<p>Remember, switch over to <a href="http://shoutengine.com/BlahCadePodcast" class="bare">http://shoutengine.com/BlahCadePodcast</a> or prepare to be assaulted with “interesting” musical selections.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/teeny-tiny-isnt-always-a-bad-thing-12990">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Intro and Sponsors</p>
+</li>
+<li>
+<p>Introductions - 0:45</p>
+</li>
+<li>
+<p>TotW - 1:37</p>
+</li>
+<li>
+<p>POTO Backlash and Comments - 4:44</p>
+</li>
+<li>
+<p>Haunted House vs Banzai Run - 9:30</p>
+</li>
+<li>
+<p>Zen Book Club -  10:40</p>
+</li>
+<li>
+<p>Roger Sharp in Drunk History - 22:20</p>
+</li>
+<li>
+<p>Blab.im Filler - 25:20</p>
+</li>
+<li>
+<p>SYT’s New Samson Teeny-Tiny Mic - 26:40</p>
+</li>
+<li>
+<p>A Wild Bonzo Appears - 27:50</p>
+</li>
+<li>
+<p>Bonzo adds to Zen Book Club - 32:00</p>
+</li>
+<li>
+<p>Last Chance to switch feeds - 34:20</p>
+</li>
+<li>
+<p>Sponsors and Outro - 36:00</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2015/10/13/Episode-26-Teeny-Tiny-Isnt-Always-a-Bad-Thing.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/10/13/Episode-26-Teeny-Tiny-Isnt-Always-a-Bad-Thing.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ Samson]]></category><category><![CDATA[ PotO]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 13 Oct 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 25: Small Wheel (No Jackpots Lit)]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>It’s time for another weekly installment of madness and pinball.
+This week we introduce the focus for this week’s installment (yes, there is a focus).</p>
+</div>
+<div class="paragraph">
+<p>Enjoy the bits and bobs of the month: the random awards you get from “The Small Wheel”.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/small-wheel-no-jackpots-lit-12837">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Introductions - 0:45</p>
+</li>
+<li>
+<p>Small Wheel Format and Intro - 5:15</p>
+</li>
+<li>
+<p>TotW - 5:45</p>
+</li>
+<li>
+<p>Pimp TPA for Fun and Profit - 8:00</p>
+</li>
+<li>
+<p>Pinball on Google Play - 9:45</p>
+</li>
+<li>
+<p>FarSight Tourney - 14:00</p>
+</li>
+<li>
+<p>Offspring vs GNFNR - 18:30</p>
+</li>
+<li>
+<p>Zen TotM - 21:30</p>
+</li>
+<li>
+<p>DVD - 28:30</p>
+</li>
+<li>
+<p>Stern Scrums - 32:30</p>
+</li>
+<li>
+<p>American Horror Story Hotel Plug - 35:00</p>
+</li>
+<li>
+<p>Sponsors and Outro - 39:00</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2015/10/07/Episode-25-Small-Wheel-No-Jackpots-Lit.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/10/07/Episode-25-Small-Wheel-No-Jackpots-Lit.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ TotM]]></category><category><![CDATA[ Small_Wheel]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 07 Oct 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 24: Stern Pinball App Wild Speculation]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Join hosts Chris, Jared and Kay Pfitzner, as they briefly discuss the results of September’s Tournament of the Month (TotM).</p>
+</div>
+<div class="paragraph">
+<p>Then sit back and relax and they devote the rest of the podcast to wildly guessing what the just announced Stern Pinball Arcade app means for FarSight and it’s fanbase.</p>
+</div>
+<div class="paragraph">
+<p>The newly minted half hour format goes long (50 mins), because there is nothing more fun than extrapolating meaning from barely there press releases!</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/stern-pinball-arcade-wild-speculation-12646">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Intro and Sponsors</p>
+</li>
+<li>
+<p>Introductions - 0:45</p>
+</li>
+<li>
+<p>Shout out to C2C Pinbal - 2:00</p>
+</li>
+<li>
+<p>Shout out to Pinball Podcast - 3:00</p>
+</li>
+<li>
+<p>TotM - 6:00</p>
+</li>
+<li>
+<p>TotW - 9:00</p>
+</li>
+<li>
+<p>Stern - 10:30</p>
+</li>
+<li>
+<p>Sponsors and Outro - 48:50</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2015/09/29/Episode-24-Stern-Pinball-App-Wild-Speculation.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/09/29/Episode-24-Stern-Pinball-App-Wild-Speculation.html</guid><category><![CDATA[Stern]]></category><category><![CDATA[ Pinball]]></category><category><![CDATA[ App]]></category><category><![CDATA[ TotM]]></category><category><![CDATA[ TotW]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 29 Sep 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 23: Tech Talk (Troubles) and Tourney Tongue Twisters]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Has it been a month already?
+In this super-sized installment (it runs for about 40ish minutes) of the BlahCade, we spitball the Pros and Cons of Pro Packs, we talk about “The Dude” in TotW, and engage in URL alphabet soup in TotM.</p>
+</div>
+<div class="paragraph">
+<p>Chris talks about some US TV series he’s interested in, and Jared talk about a couple of Australian mini-series that no one outside of Australia has probably seen.</p>
+</div>
+<div class="paragraph">
+<p>Jared has a few issues with connectivity in this episode, so there is a disclaimer.
+Pesky Wi-Fi.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/tech-talk-troubles-and-tourney-tongue-twisters-12503">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Intro and Sponsors</p>
+</li>
+<li>
+<p>Introductions - 1:00</p>
+</li>
+<li>
+<p>Pro Packs - 2:00</p>
+</li>
+<li>
+<p>TotW - 8:00</p>
+</li>
+<li>
+<p>Tech Talk - 12:00</p>
+</li>
+<li>
+<p>TotM - 18:00</p>
+</li>
+<li>
+<p>TV Series that We Love - 24:00</p>
+</li>
+<li>
+<p>Table Hint and Podcast Hosting changes - 34:00</p>
+</li>
+<li>
+<p>Sponsors and Outro - 39:00</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2015/09/21/Episode-23-Tech-Talk-Troubles-and-Tourney-Tongue-Twisters.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/09/21/Episode-23-Tech-Talk-Troubles-and-Tourney-Tongue-Twisters.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ TV]]></category><category><![CDATA[ Hints]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 21 Sep 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 22: Feelin' Good]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>If we use the analogy of a caterpillar turning into a butterfly, BlahCade is just starting to break out of the chrysalis.
+The show is taking a new direction, which we describe in this episode.</p>
+</div>
+<div class="paragraph">
+<p>We also talk about the F14 Tomcat Beta as well, and a few Known Issues to look out for in this release (that are out of FarSight’s control).</p>
+</div>
+<div class="paragraph">
+<p><em>Lights. GAMERA. Action</em> is the TotW.
+Chris talks about how messed up the theme is on this game, and the exorcist-like woman between the flippers.</p>
+</div>
+<div class="paragraph">
+<p>It’s a new dawn. It’s a new day. It’s a new life. And we’re feelin’ good.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/feelin-good-12340">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Opening and Sponsors</p>
+</li>
+<li>
+<p>Introductions - 0:45</p>
+</li>
+<li>
+<p>Podcast Changes - 4:10</p>
+</li>
+<li>
+<p>Beta Blah - 12:45</p>
+</li>
+<li>
+<p>TotW - 24:00</p>
+</li>
+<li>
+<p>Sponsors and Close - 32:00</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2015/09/14/Episode-22-Feelin-Good.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/09/14/Episode-22-Feelin-Good.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[ TotW]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 14 Sep 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 21: Forum Questions (Part 2)]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>With thanks to our sponsors, Wizard Amusements, we&#8217;re back again with the 21st installment of the BlahCade.
+This month we get to hear Bobby King answer the second part of your questions in the BlahCade Theatre.</p>
+</div>
+<div class="paragraph">
+<p>Along with that, you get all the other things you know (and maybe even love) about our Hour of Power.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/forum-questions-part-2-12301">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>TotM - 2:45
+Pinball League discussion and the "awesome house"- 11:30
+Real Safe Cracker vs. TPA Safe Cracker - 15:45
+Bobby Interview Part 2 - 17:20
+The TAF Gold debate - 44:45
+Festering the NBA - 49:40
+Commercial break - 59:30
+Whoring for commercial sponsors! - 60:40
+Bloom County is back - 62:00
+Outro - 66:00</p>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2015/09/01/Episode-21-Forum-Questions-Part-2.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/09/01/Episode-21-Forum-Questions-Part-2.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ Interview]]></category><category><![CDATA[ Bobby]]></category><category><![CDATA[ King]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 01 Sep 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 20: Forum Questions (Part 1)]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Fresh from the grave yard shift, BlahCade returns with a slighty larger cast: Chris, Jared, and Kay (Bonzo).</p>
+</div>
+<div class="paragraph">
+<p>Some definite pinball talk features in this episode, not least of which is the interview with our gracious (and patient) friend Bobby King.</p>
+</div>
+<div class="paragraph">
+<p>He’s holding over the second half of questions until next month, but there are some surprising reveals about game stats and rankings in this great Q&amp;A. You won’t believe how highly Big Shot ranks in the table play stats!</p>
+</div>
+<div class="paragraph">
+<p>Other topics include:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Slurpees,</p>
+</li>
+<li>
+<p>Spiders,</p>
+</li>
+<li>
+<p>Safe Cracker,</p>
+</li>
+<li>
+<p>Season 4 20/20,</p>
+</li>
+<li>
+<p>Sound Improvements,</p>
+</li>
+<li>
+<p>PC Tourney and ToTM.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>It’s 109 mins of back-to-back chat.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/forum-questions-part-2-12301">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Intro</p>
+</li>
+<li>
+<p>7-Eleven Slurpee Day - 2:50</p>
+</li>
+<li>
+<p>PC Tourney - 9:00</p>
+</li>
+<li>
+<p>Safe Cracker Difficulty - 20:00</p>
+</li>
+<li>
+<p>TOTM - 25:00</p>
+</li>
+<li>
+<p>Bobby Interview - 28:00</p>
+</li>
+<li>
+<p>Hypothetical - STERN Digital Pinball - 46:00</p>
+</li>
+<li>
+<p>Spiders - 58:00</p>
+</li>
+<li>
+<p>Tech Talk - 68:00</p>
+</li>
+<li>
+<p>Season 4 Review - 79:00</p>
+</li>
+<li>
+<p>Movie Talk, and brains - 90:00</p>
+</li>
+<li>
+<p>TotM Prizes - 100:00 - 100:00</p>
+</li>
+<li>
+<p>Close - 109:00</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2015/09/01/Episode-20-Forum-Questions-Part-1.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/09/01/Episode-20-Forum-Questions-Part-1.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ Interview]]></category><category><![CDATA[ Bobby]]></category><category><![CDATA[ King]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 01 Sep 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 19: Pitch Slapped]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Like Magic, a new BlahCade podcast is available. Words are spoken, stories are told.</p>
+</div>
+<div class="paragraph">
+<p>Including one about the roided-out kangaroo near Jared, opinions on modding pinball tables, and much, much more.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/pitch-slapped-12303">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Not available.</p>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2015/06/16/Episode-19-Pitch-Slapped.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/06/16/Episode-19-Pitch-Slapped.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[ Modding]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 16 Jun 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 18: Two and Done]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Come and listen to the latest BlahCade podcast, Two and Done.</p>
+</div>
+<div class="paragraph">
+<p>Jared and Chris hold down the fort while everyone else is out sick, but that doesn&#8217;t mean less show!</p>
+</div>
+<div class="paragraph">
+<p>Come for the April TotM recap, geek out during Jared&#8217;s Tech Talk, wallow in the goodness of DX11 support, and nod your head in approval as SYT froths at the mouth over Mad Max.</p>
+</div>
+<div class="paragraph">
+<p>And then there&#8217;s the tangents. Oh, the tangents.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/two-and-done-12304">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Not available.</p>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2015/05/22/Episode-18-Two-and-Done.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/05/22/Episode-18-Two-and-Done.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[ Tech_Talk]]></category><category><![CDATA[ DX11]]></category><category><![CDATA[ Movies]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Fri, 22 May 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 17: Big Nuts]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>New BlahCade is up and it is quite the show! It&#8217;s called Big Nuts for reasons purely pinball related, we swear.</p>
+</div>
+<div class="paragraph">
+<p>This time around there is a dramatic recreation of the interview Jared did with Zsolt of A.S.K. Homework, featuring Bonzo as the voice of Zsolt. Ton of questions answered, not to be missed.</p>
+</div>
+<div class="paragraph">
+<p>There is also a LitZ despite Sean not being in this session, but that didn&#8217;t stop SYT!</p>
+</div>
+<div class="paragraph">
+<p>Full results and discussion of March TotM, with shoutouts for those that like hearing their names.</p>
+</div>
+<div class="paragraph">
+<p>And of course more.</p>
+</div>
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-note" title="Note"></i>
+</td>
+<td class="content">
+<div class="title">Historical Note</div>
+This is last time a LitZ was ever heard in BlahCade.
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/big-nuts-12305">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Not available.</p>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2015/04/20/Episode-17-Big-Nuts.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/04/20/Episode-17-Big-Nuts.html</guid><category><![CDATA[Final]]></category><category><![CDATA[ LitZ]]></category><category><![CDATA[ TotM]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 20 Apr 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 16: Drunken Farmer]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>The BlahCade returns with its 16th podcast, Drunken Farmer!</p>
+</div>
+<div class="paragraph">
+<p>Those of you that are fans of Sean going deep into a table are going to love his dissertation on The Addams Family.</p>
+</div>
+<div class="paragraph">
+<p>Jared talks a little about his TPA user guide for Android, while SYT gives a rundown on the Feb TotM and its winners.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/drunken-farmer-12306">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Not available.</p>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2015/03/24/Episode-16-Drunken-Farmer.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/03/24/Episode-16-Drunken-Farmer.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[ LitZ]]></category><category><![CDATA[ TAF]]></category><category><![CDATA[ TPA_User_Guide]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 24 Mar 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 15: Facts are Hard]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>And just like that, we are back on schedule with a new BlahCade Podcast!
+Think of it as our Valentine to you.</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Jeff talking of his trip to the Pinball Expo,</p>
+</li>
+<li>
+<p>Jared getting to muck about with machines down under,</p>
+</li>
+<li>
+<p>Sean covering Cirqus Voltaire in LitZ,</p>
+</li>
+<li>
+<p>Shutyertrap giving all the details on the upcoming inaugural Tournament of the Month (TotM).</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>It&#8217;s pinball, pinball, pinball, plus a little something extra.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/facts-are-hard-12307">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Not available.</p>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2015/02/13/Episode-15-Facts-are-Hard.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/02/13/Episode-15-Facts-are-Hard.html</guid><category><![CDATA[Pinball]]></category><category><![CDATA[ Expo]]></category><category><![CDATA[ Events]]></category><category><![CDATA[ Cirqus]]></category><category><![CDATA[ LitZ]]></category><category><![CDATA[ TotM]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Fri, 13 Feb 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 14: Continbute]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>It&#8217;s a new year, and a new BlahCade podcast! We do a very free-form pod, because holidays.</p>
+</div>
+<div class="paragraph">
+<p>There is a list of SYT&#8217;s favorite and least favorite movies he saw in 2014. Also we introduce a new word that needs to start trending now, 'continbute'.</p>
+</div>
+<div class="paragraph">
+<p>And on a side note, there is a brief discussion of DX 11 that is a little less relevant now that new info has come out since this was recorded.</p>
+</div>
+<div class="paragraph">
+<p>Enjoy our inane meanderings, and start up a conversation with us!</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/continbute-12308">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Not available.</p>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2015/01/21/Episode-14-Continbute.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/01/21/Episode-14-Continbute.html</guid><category><![CDATA[DX11]]></category><category><![CDATA[ Movies]]></category><category><![CDATA[ Misc]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 21 Jan 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 13: The Anniversary]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>It&#8217;s the long-awaited one-year anniversary episode!</p>
+</div>
+<div class="paragraph">
+<p>In fact, we&#8217;ve been awaiting it so long that I can&#8217;t remember what&#8217;s all in it, and I helped record it!</p>
+</div>
+<div class="paragraph">
+<p>So it&#8217;s an anniversary surprise for everyone!</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/the-anniversary-12309">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Not available.</p>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2014/11/24/Episode-13-The-Anniversary.html</link><guid isPermaLink="true">http://blahcadepinball.com/2014/11/24/Episode-13-The-Anniversary.html</guid><category><![CDATA[LitZ]]></category><category><![CDATA[ Misc]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 24 Nov 2014 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 12: The Extraordinarily Awkward Pause]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>It&#8217;s the penultimate episode before our one-year anniversary!</p>
+</div>
+<div class="paragraph">
+<p>We get into some reactions to podcast #11&#8217;s interview with Bobby, shutyertrap goes off on idiot Redbox customers, Sean gets us Lost in the Zone once more with a look at Bram Stoker&#8217;s Dracula.</p>
+</div>
+<div class="paragraph">
+<p>50+ tables in TPA are celebrated with a few categories of awards (virtual) and our first ever contest is announced (real!).</p>
+</div>
+<div class="paragraph">
+<p>Random other bits are also included, as is a new avatar theme for you all to switch to.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/the-extraordinarily-awkward-pause-12310">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Not available.</p>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2014/10/03/Episode-12-The-Extraordinarily-Awkward-Pause.html</link><guid isPermaLink="true">http://blahcadepinball.com/2014/10/03/Episode-12-The-Extraordinarily-Awkward-Pause.html</guid><category><![CDATA[Redbox]]></category><category><![CDATA[ Interview]]></category><category><![CDATA[ Retrospective]]></category><category><![CDATA[ LitZ]]></category><category><![CDATA[ BSD]]></category><category><![CDATA[ Awards]]></category><category><![CDATA[ Context]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Fri, 03 Oct 2014 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 11: Bobby King Interview]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>A special episode featuring an interview with Bobby King from Farsight Studios about the upcoming Kickstarter for The Addams Family pinball.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/bobby-king-interview-12311">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Not available.</p>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2014/09/11/Episode-11-Bobby-King-Interview.html</link><guid isPermaLink="true">http://blahcadepinball.com/2014/09/11/Episode-11-Bobby-King-Interview.html</guid><category><![CDATA[Bobby]]></category><category><![CDATA[ King]]></category><category><![CDATA[ Interview]]></category><category><![CDATA[ Addams]]></category><category><![CDATA[ Family]]></category><category><![CDATA[ TAF]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Thu, 11 Sep 2014 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 10: Pinball Galore]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>This month we:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>run our mouths off about following Stern and Jersey Jack Pinball on Twitter,</p>
+</li>
+<li>
+<p>talk about Big Lebowski Pinball,</p>
+</li>
+<li>
+<p>celebrate the return of Let&#8217;s Talk Android,</p>
+</li>
+<li>
+<p>lament the end of summer movies as well as the long delayed 3D chat.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/pinball-galore-12312">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Not available.</p>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2014/08/14/Episode-10-Pinball-Galore.html</link><guid isPermaLink="true">http://blahcadepinball.com/2014/08/14/Episode-10-Pinball-Galore.html</guid><category><![CDATA[Stern]]></category><category><![CDATA[ Jersey_Jack]]></category><category><![CDATA[ Twitter]]></category><category><![CDATA[ Big]]></category><category><![CDATA[ Lebowski]]></category><category><![CDATA[ Android]]></category><category><![CDATA[ Movies]]></category><category><![CDATA[ 3D]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Thu, 14 Aug 2014 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 9: Ambiance]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>First things first&#8230;&#8203; you may notice we are no longer calling the podcast the "Barcade", but instead it is now the "BlahCade".
+Listen to the podcast to find out why!</p>
+</div>
+<div class="paragraph">
+<p>We introduce a new segment, <em>Back In Time With the Timelord</em>, where our Chicago dweller tells us a little story about why pinball is based in the Windy City.</p>
+</div>
+<div class="paragraph">
+<p>Also covered, summer movies you may or many not want to see (part 2), and yet another new segment where behind the scenes questions about making movies can be asked of shutyertrap.</p>
+</div>
+<div class="paragraph">
+<p>We finish off with some gripes we&#8217;d like to see addressed in TPA, and a contest (of sorts).</p>
+</div>
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-note" title="Note"></i>
+</td>
+<td class="content">
+<div class="title">Historical Note</div>
+The Barcade Podcast was changed to BlahCade Podcast due to an innocent trademark infringment on our part. From this episode, we revert to the current name.
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/ambiance-12313">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Not available.</p>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2014/07/15/Episode-9-Ambiance.html</link><guid isPermaLink="true">http://blahcadepinball.com/2014/07/15/Episode-9-Ambiance.html</guid><category><![CDATA[Movies]]></category><category><![CDATA[ TPA]]></category><category><![CDATA[ Gripes]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 15 Jul 2014 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 8: Super-sized Lost in the Zone]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>As promised last time, Lost In The Zone takes up most of the podcast this go around.</p>
+</div>
+<div class="paragraph">
+<p>Some listener topics are discussed, Twilight Zone gets the in depth treatment, and the joys/perils of owning a table get tossed around.</p>
+</div>
+<div class="paragraph">
+<p>Also in this pod:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>summer movies that we may or may not want to see (part 1),</p>
+</li>
+<li>
+<p>actual real news about the upcoming UI in TPA,</p>
+</li>
+<li>
+<p>a new secret thing for you all to play along with.</p>
+</li>
+</ul>
+</div>
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-note" title="Note"></i>
+</td>
+<td class="content">
+<div class="title">Historical Note</div>
+The Barcade Podcast was changed to BlahCade Podcast due to an innocent trademark infringment on our part.
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/supersized-lost-in-the-zone-12314">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Not available.</p>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2014/06/12/Episode-8-Super-sized-Lost-in-the-Zone.html</link><guid isPermaLink="true">http://blahcadepinball.com/2014/06/12/Episode-8-Super-sized-Lost-in-the-Zone.html</guid><category><![CDATA[LitZ]]></category><category><![CDATA[ Movies]]></category><category><![CDATA[ UI]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Thu, 12 Jun 2014 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 7: The Norm and Beyond]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Norman Stepansky, audio director and producer at FarSight, sits down and discusses:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>buying tables,</p>
+</li>
+<li>
+<p>audio quirks,</p>
+</li>
+<li>
+<p>Pinball After Dark,</p>
+</li>
+<li>
+<p>and more.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Jared has tales of San Francisco, and Bonzo files a new Germany report, that somehow lasts longer than 10 seconds.</p>
+</div>
+<div class="paragraph">
+<p>Next time will bring a super sized Lost in the Zone, so the more questions we have from you guys, the better.</p>
+</div>
+<div class="paragraph">
+<p>That&#8217;s next time though! So get to downloading the current shiny brand new hot off the presses Barcade Podcast.</p>
+</div>
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-note" title="Note"></i>
+</td>
+<td class="content">
+<div class="title">Historical Note</div>
+The Barcade Podcast was changed to BlahCade Podcast due to an innocent trademark infringment on our part.
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/the-norm-and-beyond-12315">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Not available.</p>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2014/05/13/Episode-7-The-Norm-and-Beyond.html</link><guid isPermaLink="true">http://blahcadepinball.com/2014/05/13/Episode-7-The-Norm-and-Beyond.html</guid><category><![CDATA[Norman]]></category><category><![CDATA[ Interview]]></category><category><![CDATA[ San_Francisco]]></category><category><![CDATA[ After]]></category><category><![CDATA[ Dark]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 13 May 2014 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 6: James Bondage (or Pinball Fools)]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>It&#8217;s been a little longer wait than usual, but we have a brand spanking new podcast for y&#8217;all!</p>
+</div>
+<div class="paragraph">
+<p>Highlights include:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>the ground shaking for shutyertrap and Jeff,</p>
+</li>
+<li>
+<p>a time when Chuck E. Cheese was sinister,</p>
+</li>
+<li>
+<p>Sean trying to convince us that 20 million is actually a really good score on RBION,</p>
+</li>
+<li>
+<p>Jared doing a Dalek impression,</p>
+</li>
+<li>
+<p>Timelord being thoroughly embarrassed by the thought of S&amp;M.</p>
+</li>
+</ul>
+</div>
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-note" title="Note"></i>
+</td>
+<td class="content">
+<div class="title">Historical Note</div>
+The Barcade Podcast was changed to BlahCade Podcast due to an innocent trademark infringment on our part.
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/james-bondage-or-pinball-fools-12316">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Not available.</p>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2014/04/02/Episode-6-James-Bondage-or-Pinball-Fools.html</link><guid isPermaLink="true">http://blahcadepinball.com/2014/04/02/Episode-6-James-Bondage-or-Pinball-Fools.html</guid><category><![CDATA[LitZ]]></category><category><![CDATA[ Earthquake]]></category><category><![CDATA[ ChuckECheese]]></category><category><![CDATA[ RBION]]></category><category><![CDATA[ Dalek]]></category><category><![CDATA[ SandM]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 02 Apr 2014 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 5: Two Years and Counting]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>In this episode, we:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>wish TPA a happy 2 year anniversary,</p>
+</li>
+<li>
+<p>discuss what is 'value' in software,</p>
+</li>
+<li>
+<p>talk the cancellation of Season 3&#8217;s season pass in Lost In The Zone.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Also included are our usual segments of TPA on Android news, the mailbag, and other bits of nonsense.</p>
+</div>
+<div class="paragraph">
+<p>This pod&#8217;s cast includes Jeff, Jared, Sean, Noid, Bonzo, and Shutyertrap.</p>
+</div>
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-note" title="Note"></i>
+</td>
+<td class="content">
+<div class="title">Historical Note</div>
+The Barcade Podcast was changed to BlahCade Podcast due to an innocent trademark infringment on our part.
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/two-years-and-counting-12317">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Not available.</p>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2014/02/18/Episode-5-Two-Years-and-Counting.html</link><guid isPermaLink="true">http://blahcadepinball.com/2014/02/18/Episode-5-Two-Years-and-Counting.html</guid><category><![CDATA[LitZ]]></category><category><![CDATA[ Anniversary]]></category><category><![CDATA[ Software]]></category><category><![CDATA[ Value]]></category><category><![CDATA[ S03]]></category><category><![CDATA[ Mailbag]]></category><category><![CDATA[ Android]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 18 Feb 2014 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 4: Much Ado About Nothing]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Heads up, another Barcade Podcast is ready for your ear holes. Some of you have been asking for longer pods, so we delivered our longest one yet!</p>
+</div>
+<div class="paragraph">
+<p>To those that listen to the whole thing, thank you, and there&#8217;s a way to let everyone know.
+Just spread the secret word in random threads! This time around we:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>get a sneak peak of Black Rose on Android,</p>
+</li>
+<li>
+<p>do mass speculation on TPA After Dark,</p>
+</li>
+<li>
+<p>get a report from Sean in Lost in the Zone,</p>
+</li>
+<li>
+<p>hear bonzo tell of the pinball scene while on vacation in London,</p>
+</li>
+<li>
+<p>get some general play tips in TPA from the mailbag.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>As always, comments are more than welcome. As much fun as we have recording these, we want you to have fun listening.
+We&#8217;re starting to get a rhythm going, a format if you will, so if there are things you love or things you hate, we want to cater to you guys.</p>
+</div>
+<div class="paragraph">
+<p>Don&#8217;t be shy! We especially need mailbag questions or comments. They can even be non TPA related.</p>
+</div>
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-note" title="Note"></i>
+</td>
+<td class="content">
+<div class="title">Historical Note</div>
+The Barcade Podcast was changed to BlahCade Podcast due to an innocent trademark infringment on our part.
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/much-ado-about-nothing-12318">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Not available.</p>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2014/01/17/Episode-4-Much-Ado-About-Nothing.html</link><guid isPermaLink="true">http://blahcadepinball.com/2014/01/17/Episode-4-Much-Ado-About-Nothing.html</guid><category><![CDATA[LitZ]]></category><category><![CDATA[ After]]></category><category><![CDATA[ Dark]]></category><category><![CDATA[ Black_Rose]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Fri, 17 Jan 2014 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 3: Total Chaos]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Well, well, well. We have a little Xmas gift for you all!</p>
+</div>
+<div class="paragraph">
+<p>After listening you might think it a lump of coal, but no matter, a gift is a gift!
+Fire up your speakers, here it is. We discuss:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Android,</p>
+</li>
+<li>
+<p>PS4,</p>
+</li>
+<li>
+<p>Season 3,</p>
+</li>
+<li>
+<p>LitZ with Sean,</p>
+</li>
+<li>
+<p>Quiz,</p>
+</li>
+<li>
+<p>Listener mail bag.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Have a listen, and rake us over the coals below!!</p>
+</div>
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-note" title="Note"></i>
+</td>
+<td class="content">
+<div class="title">Historical Note</div>
+The Barcade Podcast was changed to BlahCade Podcast due to an innocent trademark infringment on our part.
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/total-chaos-12319">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://pinballarcadefans.com/showthread.php/6928-TPA-Barcade-Podcast-3-Total-Chaos!">Forum Thread</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Not available.</p>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2013/12/26/Episode-3-Total-Chaos.html</link><guid isPermaLink="true">http://blahcadepinball.com/2013/12/26/Episode-3-Total-Chaos.html</guid><category><![CDATA[LitZ]]></category><category><![CDATA[ Android]]></category><category><![CDATA[ PS4]]></category><category><![CDATA[ S03]]></category><category><![CDATA[ Quiz]]></category><category><![CDATA[ Feedback]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Thu, 26 Dec 2013 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 2: Happy Hour]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>We know you all have been clamoring for another edition of the Barcade, so here it is!</p>
+</div>
+<div class="paragraph">
+<p>In this episode we have shutyertrap, Jeff Strong, jaredmorgs, neglectoid, Timelord, and Bonzo talking about:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>the PC Release,</p>
+</li>
+<li>
+<p>most wanted tables,</p>
+</li>
+<li>
+<p>and taking a little quiz.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Also joining us is Sean DonCarlos with Lost In The Zone (podcast edition) and Deltaechoe.</p>
+</div>
+<div class="paragraph">
+<p>There&#8217;s even a special guest appearance by Heretic you won&#8217;t want to miss!
+Drop us a comment: you honestly can&#8217;t hurt our feelings!</p>
+</div>
+<div class="paragraph">
+<p>Tell us more of want you want to hear, what parts work, what don&#8217;t.
+The more suggestions we get, the better we can make this.
+Now, get to listening!</p>
+</div>
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-note" title="Note"></i>
+</td>
+<td class="content">
+<div class="title">Historical Note</div>
+The Barcade Podcast was changed to BlahCade Podcast due to an innocent trademark infringment on our part.
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/happy-hour-12320">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://pinballarcadefans.com/showthread.php/6589-TPA-Barcade-Podcast-2-Happy-Hour!">Forum Thread</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Not available.</p>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2013/11/16/Episode-2-Happy-Hour.html</link><guid isPermaLink="true">http://blahcadepinball.com/2013/11/16/Episode-2-Happy-Hour.html</guid><category><![CDATA[LitZ]]></category><category><![CDATA[ PC]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Sat, 16 Nov 2013 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 1: The Pilot]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Alright folks, here&#8217;s the pilot episode of the The Pinball Arcade Fans Barcade Podcast!
+We&#8217;ll definitely come up with some fun and interesting segments, and that sort of thing.</p>
+</div>
+<div class="paragraph">
+<p>This was just to get the ball rolling.
+Anyway, hope you enjoy!</p>
+</div>
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-note" title="Note"></i>
+</td>
+<td class="content">
+<div class="title">Historical Note</div>
+The Barcade Podcast was changed to BlahCade Podcast due to an innocent trademark infringment on our part.
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/the-pilot-12321">Stream/Download/RSS</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://blab.im/BlahCade">Blab.im Live Session</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</div>
+<div class="paragraph">
+<p><a href="http://pinballarcadefans.com/showthread.php/6307-TPA-Barcade-Podcast">Forum Link</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Not available.</p>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2013/10/16/Episode-1-The-Pilot.html</link><guid isPermaLink="true">http://blahcadepinball.com/2013/10/16/Episode-1-The-Pilot.html</guid><category><![CDATA[Pilot]]></category><category><![CDATA[ First]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 16 Oct 2013 00:00:00 GMT</pubDate></item></channel></rss>

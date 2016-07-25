@@ -1,0 +1,51 @@
+= Episode 66: No Good Gottliebs (Premier)
+:hp-tags: tourney, lootcrate, mascot, BPC, MLP
+:hp-image: logo.png
+
+Prepare for a mixed bag of content in this episode:
+
+* We cover the July Brisbane Pinball Club tournament on request from our listeners.
+* We have our regular chat about tables that need a tuning pass.
+* We hypothesise about the upcoming Season, and try to work out if it will be the season of sport.
+
+What will we put after the closing credits this time?
+
+== Links
+
+* http://shoutengine.com/BlahCadePodcast/#[Stream/Download/RSS]
+* https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
+* http://trylootcrate.com/blahcade[Try LootCrate and Get 10% Off Crates with Code `bridge10`]
+* https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+* https://twitter.com/blahcade[@BlahCade on Twitter]
+* https://blab.im/BlahCade[BlahCade on Blab.im (Live Session Recordings)]
+* blahblahblahcade@gmail.com
+
+== Timings
+
+* Introduction - 0:30
+* Theme Park Review - 1:00
+* BlahCade Mascot - 7:15
+* Major League Pinball (MLP) Prize Winners - 12:05
+* MLP to Run Future TPA Steam Tourneys - 13:30
+* LootCrate - 17:25
+* Brisbane Pinball Club Coverage - 19:25
+** Black Pyramid - 21:25
+** Magic - 23:45
+** Meteor - 25:05
+** South Park - 26:00
+** Star Wars - 28:25
+** Trident - 29:20
+** WPPR Rankings - 30:10
+** Plug for Match Play - 30:35
+* No Good Gophers Magic Scores - 31:45
+* Tables and Tuning - 33:35
+** Tourney tables usually get the tuning love - 35:00
+** Flipper Physics 3.0 roll-out - 36:25
+** How Ripley's railroading differs from Steam - 37:35
+* Anticipating Big Hurt (not) - 38:50
+* Season 6 of Sports - 41:55
+** Will we get Season Six of Sports? - 44:35
+** Western Theme and Pool? - 47:35
+** Premier Troll Season - 48:40
+* New UI FAQ on http://gitbook.com/@jaredmorgs[GitBook.com] - 51:50
+* Outtro and Extra Bits - 50:50

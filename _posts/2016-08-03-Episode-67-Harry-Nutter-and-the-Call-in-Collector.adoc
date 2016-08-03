@@ -13,7 +13,7 @@ It's worth it.
 
 == Links
 
-* http://shoutengine.com/BlahCadePodcast/#[Stream/Download/RSS]
+* http://shoutengine.com/BlahCadePodcast/harry-nutter-and-the-call-in-collector-22192[Stream/Download/RSS]
 * https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
 * http://trylootcrate.com/blahcade[Try LootCrate and Get 10% Off Crates with Code `bridge10`]
 * https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]

@@ -16,7 +16,7 @@ Keep an eye out for us on another platform, as we work out if Twitch may be a go
 
 == Links
 
-* http://shoutengine.com/BlahCadePodcast/#[Stream/Download/RSS]
+* http://shoutengine.com/BlahCadePodcast/blab-is-dead-long-live-blab-22662[Stream/Download/RSS]
 * https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
 * http://trylootcrate.com/blahcade[Try LootCrate and Get 10% Off Crates with Code `bridge10`]
 * https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]

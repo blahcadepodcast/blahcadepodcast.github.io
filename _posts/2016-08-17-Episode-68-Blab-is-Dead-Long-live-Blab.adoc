@@ -1,0 +1,68 @@
+= Episode 68: Blab is Dead. Long live Blab.
+:hp-tags: tourney, colordmd, H2H, BPC
+:hp-image: logo.png
+
+It's a huge show this week, after we took a break for a week:
+
+* Tourney chat
+* Cirqus Voltaire LED DMD release thoughts
+* Playing games with headphones for better scores
+* Other things.
+
+We found out after recording this episode that our favourite recording service has been turned off.
+Blab will regenerate from the ashes again in a different form, just like the Doctor.
+
+Keep an eye out for us on another platform, as we work out if Twitch may be a good fit for the crazy that is our weekly installment.
+
+== Links
+
+* http://shoutengine.com/BlahCadePodcast/#[Stream/Download/RSS]
+* https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
+* http://trylootcrate.com/blahcade[Try LootCrate and Get 10% Off Crates with Code `bridge10`]
+* https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+* https://twitter.com/blahcade[@BlahCade on Twitter]
+* blahblahblahcade@gmail.com
+
+== Timings
+
+* Introduction - 0:30
+* Why No Podcast Last Week? - 1:10
+* Orange County Pinball League - 2:44
+* Cirqus Voltaire LED DMD from ColorDMD - 2:58
+** Why did CV look better than a modern Stern? - 3:46
+** Letting the CV animations shine - 6:48
+** The Canon animation is worth the price of admission - 7:54
+** Has ColorDMD partnered with Stern? - 8:42
+** Is the LED DMD blinding? - 9:30
+* Clear Coated Genie - 10:20
+** How your timing gets thrown on a Bally Widebody - 11:34
+** Why are TPA early SS pitched so steep? - 12:00
+** It's all about the upper playfield - 13:40
+* Playing Games with Headphones - 16:00
+** Game of Thrones and Headphones - 17:14
+* How did Chris go at OC Pinball League - 19:12
+* Why Jared _never_ plays 4-player games - 20:00
+* Other tables at OCPL - 21:28
+** _Hurricane_
+** Premier _Surfin' Safari_
+** Bally _Atlantis_
+* Rule sets and player accessibility for pins
+** Mid 80's Bally pins in TPA - 24:24
+** Jersey Jack Pinball _Wizard of Oz_ thoughts - 25:36
+*** Great mind-frack modes in _WoOz_ - 28:40
+*** Where's my shot? - 29:44
+* Wizard Amusement's Rob Zombie Plunger - 31:50
+* FarSight Tourney
+** Chris' First Gold Tourney - 34:02
+** Jared' Big Score on _Cactus Canyon_ - 34:42
+** Ripley's Railroads Removed - 35:32
+** How did Jared finish on Mobile? - 39:48
+** Bring on 5 Minute Tourneys - 40:44
+* Mobile New UI Improvements - 41:42
+* Head 2 Head Steam Testing Help Needed - 42:18
+* LootCrate Plug - 43:46
+* Head 2 Head Feature Request: King of the Hill Mode - 44:46
+* Steven the Legendary H2H Programmer - 47:50
+* Shout Out to Mason - 48:18
+* Brisbane Pinball Club Meet - 53:12
+* Outtro and Extra Bits - 54:00

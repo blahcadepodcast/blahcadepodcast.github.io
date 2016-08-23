@@ -1,0 +1,53 @@
+= Episode 68: Tech Talk, Bugs, and Features
+:hp-tags: EBD, AMA, Bugs, Features, Physics, Who,
+:hp-image: logo.png
+
+It's a huge show this week, again:
+
+* Tech Talk topics
+* Eight Ball Deluxe Bugs and Release
+* Dr Who Updates
+* Goal Saves Enhancement Request
+
+Blab is no more. We will announce what we're going with for recording in the next few podcasts.
+
+== Links
+
+* http://shoutengine.com/BlahCadePodcast/#[Stream/Download/RSS]
+* https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
+* http://trylootcrate.com/blahcade[Try LootCrate and Get 10% Off Crates with Code `bridge10`]
+* https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+* https://twitter.com/blahcade[@BlahCade on Twitter]
+* blahblahblahcade@gmail.com
+
+== Timings
+
+* Introduction - 0:30
+* Tech Talk
+** IEMs by AudioFly - 1:40
+** What's Up With Blab? - 5:10
+** Hangouts on Air is being turned off - 8:35
+* EBD Complaints - 11:00
+** Chris' feedback from last time he played (pre-crash) - 12:00
+** Simple Builds and Bizarre Bugs - 17:10
+** Mobile thoughts from a non-mobile player - 18:45
+** Ball rolling SFX needs work - 19:15
+* EBD Gameplay feedback - 20:50
+** Baseline Physics Engine vs Flipper Physics - 22:40
+** EBD is a Borrowed Table build - 23:35
+** The feeling of ball drain dread is missing - 25:10
+* AMA thread with Farsight - 27:15
+* Dr Who Updates
+** PC-level Graphics on Dr Who mobile builds - 32:25
+** Dr Who Regenerated release - 34:20
+* PC Assets and Stern Pinball Arcade - 35:55
+* Zen Pinball VR - 36:45
+* Chris' PC Problems - 40:00
+* Managing Goal Saves on Android - 50:40
+** A reminder about Volunteer Beta Testers - 53:05
+** Why Cloud Saves can be bad on other ecosystems - 54:15
+** Studio-specific Game Profile systems - 56:15
+** Goals over time - 58:15
+** API for Goal Tracking - 60:35
+** What is the business reason behind Goal Saves? - 62:30
+* Jared does the outtro - 63:50

@@ -1,4 +1,4 @@
-= Episode 68: Tech Talk, Bugs, and Features
+= Episode 69: Tech Talk, Bugs, and Features
 :hp-tags: EBD, AMA, Bugs, Features, Physics, Who,
 :hp-image: logo.png
 

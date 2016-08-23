@@ -1,4 +1,172 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[BlahCade Podcast]]></title><description><![CDATA[Digital Pinball, Real Pinball, Movies, Snacks (but mostly Digital Pinball)]]></description><link>http://blahcadepinball.com</link><image><url>/images/cover.jpg</url><title>BlahCade Podcast</title><link>http://blahcadepinball.com</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 17 Aug 2016 05:10:44 GMT</lastBuildDate><atom:link href="http://blahcadepinball.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Episode 68: Blab is Dead. Long live Blab.]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[BlahCade Podcast]]></title><description><![CDATA[Digital Pinball, Real Pinball, Movies, Snacks (but mostly Digital Pinball)]]></description><link>http://blahcadepinball.com</link><image><url>/images/cover.jpg</url><title>BlahCade Podcast</title><link>http://blahcadepinball.com</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 23 Aug 2016 21:16:38 GMT</lastBuildDate><atom:link href="http://blahcadepinball.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Episode 68: Tech Talk, Bugs, and Features]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>It&#8217;s a huge show this week, again:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Tech Talk topics</p>
+</li>
+<li>
+<p>Eight Ball Deluxe Bugs and Release</p>
+</li>
+<li>
+<p>Dr Who Updates</p>
+</li>
+<li>
+<p>Goal Saves Enhancement Request</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Blab is no more. We will announce what we&#8217;re going with for recording in the next few podcasts.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://shoutengine.com/BlahCadePodcast/#">Stream/Download/RSS</a></p>
+</li>
+<li>
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</li>
+<li>
+<p><a href="http://trylootcrate.com/blahcade">Try LootCrate and Get 10% Off Crates with Code <code>bridge10</code></a></p>
+</li>
+<li>
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/blahcade">@BlahCade on Twitter</a></p>
+</li>
+<li>
+<p><a href="mailto:blahblahblahcade@gmail.com">blahblahblahcade@gmail.com</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Introduction - 0:30</p>
+</li>
+<li>
+<p>Tech Talk</p>
+<div class="ulist">
+<ul>
+<li>
+<p>IEMs by AudioFly - 1:40</p>
+</li>
+<li>
+<p>What&#8217;s Up With Blab? - 5:10</p>
+</li>
+<li>
+<p>Hangouts on Air is being turned off - 8:35</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>EBD Complaints - 11:00</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Chris' feedback from last time he played (pre-crash) - 12:00</p>
+</li>
+<li>
+<p>Simple Builds and Bizarre Bugs - 17:10</p>
+</li>
+<li>
+<p>Mobile thoughts from a non-mobile player - 18:45</p>
+</li>
+<li>
+<p>Ball rolling SFX needs work - 19:15</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>EBD Gameplay feedback - 20:50</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Baseline Physics Engine vs Flipper Physics - 22:40</p>
+</li>
+<li>
+<p>EBD is a Borrowed Table build - 23:35</p>
+</li>
+<li>
+<p>The feeling of ball drain dread is missing - 25:10</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>AMA thread with Farsight - 27:15</p>
+</li>
+<li>
+<p>Dr Who Updates</p>
+<div class="ulist">
+<ul>
+<li>
+<p>PC-level Graphics on Dr Who mobile builds - 32:25</p>
+</li>
+<li>
+<p>Dr Who Regenerated release - 34:20</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>PC Assets and Stern Pinball Arcade - 35:55</p>
+</li>
+<li>
+<p>Zen Pinball VR - 36:45</p>
+</li>
+<li>
+<p>Chris' PC Problems - 40:00</p>
+</li>
+<li>
+<p>Managing Goal Saves on Android - 50:40</p>
+<div class="ulist">
+<ul>
+<li>
+<p>A reminder about Volunteer Beta Testers - 53:05</p>
+</li>
+<li>
+<p>Why Cloud Saves can be bad on other ecosystems - 54:15</p>
+</li>
+<li>
+<p>Studio-specific Game Profile systems - 56:15</p>
+</li>
+<li>
+<p>Goals over time - 58:15</p>
+</li>
+<li>
+<p>API for Goal Tracking - 60:35</p>
+</li>
+<li>
+<p>What is the business reason behind Goal Saves? - 62:30</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Jared does the outtro - 63:50</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/08/24/Episode-68-Tech-Talk-Bugs-and-Features.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/08/24/Episode-68-Tech-Talk-Bugs-and-Features.html</guid><category><![CDATA[EBD]]></category><category><![CDATA[ AMA]]></category><category><![CDATA[ Bugs]]></category><category><![CDATA[ Features]]></category><category><![CDATA[ Physics]]></category><category><![CDATA[ Who]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 24 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 68: Blab is Dead. Long live Blab.]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>It&#8217;s a huge show this week, after we took a break for a week:</p>

@@ -11,7 +11,7 @@
     "description": "Digital Pinball, Real Pinball, Movies, Snacks (but mostly Digital Pinball)",
     "logo": "/images/logo.png",
     "cover": "/images/cover.jpg",
-    "postsPerPage": "10",
+    "postsPerPage": "5",
     "googleAnalytics": "UA-83260356-1",
     "disqus": "blahcadepodcast"
   },

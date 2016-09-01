@@ -1,4 +1,233 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[BlahCade Podcast]]></title><description><![CDATA[Digital Pinball, Real Pinball, Movies, Snacks (but mostly Digital Pinball)]]></description><link>http://blahcadepinball.com</link><image><url>/images/cover.jpg</url><title>BlahCade Podcast</title><link>http://blahcadepinball.com</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 28 Aug 2016 10:23:15 GMT</lastBuildDate><atom:link href="http://blahcadepinball.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Episode 69: Tech Talk, Bugs, and Features]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[BlahCade Podcast]]></title><description><![CDATA[Digital Pinball, Real Pinball, Movies, Snacks (but mostly Digital Pinball)]]></description><link>http://blahcadepinball.com</link><image><url>/images/cover.jpg</url><title>BlahCade Podcast</title><link>http://blahcadepinball.com</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 01 Sep 2016 09:13:36 GMT</lastBuildDate><atom:link href="http://blahcadepinball.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Episode 70: Questions Answered (Sort Of)]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Strap one on and plunge into this 75 minute installment of BlahCade.</p>
+</div>
+<div class="paragraph">
+<p>This time, our forum friend Xanija joins us in the wee hours of the night his time to chat.</p>
+</div>
+<div class="paragraph">
+<p>If you don&#8217;t keep up with the forum static, we make an audiobook version of the <em>Questions Answered - Farsight</em> thread, which makes for interesting listening.
+There are some long-standing casualties in this list that can finally be put to rest. RIP.</p>
+</div>
+<div class="paragraph">
+<p>We talk about audio in the game, Head to Head beta testing, ten-minute tourneys (yay!) and focus on why <em>Junk Yard</em> is lost in translation in the game.</p>
+</div>
+<div class="paragraph">
+<p>Please enjoy BlahCade responsibly, and see your doctor if pain persists.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://shoutengine.com/BlahCadePodcast/#">Stream/Download/RSS</a></p>
+</li>
+<li>
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</li>
+<li>
+<p><a href="http://trylootcrate.com/blahcade">Try LootCrate and Get 10% Off Crates with Code <code>bridge10</code></a></p>
+</li>
+<li>
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/blahcade">@BlahCade on Twitter</a></p>
+</li>
+<li>
+<p><a href="mailto:blahblahblahcade@gmail.com">blahblahblahcade@gmail.com</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Introduction - 0:30</p>
+</li>
+<li>
+<p>Xanija (Sven) joins from Germany - 4:38</p>
+</li>
+<li>
+<p>Sven&#8217;s and Chris&#8217;s Head to Head Testing - 5:34</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Please, do it like Guitar Hero - 9:50</p>
+</li>
+<li>
+<p>Please, just get basic functionality right - 10:44</p>
+</li>
+<li>
+<p>A frustrating Beta, from a basic testing perspective - 12:10</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Platinum Tiers in FarSight Tournament - 14:00</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Capped at Top 10 Gold? - 14:38</p>
+</li>
+<li>
+<p>Lowest ranked Platinum is bumped to Gold - 15:22</p>
+</li>
+<li>
+<p>The motivation for Sven - 16:26</p>
+</li>
+<li>
+<p>The motivation for Chris - 17:02</p>
+</li>
+<li>
+<p>The Proposal: The TotM "Limited Play" concept for player leveling in Tourneys - 18:24</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>How FarSight Tourney Ranking Works</p>
+<div class="ulist">
+<ul>
+<li>
+<p>How FarSight tourney rank demotion works in TPA - 21:16</p>
+</li>
+<li>
+<p>What counts as a valid TPA Tourney entry - 21:56</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Why Chris is Boycotting the August Tourney - 23:20</p>
+</li>
+<li>
+<p>JunkYard: Lost in Translation - 24:20</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Jared&#8217;s pet peeves - 24:34</p>
+</li>
+<li>
+<p>Chris' pet peeves - 26:46</p>
+</li>
+<li>
+<p>No staged balls in tunnel - 27:44</p>
+</li>
+<li>
+<p>Progression after Wizard mode - 28:32</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p><a href="http://pinballarcadefans.com/showthread.php/11847-Questions-Answered-FarSight">Questions Answered - Farsight</a> Audiobook - 29:04</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Release Date for SPA - 31:20</p>
+</li>
+<li>
+<p>SPA is Exclusive to Oculus Gear VR - 31:42</p>
+</li>
+<li>
+<p>Difficulty Modes deprioritised - 32:52</p>
+</li>
+<li>
+<p>Capcom Tables? - 33:36</p>
+</li>
+<li>
+<p>More Seasons after Season 7? - 34:08</p>
+</li>
+<li>
+<p>Console Owners are Second Class Citizen - 36:24</p>
+</li>
+<li>
+<p>Black Knight ROM Emulation - 39:26</p>
+</li>
+<li>
+<p>More Mechanical Sounds? - 39:38</p>
+</li>
+<li>
+<p>Steam Theatre of Magic Mirror Mode and Bugs - 40:30</p>
+</li>
+<li>
+<p>Aside: About Regressions in Software - 41:22</p>
+</li>
+<li>
+<p>Medieval Madness Flippers? - 45:30</p>
+</li>
+<li>
+<p>Older Sterns? - 45:44</p>
+</li>
+<li>
+<p>New Physics Engine on Mobile? - 47:10</p>
+</li>
+<li>
+<p>Updating Season One and Two Tables? - 47:36</p>
+</li>
+<li>
+<p>No plans for glass reflection - 48:44</p>
+</li>
+<li>
+<p>Frankenstein and Last Action Hero match emulation issues - 49:00</p>
+</li>
+<li>
+<p>Pinball After Dark is officially dead - 50:34</p>
+</li>
+<li>
+<p>No Pro modes for Season One and Two - 51:00</p>
+</li>
+<li>
+<p>Playstation 3D - 51:28</p>
+</li>
+<li>
+<p>Leaderboard integrity - 51:46</p>
+</li>
+<li>
+<p>Master Issues list for PC - 52:16</p>
+</li>
+<li>
+<p>Tap passing - 53:58</p>
+</li>
+<li>
+<p>Ball spin in physics 4.0 - 54:14</p>
+</li>
+<li>
+<p>Pinbal Construction Set is dead - 55:08</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Norman&#8217;s Clarification about Sound in TPA ^ - 56:16</p>
+</li>
+<li>
+<p>Discussion: Paying for Season One and Two Upgrades - 65:12</p>
+</li>
+<li>
+<p>Shelving Jared&#8217;s Beta Testing Rant - 75:18</p>
+</li>
+<li>
+<p>Outtro - 77:00</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>^ We missed a clarifying post from Norman about bumping up the Khz bitrate across all platforms.
+  ETA for this feature is no later than February next year.</p>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/09/01/Episode-70-Questions-Answered-Sort-Of.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/09/01/Episode-70-Questions-Answered-Sort-Of.html</guid><category><![CDATA[AMA]]></category><category><![CDATA[ Bugs]]></category><category><![CDATA[ Features]]></category><category><![CDATA[ Physics]]></category><category><![CDATA[ Who]]></category><category><![CDATA[ Tourney]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Thu, 01 Sep 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 69: Tech Talk, Bugs, and Features]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>It&#8217;s a huge show this week, again:</p>

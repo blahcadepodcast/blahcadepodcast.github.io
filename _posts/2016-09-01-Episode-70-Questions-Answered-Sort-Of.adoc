@@ -1,0 +1,79 @@
+= Episode 70: Questions Answered (Sort Of)
+:hp-tags: AMA, Bugs, Features, Physics, Who, Tourney
+:hp-image: logo.png
+
+Strap one on and plunge into this 75 minute installment of BlahCade.
+
+This time, our forum friend Xanija joins us in the wee hours of the night his time to chat.
+
+If you don't keep up with the forum static, we make an audiobook version of the _Questions Answered - Farsight_ thread, which makes for interesting listening.
+There are some long-standing casualties in this list that can finally be put to rest. RIP.
+
+We talk about audio in the game, Head to Head beta testing, ten-minute tourneys (yay!) and focus on why _Junk Yard_ is lost in translation in the game.
+
+Please enjoy BlahCade responsibly, and see your doctor if pain persists.
+
+== Links
+
+* http://shoutengine.com/BlahCadePodcast/#[Stream/Download/RSS]
+* https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
+* http://trylootcrate.com/blahcade[Try LootCrate and Get 10% Off Crates with Code `bridge10`]
+* https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+* https://twitter.com/blahcade[@BlahCade on Twitter]
+* blahblahblahcade@gmail.com
+
+== Timings
+
+* Introduction - 0:30
+* Xanija (Sven) joins from Germany - 4:38
+* Sven's and Chris's Head to Head Testing - 5:34
+** Please, do it like Guitar Hero - 9:50
+** Please, just get basic functionality right - 10:44
+** A frustrating Beta, from a basic testing perspective - 12:10
+* Platinum Tiers in FarSight Tournament - 14:00
+** Capped at Top 10 Gold? - 14:38
+** Lowest ranked Platinum is bumped to Gold - 15:22
+** The motivation for Sven - 16:26
+** The motivation for Chris - 17:02
+** The Proposal: The TotM "Limited Play" concept for player leveling in Tourneys - 18:24
+* How FarSight Tourney Ranking Works
+** How FarSight tourney rank demotion works in TPA - 21:16
+** What counts as a valid TPA Tourney entry - 21:56
+* Why Chris is Boycotting the August Tourney - 23:20
+* JunkYard: Lost in Translation - 24:20
+** Jared's pet peeves - 24:34
+** Chris' pet peeves - 26:46
+** No staged balls in tunnel - 27:44
+** Progression after Wizard mode - 28:32
+* http://pinballarcadefans.com/showthread.php/11847-Questions-Answered-FarSight[Questions Answered - Farsight] Audiobook - 29:04
+** Release Date for SPA - 31:20
+** SPA is Exclusive to Oculus Gear VR - 31:42
+** Difficulty Modes deprioritised - 32:52
+** Capcom Tables? - 33:36
+** More Seasons after Season 7? - 34:08
+** Console Owners are Second Class Citizen - 36:24
+** Black Knight ROM Emulation - 39:26
+** More Mechanical Sounds? - 39:38
+** Steam Theatre of Magic Mirror Mode and Bugs - 40:30
+** Aside: About Regressions in Software - 41:22
+** Medieval Madness Flippers? - 45:30
+** Older Sterns? - 45:44
+** New Physics Engine on Mobile? - 47:10
+** Updating Season One and Two Tables? - 47:36
+** No plans for glass reflection - 48:44
+** Frankenstein and Last Action Hero match emulation issues - 49:00
+** Pinball After Dark is officially dead - 50:34
+** No Pro modes for Season One and Two - 51:00
+** Playstation 3D - 51:28
+** Leaderboard integrity - 51:46
+** Master Issues list for PC - 52:16
+** Tap passing - 53:58
+** Ball spin in physics 4.0 - 54:14
+** Pinbal Construction Set is dead - 55:08
+* Norman's Clarification about Sound in TPA ^ - 56:16
+* Discussion: Paying for Season One and Two Upgrades - 65:12
+* Shelving Jared's Beta Testing Rant - 75:18
+* Outtro - 77:00
+
+^ We missed a clarifying post from Norman about bumping up the Khz bitrate across all platforms.
+  ETA for this feature is no later than February next year.

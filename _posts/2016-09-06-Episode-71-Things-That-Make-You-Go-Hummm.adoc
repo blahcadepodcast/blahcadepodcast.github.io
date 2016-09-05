@@ -1,0 +1,57 @@
+= Episode 71: Things That Make You Go Hummm
+:hp-tags: EM, Zen, Tourney, Star_Wars, blahzen
+:hp-image: logo.png
+
+In this episode:
+
+* Zen Pinball score chase
+* Zen Star Wars designer discussion
+* Sven join us for post-discussion banter
+* Flipper hum and sound bugs
+* Chris' Movie Challenge
+
+Not as long as the previous episode (not a bad thing), so get on it and enjoy.
+
+== Links
+
+* http://shoutengine.com/BlahCadePodcast/#[Stream/Download/RSS]
+* https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
+* http://trylootcrate.com/blahcade[Try LootCrate and Get 10% Off Crates with Code `bridge10`]
+* https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+* https://twitter.com/blahcade[@BlahCade on Twitter]
+* blahblahblahcade@gmail.com
+
+== Timings
+
+* Introduction - 0:30
+* South Park Tangent - 2:25
+* Zen Pinball Score Chase (#blahzen) - 6:15
+* Zen Star Wars Designers and Tables - 8:40
+** Masters of the Force - 10:40
+** Might of the First Order - 13:45
+** Zoltan's Table Roll Call - 15:25
+** Starfighter Assault - 16:50
+** Darth Vader - 18:40
+** Droids - 21:25
+** Peter Grafl (Deep) Got the Bounce - 22:45
+** Rebels - 23:40
+** Clone Wars - 25:20
+** Table designers are written on each Zen Table - 26:15
+** Force Awakens - 26:40
+** Return of the Jedi - 27:00
+* Join the Zen Pinball Score Chase - 28:20
+* Wishlist: Pinball Arcade and the Score Chase feature - 30:50
+* Leveraging the FarSight Account System for better in-game experiences - 32:20
+* Sven (Xanija) Drops In - 33:00
+* Xanija's Thoughts on the List - 33:50
+* An example of Jared's Zen Leaderboards - 38:45
+* Junk Yard and Midnight Madness in Tournaments - 39:20
+* Flipper Hum and Bugs
+** EM flipper hum on Android - 40:30
+** No flipper stroke sound - 41:50
+** EM flip-and-hold as one sound asset - 41:55
+** EM hum is really low - 43:20
+* Leaderboard buttons in Tournament mode - 44:30
+* Chris' Push-up Challenge for Military PTSD concludes - 46:25
+* Chris' Movie Challenge: _The Descent_ - 49:00
+* Outtro - 53:00

@@ -1,4 +1,172 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[BlahCade Podcast]]></title><description><![CDATA[Digital Pinball, Real Pinball, Movies, Snacks (but mostly Digital Pinball)]]></description><link>http://blahcadepinball.com</link><image><url>/images/cover.jpg</url><title>BlahCade Podcast</title><link>http://blahcadepinball.com</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 01 Sep 2016 09:53:40 GMT</lastBuildDate><atom:link href="http://blahcadepinball.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Episode 70: Questions Answered (Sort Of)]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[BlahCade Podcast]]></title><description><![CDATA[Digital Pinball, Real Pinball, Movies, Snacks (but mostly Digital Pinball)]]></description><link>http://blahcadepinball.com</link><image><url>/images/cover.jpg</url><title>BlahCade Podcast</title><link>http://blahcadepinball.com</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 05 Sep 2016 21:31:57 GMT</lastBuildDate><atom:link href="http://blahcadepinball.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Episode 71: Things That Make You Go Hummm]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>In this episode:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Zen Pinball score chase</p>
+</li>
+<li>
+<p>Zen Star Wars designer discussion</p>
+</li>
+<li>
+<p>Sven join us for post-discussion banter</p>
+</li>
+<li>
+<p>Flipper hum and sound bugs</p>
+</li>
+<li>
+<p>Chris' Movie Challenge</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Not as long as the previous episode (not a bad thing), so get on it and enjoy.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://shoutengine.com/BlahCadePodcast/#">Stream/Download/RSS</a></p>
+</li>
+<li>
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</li>
+<li>
+<p><a href="http://trylootcrate.com/blahcade">Try LootCrate and Get 10% Off Crates with Code <code>bridge10</code></a></p>
+</li>
+<li>
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/blahcade">@BlahCade on Twitter</a></p>
+</li>
+<li>
+<p><a href="mailto:blahblahblahcade@gmail.com">blahblahblahcade@gmail.com</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Introduction - 0:30</p>
+</li>
+<li>
+<p>South Park Tangent - 2:25</p>
+</li>
+<li>
+<p>Zen Pinball Score Chase (#blahzen) - 6:15</p>
+</li>
+<li>
+<p>Zen Star Wars Designers and Tables - 8:40</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Masters of the Force - 10:40</p>
+</li>
+<li>
+<p>Might of the First Order - 13:45</p>
+</li>
+<li>
+<p>Zoltan&#8217;s Table Roll Call - 15:25</p>
+</li>
+<li>
+<p>Starfighter Assault - 16:50</p>
+</li>
+<li>
+<p>Darth Vader - 18:40</p>
+</li>
+<li>
+<p>Droids - 21:25</p>
+</li>
+<li>
+<p>Peter Grafl (Deep) Got the Bounce - 22:45</p>
+</li>
+<li>
+<p>Rebels - 23:40</p>
+</li>
+<li>
+<p>Clone Wars - 25:20</p>
+</li>
+<li>
+<p>Table designers are written on each Zen Table - 26:15</p>
+</li>
+<li>
+<p>Force Awakens - 26:40</p>
+</li>
+<li>
+<p>Return of the Jedi - 27:00</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Join the Zen Pinball Score Chase - 28:20</p>
+</li>
+<li>
+<p>Wishlist: Pinball Arcade and the Score Chase feature - 30:50</p>
+</li>
+<li>
+<p>Leveraging the FarSight Account System for better in-game experiences - 32:20</p>
+</li>
+<li>
+<p>Sven (Xanija) Drops In - 33:00</p>
+</li>
+<li>
+<p>Xanija&#8217;s Thoughts on the List - 33:50</p>
+</li>
+<li>
+<p>An example of Jared&#8217;s Zen Leaderboards - 38:45</p>
+</li>
+<li>
+<p>Junk Yard and Midnight Madness in Tournaments - 39:20</p>
+</li>
+<li>
+<p>Flipper Hum and Bugs</p>
+<div class="ulist">
+<ul>
+<li>
+<p>EM flipper hum on Android - 40:30</p>
+</li>
+<li>
+<p>No flipper stroke sound - 41:50</p>
+</li>
+<li>
+<p>EM flip-and-hold as one sound asset - 41:55</p>
+</li>
+<li>
+<p>EM hum is really low - 43:20</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Leaderboard buttons in Tournament mode - 44:30</p>
+</li>
+<li>
+<p>Chris' Push-up Challenge for Military PTSD concludes - 46:25</p>
+</li>
+<li>
+<p>Chris' Movie Challenge: <em>The Descent</em> - 49:00</p>
+</li>
+<li>
+<p>Outtro - 53:00</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/09/06/Episode-71-Things-That-Make-You-Go-Hummm.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/09/06/Episode-71-Things-That-Make-You-Go-Hummm.html</guid><category><![CDATA[EM]]></category><category><![CDATA[ Zen]]></category><category><![CDATA[ Tourney]]></category><category><![CDATA[ Star_Wars]]></category><category><![CDATA[ blahzen]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 06 Sep 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 70: Questions Answered (Sort Of)]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>Strap one on and plunge into this 75 minute installment of BlahCade.</p>

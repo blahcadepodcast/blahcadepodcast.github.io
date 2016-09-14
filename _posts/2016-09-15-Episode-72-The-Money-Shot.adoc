@@ -15,7 +15,7 @@ Heaps of ideas to chew over. Tell us what you think.
 
 == Links
 
-* http://shoutengine.com/BlahCadePodcast/#[Stream/Download/RSS]
+* http://shoutengine.com/BlahCadePodcast/the-money-shot-23756[Stream/Download/RSS]
 * https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
 * http://trylootcrate.com/blahcade[Try LootCrate and Get 10% Off Crates with Code `bridge10`]
 * https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]

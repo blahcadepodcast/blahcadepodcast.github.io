@@ -1,0 +1,47 @@
+= Episode 73: Marvel at Timelords
+:hp-tags: zen, farsight, dr_who, marvel, blahzen, backroom
+:hp-image: logo.png
+
+We're back with your prescription for digital pinball discussion.
+
+In the front sections, we talk about the new tables (_Dr Who_ and _Marvel: Women of Power_) from FarSight and Zen Studios, which both should release shortly after this podcast drops.
+
+In the back section, Chris talks about his week of working with kids on set, the magic hour, and some shows you may _not_ want to check out. 
+It ends abruptly: the bouncer kicked Chris and I out of the backroom because we weren't wearing the right type of shoes.
+
+Enjoy BlahCade responsibly, and always consult your healthcare professional if symptoms persist.
+
+== Links
+
+* http://shoutengine.com/BlahCadePodcast/the-money-shot-23756[Stream/Download/RSS]
+* https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
+* http://trylootcrate.com/blahcade[Try LootCrate and Get 10% Off Crates with Code `bridge10`]
+* https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+* https://twitter.com/blahcade[@BlahCade on Twitter]
+* blahblahblahcade@gmail.com
+
+== Timings
+
+* Introduction - 0:30
+* Pinball Hours Logged on Steam - 3:08
+* Dr Who Kickstarter - 4:28
+** PC graphics assets - 4:56
+** Insert quality - 5:52
+** Rake adjustments - 6:20
+** Pop-bumper feed loop - 7:08
+** Bug: Stand-up targets wash the speed off the ball - 8:18
+** Black Hole stand-up targets - 9:50
+** Bug: Lower-left main flipper can sometimes shoot Hang-on ramp - 11:36
+** Flipper bat physics insights - 13:12
+** Dr Who Regenerated - 15:14
+** Mike from FarSight interview planned - 15:58
+* Marvel: Women of Power tables from Zen - 16:27
+** A-force first thoughts - 18:44
+** Champions first thoughts - 25:50
+* Listener Feedback - 33:10
+* "Best-of" podcast idea (Jared says "No") - 33:50
+* The Avengers #blahzen Challenge - 35:30
+* Backroom
+** Working With Children and the Magic Hour - 37:15
+** New Series *not* to check out - 42:55
+* Outtro and Extra Bits - 50:36

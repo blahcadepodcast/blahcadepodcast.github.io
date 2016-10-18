@@ -1,0 +1,61 @@
+= Episode 75: When Pinball Loses Its Shine
+:hp-tags: steam, save, tourney, tokens, ReplayFX, announcements, releases
+:hp-image: logo.png
+
+How does something like saving and restoring game progress affect a user' perspective of your game?
+We discuss this in this episode, as well as the following topics:
+
+* the "randomness" of tables in FarSight tourneys.
+* how Safe Cracker token randomness is controlled.
+* a belated ArcadeFX trip report by Pinballwiz45B.
+* new digital and real pinball announcements.
+
+Download the free-to-play^ podcast from your favourite Podcast service today.
+
+^ May contain IAPs.
+
+== Links
+
+* http://shoutengine.com/BlahCadePodcast/the-money-shot-23756[Stream/Download/RSS]
+* https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
+* http://trylootcrate.com/blahcade[Try LootCrate and Get 10% Off Crates with Code `bridge10`]
+* https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+* https://twitter.com/blahcade[@BlahCade on Twitter]
+* blahblahblahcade@gmail.com
+
+== Timings
+
+* Introduction - 0:30
+* Australia Zoo - 1:00
+* Tech Woes - 5:15
+* The Perils of Restoring Game Progress on Steam TPA - 8:40
+** BUG: Cloud saves are getting reset by the base install - 11:00
+** Google "pinball arcade save file" to try and fix it - 12:20
+** Two Steam user names for TPA - 12:50
+** "The TPA Save Game Challenge" isn't that fun - 14:00
+** Expected Resolution - 17:20
+** Where is the solution documented - 17:50
+** Why isn't the FarSight Login System used as a cross-platform goal tracker? - 18:35
+** How does game progress saving work on other platforms - 19:45
+* FarSight Monthly Tourney Feedback - 22:20
+* How is Safe Cracker token "randomness" controlled - 23:50
+* Do you get anything special for getting all tokens? - 24:45
+* Jared testing out how you downgrade yourself in tournament rank - 25:30
+* Pinballwiz45B Trip Report to ArcadeFX
+** How large was the event? - 27:20
+** _Bride of Pinbot_ is not faithful to the IRL table - 28:20
+** All Season One need a go-over - 29:05
+** _Twilight Zone_ is brutal - 29:20
+** _Phantom of the Opera_ and _Indy 500_ were rocketing - 31:15
+** _World Cup Soccer 94_ ball stealing is the worst in tourney - 32:50
+** The joy of watching someone control a table *like its TPA* - 34:10
+** What new machines did they have back in August? - 35:40
+* What is the sweet-spot in pinball scoring? - 37:35
+* New Real and Digital Pinball Announcements
+** _Dialled In_ by JJP - 39:50
+** _Stern is 99.9% of All Pinball_ article - 42:30
+** _Aliens_ Heighway Pin - 43:00
+** Hints about new Spooky Pinball table - 44:50
+** _Stern Pinball Arcade_ new tables http://www.sternpinballarcade.com/[link] - 45:30
+** Gagging for FarSight release info - 48:30
+* Outtro - 52:50

@@ -1,4 +1,183 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[BlahCade Podcast]]></title><description><![CDATA[Digital Pinball, Real Pinball, Movies, Snacks (but mostly Digital Pinball)]]></description><link>http://blahcadepinball.com</link><image><url>/images/cover.jpg</url><title>BlahCade Podcast</title><link>http://blahcadepinball.com</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 04 Oct 2016 22:11:04 GMT</lastBuildDate><atom:link href="http://blahcadepinball.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Episode 74: Antisocial Arachnids and Full Service Servos]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[BlahCade Podcast]]></title><description><![CDATA[Digital Pinball, Real Pinball, Movies, Snacks (but mostly Digital Pinball)]]></description><link>http://blahcadepinball.com</link><image><url>/images/cover.jpg</url><title>BlahCade Podcast</title><link>http://blahcadepinball.com</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 18 Oct 2016 21:29:29 GMT</lastBuildDate><atom:link href="http://blahcadepinball.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Episode 75: When Pinball Loses Its Shine]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>How does something like saving and restoring game progress affect a user' perspective of your game?
+We discuss this in this episode, as well as the following topics:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>the "randomness" of tables in FarSight tourneys.</p>
+</li>
+<li>
+<p>how Safe Cracker token randomness is controlled.</p>
+</li>
+<li>
+<p>a belated ArcadeFX trip report by Pinballwiz45B.</p>
+</li>
+<li>
+<p>new digital and real pinball announcements.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Download the free-to-play^ podcast from your favourite Podcast service today.</p>
+</div>
+<div class="paragraph">
+<p>^ May contain IAPs.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://shoutengine.com/BlahCadePodcast/the-money-shot-23756">Stream/Download/RSS</a></p>
+</li>
+<li>
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</li>
+<li>
+<p><a href="http://trylootcrate.com/blahcade">Try LootCrate and Get 10% Off Crates with Code <code>bridge10</code></a></p>
+</li>
+<li>
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/blahcade">@BlahCade on Twitter</a></p>
+</li>
+<li>
+<p><a href="mailto:blahblahblahcade@gmail.com">blahblahblahcade@gmail.com</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Introduction - 0:30</p>
+</li>
+<li>
+<p>Australia Zoo - 1:00</p>
+</li>
+<li>
+<p>Tech Woes - 5:15</p>
+</li>
+<li>
+<p>The Perils of Restoring Game Progress on Steam TPA - 8:40</p>
+<div class="ulist">
+<ul>
+<li>
+<p>BUG: Cloud saves are getting reset by the base install - 11:00</p>
+</li>
+<li>
+<p>Google "pinball arcade save file" to try and fix it - 12:20</p>
+</li>
+<li>
+<p>Two Steam user names for TPA - 12:50</p>
+</li>
+<li>
+<p>"The TPA Save Game Challenge" isn&#8217;t that fun - 14:00</p>
+</li>
+<li>
+<p>Expected Resolution - 17:20</p>
+</li>
+<li>
+<p>Where is the solution documented - 17:50</p>
+</li>
+<li>
+<p>Why isn&#8217;t the FarSight Login System used as a cross-platform goal tracker? - 18:35</p>
+</li>
+<li>
+<p>How does game progress saving work on other platforms - 19:45</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>FarSight Monthly Tourney Feedback - 22:20</p>
+</li>
+<li>
+<p>How is Safe Cracker token "randomness" controlled - 23:50</p>
+</li>
+<li>
+<p>Do you get anything special for getting all tokens? - 24:45</p>
+</li>
+<li>
+<p>Jared testing out how you downgrade yourself in tournament rank - 25:30</p>
+</li>
+<li>
+<p>Pinballwiz45B Trip Report to ArcadeFX</p>
+<div class="ulist">
+<ul>
+<li>
+<p>How large was the event? - 27:20</p>
+</li>
+<li>
+<p><em>Bride of Pinbot</em> is not faithful to the IRL table - 28:20</p>
+</li>
+<li>
+<p>All Season One need a go-over - 29:05</p>
+</li>
+<li>
+<p><em>Twilight Zone</em> is brutal - 29:20</p>
+</li>
+<li>
+<p><em>Phantom of the Opera</em> and <em>Indy 500</em> were rocketing - 31:15</p>
+</li>
+<li>
+<p><em>World Cup Soccer 94</em> ball stealing is the worst in tourney - 32:50</p>
+</li>
+<li>
+<p>The joy of watching someone control a table <strong>like its TPA</strong> - 34:10</p>
+</li>
+<li>
+<p>What new machines did they have back in August? - 35:40</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>What is the sweet-spot in pinball scoring? - 37:35</p>
+</li>
+<li>
+<p>New Real and Digital Pinball Announcements</p>
+<div class="ulist">
+<ul>
+<li>
+<p><em>Dialled In</em> by JJP - 39:50</p>
+</li>
+<li>
+<p><em>Stern is 99.9% of All Pinball</em> article - 42:30</p>
+</li>
+<li>
+<p><em>Aliens</em> Heighway Pin - 43:00</p>
+</li>
+<li>
+<p>Hints about new Spooky Pinball table - 44:50</p>
+</li>
+<li>
+<p><em>Stern Pinball Arcade</em> new tables <a href="http://www.sternpinballarcade.com/">link</a> - 45:30</p>
+</li>
+<li>
+<p>Gagging for FarSight release info - 48:30</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Outtro - 52:50</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/10/19/Episode-75-When-Pinball-Loses-Its-Shine.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/10/19/Episode-75-When-Pinball-Loses-Its-Shine.html</guid><category><![CDATA[steam]]></category><category><![CDATA[ save]]></category><category><![CDATA[ tourney]]></category><category><![CDATA[ tokens]]></category><category><![CDATA[ ReplayFX]]></category><category><![CDATA[ announcements]]></category><category><![CDATA[ releases]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 19 Oct 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 74: Antisocial Arachnids and Full Service Servos]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>It&#8217;s a DLC pack of Dr Who and Powerful Women, with a bone busting commentary on the next FarSight table.</p>

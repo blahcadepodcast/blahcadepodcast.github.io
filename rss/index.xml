@@ -1,4 +1,128 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[BlahCade Podcast]]></title><description><![CDATA[Digital Pinball, Real Pinball, Movies, Snacks (but mostly Digital Pinball)]]></description><link>http://blahcadepinball.com</link><image><url>/images/cover.jpg</url><title>BlahCade Podcast</title><link>http://blahcadepinball.com</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 18 Oct 2016 21:34:24 GMT</lastBuildDate><atom:link href="http://blahcadepinball.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Episode 75: When Pinball Loses Its Shine]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[BlahCade Podcast]]></title><description><![CDATA[Digital Pinball, Real Pinball, Movies, Snacks (but mostly Digital Pinball)]]></description><link>http://blahcadepinball.com</link><image><url>/images/cover.jpg</url><title>BlahCade Podcast</title><link>http://blahcadepinball.com</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 25 Oct 2016 22:07:24 GMT</lastBuildDate><atom:link href="http://blahcadepinball.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Episode 76: Steam Saves and Managing Friends]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Join us for a mixed bag of topics, including how you can restore game progress in Steam TPA when all hope is lost.</p>
+</div>
+<div class="paragraph">
+<p>There&#8217;s some crap talk at the end as well, which may be relevant or not.</p>
+</div>
+<div class="paragraph">
+<p>Dump your opinions about the show on us using the contact methods.</p>
+</div>
+<div class="paragraph">
+<p>Download the free-to-play^ podcast from your favourite Podcast service today.</p>
+</div>
+<div class="paragraph">
+<p>^ May contain IAPs.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="http://shoutengine.com/BlahCadePodcast/">Stream/Download/RSS</a></p>
+</li>
+<li>
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">iTunes</a></p>
+</li>
+<li>
+<p><a href="http://trylootcrate.com/blahcade">Try LootCrate and Get 10% Off Crates with Code <code>bridge10</code></a></p>
+</li>
+<li>
+<p><a href="https://represent.com/blahcade-shirt">BlahCade T-shirts on represent.com</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/blahcade">@BlahCade on Twitter</a></p>
+</li>
+<li>
+<p><a href="mailto:blahblahblahcade@gmail.com">blahblahblahcade@gmail.com</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Introduction - 0:30</p>
+</li>
+<li>
+<p>Reunions - 0:45</p>
+</li>
+<li>
+<p>Listener Mail Bag - 4:00</p>
+</li>
+<li>
+<p>Chris Actually Plays Dr Who - 6:30</p>
+</li>
+<li>
+<p>Masters of Time - 7:40</p>
+</li>
+<li>
+<p>Ghostbusters, and selling a feature - 11:42</p>
+</li>
+<li>
+<p>How to Launch a Feature - 18:40</p>
+</li>
+<li>
+<p>Sven the Restorer - 21:55</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Understanding Steam Cloud Saves - 24:10</p>
+</li>
+<li>
+<p>What happens when TPA is installed? - 25:20</p>
+</li>
+<li>
+<p>The newer TPA save file takes precedence - 25:50</p>
+</li>
+<li>
+<p>Is it a known issue by FarSight? - 26:45</p>
+</li>
+<li>
+<p>TPA uses two save locations - 27:45</p>
+</li>
+<li>
+<p>Trick Steam into thinking your backup is the newest file - 29:10</p>
+</li>
+<li>
+<p>"Touch" the <code>pbaprg.dat</code> file to make the date the most recent - 30:25</p>
+</li>
+<li>
+<p>Where is the tutorial? - 32:15</p>
+</li>
+<li>
+<p>Where are the two save files again? - 34:55</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>How do I add TPA friends on iOS 10? - 38:00</p>
+</li>
+<li>
+<p>Managing friends on Android isn&#8217;t much easier - 40:15</p>
+</li>
+<li>
+<p>PLEASE, use the FarSight ID system to manage friends across platforms - 41:25</p>
+</li>
+<li>
+<p>Strategies for Number 2&#8217;s in Work Toilets - 42:05</p>
+</li>
+<li>
+<p>Outtro - 52:50</p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2016/10/26/Episode-76-Steam-Saves-and-Managing-Friends.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/10/26/Episode-76-Steam-Saves-and-Managing-Friends.html</guid><category><![CDATA[farsight]]></category><category><![CDATA[ steam]]></category><category><![CDATA[ ghostbusters]]></category><category><![CDATA[ dr_who]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 26 Oct 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 75: When Pinball Loses Its Shine]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>How does something like saving and restoring game progress affect a user' perspective of your game?

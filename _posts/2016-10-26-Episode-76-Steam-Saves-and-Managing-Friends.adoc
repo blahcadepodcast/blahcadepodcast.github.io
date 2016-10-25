@@ -1,0 +1,47 @@
+= Episode 76: Steam Saves and Managing Friends
+:hp-tags: farsight, steam, ghostbusters, dr_who
+:hp-image: logo.png
+
+Join us for a mixed bag of topics, including how you can restore game progress in Steam TPA when all hope is lost.
+
+There's some crap talk at the end as well, which may be relevant or not.
+
+Dump your opinions about the show on us using the contact methods. 
+
+Download the free-to-play^ podcast from your favourite Podcast service today.
+
+^ May contain IAPs.
+
+== Links
+
+* http://shoutengine.com/BlahCadePodcast/[Stream/Download/RSS]
+* https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
+* http://trylootcrate.com/blahcade[Try LootCrate and Get 10% Off Crates with Code `bridge10`]
+* https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+* https://twitter.com/blahcade[@BlahCade on Twitter]
+* blahblahblahcade@gmail.com
+
+== Timings
+
+* Introduction - 0:30
+* Reunions - 0:45
+* Listener Mail Bag - 4:00
+* Chris Actually Plays Dr Who - 6:30
+* Masters of Time - 7:40
+* Ghostbusters, and selling a feature - 11:42
+* How to Launch a Feature - 18:40
+* Sven the Restorer - 21:55
+** Understanding Steam Cloud Saves - 24:10
+** What happens when TPA is installed? - 25:20
+** The newer TPA save file takes precedence - 25:50
+** Is it a known issue by FarSight? - 26:45
+** TPA uses two save locations - 27:45
+** Trick Steam into thinking your backup is the newest file - 29:10
+** "Touch" the `pbaprg.dat` file to make the date the most recent - 30:25
+** Where is the tutorial? - 32:15
+** Where are the two save files again? - 34:55
+* How do I add TPA friends on iOS 10? - 38:00
+* Managing friends on Android isn't much easier - 40:15
+* PLEASE, use the FarSight ID system to manage friends across platforms - 41:25
+* Strategies for Number 2's in Work Toilets - 42:05
+* Outtro - 52:50

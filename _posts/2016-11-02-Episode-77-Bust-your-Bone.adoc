@@ -1,6 +1,9 @@
 = Episode 77: Bust your Bone
-:hp-tags: Halloween, Bone, Busters, EM, Who, Virtual, Digital, 
+:hp-tags: Halloween, Bone, Busters, EM, Who, Virtual, Digital,
 :hp-image: logo.png
+
+http://shoutengine.com/BlahCadePodcast/bust-your-bone-25684 (Shout Engine)
+https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2 (iTunes)
 
 DLC 77 features the following:
 
@@ -14,13 +17,12 @@ DLC 77 features the following:
 
 Download the free-to-play podcast from your favourite Podcast service today.
 
-== Links
+== Social Links
 
-* http://shoutengine.com/BlahCadePodcast/bust-your-bone-25684[Stream/Download/RSS]
-* https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[iTunes]
 * http://trylootcrate.com/blahcade[Try LootCrate and Get 10% Off Crates with Code `bridge10`]
 * https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
 * https://twitter.com/blahcade[@BlahCade on Twitter]
+* https://paypal.me/blahcade[Support us with a PayPal Donation]
 * blahblahblahcade@gmail.com
 
 == Timings

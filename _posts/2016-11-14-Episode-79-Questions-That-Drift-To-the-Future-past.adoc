@@ -1,0 +1,43 @@
+= Episode 79: Questions That Drift To the Future-past
+:hp-tags: daytona, questions, pinout, stern
+:hp-image: logo.png
+
+http://shoutengine.com/BlahCadePodcast/ (Shout Engine)
+
+https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2 (iTunes)
+
+This DLC contains the following new features:
+
+* listener questions from real people
+* a blast from the past that may _drive_ you back to the arcades
+* a "backhanded" review of another digital pinball game
+* new platforms for _Stern Pinball Arcade_
+
+We're aware of the following issues:
+
+* America
+* known issue with show delays in November
+* very few cares given by Jared about post-prod of this episode, because HOLIDAYS!!! :P
+
+We return in December 2016 for a new release.
+
+== Social Links
+
+* http://trylootcrate.com/blahcade[Try LootCrate and Get 10% Off Crates with Code `bridge10`]
+* https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+* https://twitter.com/blahcade[@BlahCade on Twitter]
+* https://paypal.me/blahcade[Support us with a PayPal Donation]
+* blahblahblahcade@gmail.com
+
+== Timings
+
+* Introduction - 0:30
+* In case you missed it... - 1:00
+* Show hiatus - 6:25
+* Andrew asks: what are the most realistically-challenging tables in TPA - 8:45
+* Graham asks: what would be the ideal tablet device to play TPA on - 29:30
+* Sega confirms _Daytona USA 3_ (Let's go away)- 40:25
+* Chris checks out _PinOut_ - 48:55
+* _Stern Pinball Arcade_ releasing on XBox and PlayStation - 54:15
+* Can you help Graham? - 58:10
+* Outtro - 60:00

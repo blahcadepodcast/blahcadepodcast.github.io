@@ -1,0 +1,50 @@
+= Episode 80: Take the Challenge, Brave One.
+:hp-tags: zen, farsight, pc, specs, christmas, stern, gottlieb
+:hp-image: logo.png
+
+http://shoutengine.com/BlahCadePodcast/ (Shout Engine)
+
+https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2 (iTunes)
+
+This DLC contains the following new features:
+
+* news on Farsight table releases
+* news on Zen Studios table releases
+* retrospective on FarSight's Season 6
+* minimum specification PC info for FarSight
+
+Known issues:
+
+* recording schedule interrupted in December
+
+== Social Links
+
+* http://trylootcrate.com/blahcade[Try LootCrate and Get 10% Off Crates with Code `bridge10`]
+* https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+* https://twitter.com/blahcade[@BlahCade on Twitter]
+* https://paypal.me/blahcade[Support us with a PayPal Donation]
+* blahblahblahcade@gmail.com
+
+== Timings
+
+* Introduction - 0:30
+* Jared's Vacation - 1:05
+* Chris's Turkey Day - 3:20
+* FarSight Pinball News
+** Centigrade 37 and Jacks Open Releases - 7:45
+** Stern Pinball Arcade on PS4 and XBone - 11:00
+** Next table: Premiere Gladiators - 13:40
+* Season 6 Retro
+** Season 6 got Boned - 23:05
+** Season 6 needs to finish with a huge bang - 24:25
+* Zen Pinball News
+** The Walking Dead VR - 25:00
+** Bethesda Collection - 27:00
+** Eldar Scrolls (Skyrim) - 27:40
+** Doom - 32:00
+** Fallout - 35:55
+* Steam Sale Wrap-up - 38:05
+* What minimum spec can TPA run on? - 38:45
+* Christmas Recording Schedule - 49:40
+* Christmas traditions - 51:50
+* Outtro - 60:00

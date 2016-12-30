@@ -1,0 +1,62 @@
+= Episode 82: Last Gasp 2016
+:hp-tags: zen, farsight, stern, gottlieb,
+:hp-image: logo.png
+
+http://shoutengine.com/BlahCadePodcast/ (Shout Engine)
+
+https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2 (iTunes)
+
+This DLC contains the following new features:
+
+* Festive season wrap-up
+* Cool things to buy yourself
+* Atomic Pinball Collection on Android
+* Arcooda Pinball Arcade news
+* Stern Pinball Arcade release on Mobile and Steam
+* Zen Pinball tuning differences between Android and Steam
+
+== Social Links
+
+* http://trylootcrate.com/blahcade[Try LootCrate and Get 10% Off Crates with Code `bridge10`]
+* https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+* https://twitter.com/blahcade[@BlahCade on Twitter]
+* https://paypal.me/blahcade[Support us with a PayPal Donation]
+* blahblahblahcade@gmail.com
+
+== Timings
+
+* Introduction - 0:30
+* Festive Season Wrap-up
+** What did Santa get Jared? - 1:15
+** What did Jared get Kim? - 2:34
+** What did Santa get Chris? - 3:28
+** How a https://stresscube.com[Stress Cube] or kinetic toy can cut out _The Ums_ - 6:40
+** What did Chris get Andrea? A https://shotbox.me[Shot Box] - 9:54
+** How Lego instructions have evolved since the 80's - 13:10
+** Relive your manual credit card machine fantasies with http://www.thinkfun.com/products/zingo/[Zingo] - 17:54
+* Atomic Pinball Collection on Android
+** First impressions - 19:02
+** Cross-buy or cross-grade to Rob-o-bot not available. Deal with it. - 21:34
+* Arcooda Pinball Arcade
+** https://www.arcooda.com/pinball-arcade-customers-receive-discounts-arcooda-pinball-arcade/[Cross-grade deal] - 24:10
+** How is Arcooda integrating TPA into their PinCabs? - 25:42
+** PinCab as a full MAME and Steam Game Emulator - 27:32
+** How is shipping going to work from Australia - 29:38
+* Stern Pinball Arcade (SPA) release on Android and Steam
+** Why release it in this state? - 32:10
+** Known Issues - 32:46
+** Known Issues should be documented in the _What's New_ Declaration - 34:34
+** No public Beta Testing for Stern Pinball Arcade could be a bad decision - 35:26
+** Steam SPA is not the same as TPA: hardware upgrades required on Steam - 38:02
+** Android device hardware support confusion - 40:06
+** Steam vs Android and iOS cross-grade frustration - 43:00
+** No graphical shininess in new Stern tables on Mobile. Yet. - 44:02
+** Exercise your right to vote with your wallet - 45:02
+** A glimmer of positivity amongst all the forum negativity - 46:20
+** Accepting the TPA platform for what it is, not what it should be - 47:18
+** What would a new customer think? - 49:34
+** Is Pinball Arcade Fans forum actually a _bad_ advertisement for the product? - 50:16
+** Should Mustang have been the free launch table? - 52:20
+* Zen Pinball tuning on Android is different (worse) compared with PC - 54:34
+* Wrap-up - 56:36
+* Outtro - 58:00

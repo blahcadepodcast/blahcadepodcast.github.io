@@ -12,7 +12,7 @@ This DLC contains the following new features:
 * Gladiators tuning observations
 * Dr Who: Masters of Time gameplay observations
 * Stern Pinball Arcade Beta on Steam and Android
-* Snowball by Noodlecake Studios
+* Snowball by https://twitter.com/noodlecakegames[@noodlecakegames]
 * Speculation about Colour DMDs in Stern will affect SPA
 
 Known Issues

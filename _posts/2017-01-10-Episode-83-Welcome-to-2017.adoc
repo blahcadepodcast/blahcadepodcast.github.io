@@ -1,0 +1,67 @@
+= Episode 83: Welcome to 2017
+:hp-tags: zen, farsight, stern, gottlieb, noodlecake, who, movies
+:hp-image: logo.png
+
+http://shoutengine.com/BlahCadePodcast/ (Shout Engine)
+
+https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2 (iTunes)
+
+This DLC contains the following new features:
+
+* Moist California
+* Gladiators tuning observations
+* Dr Who: Masters of Time gameplay observations
+* Stern Pinball Arcade Beta on Steam and Android
+* Snowball by Noodlecake Studios
+* Speculation about Colour DMDs in Stern will affect SPA
+
+Known Issues
+
+* Incorrect info about Stress Cube in Episode 82
+
+Bonus Content:
+
+* Chris' Movie Review (right at the end where it belongs)
+
+== Social Links
+
+* http://trylootcrate.com/blahcade[Try LootCrate and Get 10% Off Crates with Code `bridge10`]
+* https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+* https://twitter.com/blahcade[@BlahCade on Twitter]
+* https://paypal.me/blahcade[Support us with a PayPal Donation]
+* blahblahblahcade@gmail.com
+
+== Timings
+
+* Introduction - 0:30
+* California is all moist - 0:54
+* Mammoth amount of snow - 1:22
+* https://thestresscube.com[Stress Cube] and https://thefidgetcube.co/[Fidget Cube]
+** Who was first clarification - 3:02
+** Stress Cube Knock-off quality - 4:54
+** Quality vs Price argument - 8:02
+* Gladiators - 8:36
+** Fire and Rain / Fire and Ice - 10:36
+* Dr Who: Masters of Time - 11:10
+* The future of Masters of Time - 13:32
+* Stern Pinball Arcade Android Beta - 15:00
+* Judge Dredd
+** Initial entry controller bug on Steam - 15:26
+** Works on Android, and here's why - 17:22
+** Controller support not as easy as you think - 18:10
+* Snowball by Noodlecake Studios
+** Controller scheme and how we helped - 18:42
+** Controller support for Android? Maybe. - 20:52
+** Gameplay perspectives - 22:00
+** Music and sound effect controls - 23:04
+* Stern Pinball Arcade on Steam - 23:30
+** Cross-buy support for Steam. iOS and Android coming - 23:52
+** Device support decisions seem odd - 24:14
+* Stern's _Aerosmith_
+** Colour DMD - 24:38
+** How will Colour DMD affect Stern Pinball Arcade? - 25:50
+* How long could we wait to see 2016/17 titles on SPA? - 26:46
+* Don't forget our T-shirts (link above, yo) - 31:08
+* Social Media Channels - 31:26
+* Outtro - 32:45
+* Backroom: Chris' Movie Review - 34:10

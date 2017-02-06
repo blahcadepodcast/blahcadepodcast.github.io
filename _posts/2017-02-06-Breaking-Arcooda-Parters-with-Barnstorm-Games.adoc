@@ -1,9 +1,17 @@
 = Breaking: Arcooda Parters with Barnstorm Games
 :hp-tags: arcooda, news, barnstorm, pro_pinball
+:hp-image: logo.png
 
-Arcooda hinted at exciting things to come today on their twitter account, so I asked them what they have in store for digital pinball fans.
+Arcooda hinted at exciting things to come today on their twitter account today.
 
-As it turns out, Arcooda will officially confirm that they have entered into an official partnership with Barnstorm Games, makers of the acclaimed *Pro Pinball Ultra Edition* digital pinball brand.  
+++++
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Big announcements to be made this week. Stay tuned. <a href="https://twitter.com/hashtag/arcade?src=hash">#arcade</a> <a href="https://twitter.com/hashtag/Pinball?src=hash">#Pinball</a> <a href="https://t.co/9kWylwCh5D">pic.twitter.com/9kWylwCh5D</a></p>&mdash; Arcooda (@arcooda) <a href="https://twitter.com/arcooda/status/828475588293701633">February 6, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+++++
+
+I asked them what they have in store for digital pinball fans.
+
+As it turns out, Arcooda will confirm this week that they have entered into an official partnership with Barnstorm Games, makers of the acclaimed *Pro Pinball Ultra Edition* digital pinball brand.  
 
 Many pinheads agree that Pro Pinball still contains the best ball physics and overall ruleset of any digital pinball simulation on the market today.
 Now imagine hooking this simulation up with a fully-integrated digital pinball cabinet complete with DMD, backglass, real pinball components, full nudging support, and full touchscreen playfield. 

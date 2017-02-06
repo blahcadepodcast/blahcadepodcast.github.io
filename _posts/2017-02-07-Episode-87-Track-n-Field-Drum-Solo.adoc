@@ -2,7 +2,7 @@
 :hp-tags: farsight, gottlieb, listener-challenge
 :hp-image: images/logo.png
 
-http://shoutengine.com/BlahCadePodcast/ (Shout Engine)
+http://shoutengine.com/BlahCadePodcast/track-n-field-drum-solo-31818 (ShoutEngine)
 
 https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2 (iTunes)
 
@@ -17,7 +17,6 @@ This DLC contains the following new features:
 NOTE: We'll be fully covering Arcooda's partnership with Barnstorm Games next week. Stay tuned.
 
 If you have any ideas about stuff we should talk about, contact us using the Social links.
-
 
 == Social Links
 

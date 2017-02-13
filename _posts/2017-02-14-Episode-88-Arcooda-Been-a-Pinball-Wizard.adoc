@@ -2,7 +2,7 @@
 :hp-tags: farsight, arcooda, pinball, arcade, timeshock
 :hp-image: logo.png
 
-http://shoutengine.com/BlahCadePodcast/ (ShoutEngine)
+https://shoutengine.com/BlahCadePodcast/arcooda-been-a-pinball-wizard-32165 (ShoutEngine)
 
 https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2 (iTunes)
 

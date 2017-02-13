@@ -1,5 +1,5 @@
 = Episode 88: Arcooda Been a Pinball Wizard
-:hp-tags: farsight, arcooda, pinball, arcade, timeshock
+:hp-tags: farsight, arcooda, pinball, arcade, timeshock, cabinet
 :hp-image: logo.png
 
 https://shoutengine.com/BlahCadePodcast/arcooda-been-a-pinball-wizard-32165 (ShoutEngine)

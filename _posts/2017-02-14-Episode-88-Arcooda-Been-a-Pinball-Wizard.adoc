@@ -1,0 +1,49 @@
+= Episode 88: Arcooda Been a Pinball Wizard
+:hp-tags: farsight, arcooda, pinball, arcade, timeshock
+:hp-image: logo.png
+
+http://shoutengine.com/BlahCadePodcast/ (ShoutEngine)
+
+https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2 (iTunes)
+
+This episode is all about Arcooda.
+We delve deep into the news that has been released about the platform so far, and get speculating like we do best.
+
+Let us know what you think about the episode, and your thoughts about the Arcooda platform in general: good or constructive.
+
+If you have any ideas about stuff we should talk about, contact us using the Social links.
+
+== Social Links
+
+* https://www.arcooda.com/our-machines/arcooda-video-pinball/[Arcooda Video Pinball]
+* http://trylootcrate.com/blahcade[Try LootCrate and Get 10% Off Crates with Code `bridge10`]
+* https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+* https://twitter.com/blahcade[@BlahCade on Twitter]
+* https://paypal.me/blahcade[Support us with a PayPal Donation]
+* blahblahblahcade@gmail.com
+
+== Timings
+
+* Introduction - 0:30
+* Lego Batman Movie - 2:15
+* John Wick 2 - 4:20
+* Arcooda In The News
+** _Timeshock! Arcade Edition_ (TAE) - 10:50
+** How TAE fits into Silver Castle's IRL Timeshock! - 11:50
+** Silver Castle vs Barnstorm Art - 13:55
+** Silver Castle New Art vs Timeshock Ultra - 14:45
+** Arcooda Pinball Arcade (APA) Features - 17:10
+** TPA on Touch Wizard and APA - 18:30
+** What powers the Touch Wiz? - 19:25
+** Custom backglass animations in APA Cabinet Mode - 20:35
+** Cabinet mode exclusive to APA - 23:15
+** Community reaction to APA TPA Cab mode exclusivity - 24:25
+** APA as an experience upgrade for PinCab owners? - 25:40
+** What are the APA system specs - 27:25
+** How APA currently integrates with TPA - 29:25
+** Physical Coils and Mechanicals - 30:50
+** Stern Pinball Replay Screech - 32:25
+** Is Arcooda Pinball Arcade the definitive version? - 34:15
+** Can our brains be fooled by the Arcooda experience? - 34:55
+* Soft outtro - 43:00
+* Outtro - 35:30

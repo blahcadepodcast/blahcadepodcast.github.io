@@ -1,0 +1,49 @@
+= Episode 89: Fadgeting with your Dinner Sausage
+:hp-tags: farsight, arcooda, zen, occulus,
+:hp-image: logo.png
+
+http://shoutengine.com/BlahCadePodcast/ (ShoutEngine)
+
+https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2 (iTunes)
+
+Have you ever played a licensed pinball and thought to yourself "Gee, that was heaps better than the movie".
+Well, so have we.
+
+In this episode, we look at Bally/Williams pinball machines that were better than the movie for which they are licensed.
+There is also news about Zen Pinball on Samsung OculusVR, and Arcooda gets some follow-up analysis about backglass support.
+
+Plenty of pinball to sink your teeth into this month. Enjoy.
+
+== Social Links
+
+* https://www.arcooda.com/our-machines/arcooda-video-pinball/[Arcooda Video Pinball]
+* http://trylootcrate.com/blahcade[Try LootCrate and Get 10% Off Crates with Code `bridge10`]
+* https://represent.com/blahcade-shirt[BlahCade T-shirts on represent.com]
+* https://twitter.com/blahcade[@BlahCade on Twitter]
+* https://paypal.me/blahcade[Support us with a PayPal Donation]
+* blahblahblahcade@gmail.com
+
+== Timings
+
+* Introduction - 0:30
+* Bunnings and the UK - 1:20
+* Valentine Heeleys - 5:05
+* Fadget Cube - 7:00
+* John Wick 2 - 9:40
+* What tables are better than the movie - 14:05
+** The Shadow - 15:55
+** Congo - 16:35
+** Demolition Man - 17:40
+** Judge Dredd - 18:20
+** Dr Who - 21:10
+** The Flintstones - 22:35
+** Roller Games - 24:10
+** Quick list of the remainder - 24:55
+* Listener Challenge: http://tvtropes.org/pmwiki/pmwiki.php/Main/LicensedPinballTables#Data[East/Sega/Gottlieb tables] - 31:25
+* Arcooda custom backglass tech speculation - 33:25
+* Arcooda attract mode shuffle - 37:15
+* Arcooda Pinball Arcade requests  - 38:15
+* http://pinballarcadefans.com/showthread.php/12405-BlahCade-88-Arcooda-Been-a-Pinball-Wizard?p=255991&viewfull=1#post255991[Backglass examples that illustrate the point (relaxation)] - 38:45
+* Brisbane Pinball Club 2017 season starter at http://www.netherworldarcade.com/[Netherworld Arcade] - 42:10
+* Zen Pinball on Occulus GearVR - 44:00
+* Outtro - 47:25

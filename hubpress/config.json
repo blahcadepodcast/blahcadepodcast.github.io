@@ -11,17 +11,30 @@
     "description": "Digital Pinball, Real Pinball, Movies, Snacks (but mostly Digital Pinball)",
     "logo": "/images/logo.png",
     "cover": "/images/cover.jpg",
-    "postsPerPage": "10",
+    "postsPerPage": "8",
     "googleAnalytics": "UA-83260356-1",
-    "disqus": "blahcadepodcast"
+    "disqus": "blahcadepodcast",
+    "delay": "1000"
   },
   "socialnetwork": {
     "email": "blahblahblahcade@gmail.com",
     "twitter": "https://twitter.com/blahcade",
     "googleplus": "https://plus.google.com/111201633898451444599/",
-    "github": "https://github.com/blahcadepodcast/"
+    "github": "https://github.com/blahcadepodcast/",
+    "facebook": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
   },
   "theme": {
     "name": "uno"
+  },
+  "urls": {
+    "site": "http://blahcadepinball.com",
+    "hubpress": "http://blahcadepinball.com",
+    "theme": "//blahcadepinball.com/themes/uno",
+    "images": "http://blahcadepinball.com/images"
   }
 }

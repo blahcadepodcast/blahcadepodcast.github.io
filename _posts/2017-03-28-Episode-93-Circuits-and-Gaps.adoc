@@ -9,7 +9,7 @@ image::https://github.com/blahcadepodcast/blahcadepodcast.github.io/blob/master/
 
 Then we move into the digital realm with the latest FarSight news.
 
-http://shoutengine.com/BlahCadePodcast/[Play on ShoutEngine]
+http://shoutengine.com/BlahCadePodcast/circuits-and-gaps-33976[Play on ShoutEngine]
 
 https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[Subscribe on iTunes]
 

@@ -1,6 +1,6 @@
 = Episode 87: Track 'n' Field Drum Solo
 :hp-tags: farsight, gottlieb, listener-challenge
-:hp-image: images/logo.png
+:hp-image: logo.png
 
 http://shoutengine.com/BlahCadePodcast/track-n-field-drum-solo-31818 (ShoutEngine)
 

@@ -1,0 +1,51 @@
+= Episode 93: Circuits and Gaps
+:hp-tags: farsight, netherworld, lionman, paragon, embryon,
+:hp-image: logo.png
+
+This episode centers around a lot of techy IRL pinball talk.
+We talk mostly about a Bally Power Module board that is showing it's age.
+
+image::https://github.com/blahcadepodcast/blahcadepodcast.github.io/blob/master/images/bally-power-driver.jpg?raw=true[]
+
+Then we move into the digital realm with the latest FarSight news.
+
+http://shoutengine.com/BlahCadePodcast/[Play on ShoutEngine]
+
+https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2[Subscribe on iTunes]
+
+== Support the Show
+
+You can purchase a https://represent.com/blahcade-shirt[BlahCade T-shirt on represent.com] or https://paypal.me/blahcade[support us with a PayPal Donation].
+
+Funds help us keep the show running and our hosting providers paid.
+Thanks for your help.
+
+== Timings
+
+* Introduction - 0:30
+* On Ska Punk, and Yo Gabba Gabba - 2:25
+* Eight Ball Deluxe Power Driver Board - 6:10
+** Is C5 to C8 board charring normal? - 8:20
+** F5 charring - 9:00
+** Bridge Rectifier Jumpers - 10:55
+** Older boards and newer components - 12:05
+** Instant replacement vs incremental replacement - 15:15
+** EBD and Firepower circuit layout - 17:15
+** Nick Baldrige's Schematic Walkthroughs - 20:20
+** Chris needs to do some soldering homework - 22:50
+* Swords of Fury Official Release - 27:20
+* Paragon and Embryon Voting - 28:20
+* Pelvic thrusting and ball power - 30:50
+* DLC gap month for bug fixes - 32:50
+* Device support and SPA - 37:20
+* Netherworld Brisbane Pinball Club Tourney - 43:15
+* Aerosmith and Batman 66 thoughts - 43:40
+* Outtro - 46:10
+
+== Social Links
+
+* https://www.arcooda.com/our-machines/arcooda-video-pinball/[Arcooda Video Pinball]
+* http://www.netherworldarcade.com/[Netherworld Arcade in Brisbane]
+* https://twitter.com/blahcade[@BlahCade on Twitter]
+* Email us at blahblahblahcade@gmail.com
+

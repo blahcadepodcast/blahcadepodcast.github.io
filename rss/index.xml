@@ -1,4 +1,128 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[BlahCade Podcast]]></title><description><![CDATA[Digital Pinball, Real Pinball, Movies, Snacks (but mostly Digital Pinball)]]></description><link>http://blahcadepinball.com</link><image><url>/images/cover.jpg</url><title>BlahCade Podcast</title><link>http://blahcadepinball.com</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 20 Mar 2017 21:33:53 GMT</lastBuildDate><atom:link href="http://blahcadepinball.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Episode 92: Here Cum Da Guards]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[BlahCade Podcast]]></title><description><![CDATA[Digital Pinball, Real Pinball, Movies, Snacks (but mostly Digital Pinball)]]></description><link>http://blahcadepinball.com</link><image><url>/images/cover.jpg</url><title>BlahCade Podcast</title><link>http://blahcadepinball.com</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 27 Mar 2017 21:57:54 GMT</lastBuildDate><atom:link href="http://blahcadepinball.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Episode 93: Circuits and Gaps]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>This episode centers around a lot of techy IRL pinball talk.
+We talk mostly about a Bally Power Module board that is showing it&#8217;s age.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://github.com/blahcadepodcast/blahcadepodcast.github.io/blob/master/images/bally-power-driver.jpg?raw=true" alt="bally power driver.jpg?raw=true">
+</div>
+</div>
+<div class="paragraph">
+<p>Then we move into the digital realm with the latest FarSight news.</p>
+</div>
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/">Play on ShoutEngine</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">Subscribe on iTunes</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_support_the_show">Support the Show</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>You can purchase a <a href="https://represent.com/blahcade-shirt">BlahCade T-shirt on represent.com</a> or <a href="https://paypal.me/blahcade">support us with a PayPal Donation</a>.</p>
+</div>
+<div class="paragraph">
+<p>Funds help us keep the show running and our hosting providers paid.
+Thanks for your help.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Introduction - 0:30</p>
+</li>
+<li>
+<p>On Ska Punk, and Yo Gabba Gabba - 2:25</p>
+</li>
+<li>
+<p>Eight Ball Deluxe Power Driver Board - 6:10</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Is C5 to C8 board charring normal? - 8:20</p>
+</li>
+<li>
+<p>F5 charring - 9:00</p>
+</li>
+<li>
+<p>Bridge Rectifier Jumpers - 10:55</p>
+</li>
+<li>
+<p>Older boards and newer components - 12:05</p>
+</li>
+<li>
+<p>Instant replacement vs incremental replacement - 15:15</p>
+</li>
+<li>
+<p>EBD and Firepower circuit layout - 17:15</p>
+</li>
+<li>
+<p>Nick Baldrige&#8217;s Schematic Walkthroughs - 20:20</p>
+</li>
+<li>
+<p>Chris needs to do some soldering homework - 22:50</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Swords of Fury Official Release - 27:20</p>
+</li>
+<li>
+<p>Paragon and Embryon Voting - 28:20</p>
+</li>
+<li>
+<p>Pelvic thrusting and ball power - 30:50</p>
+</li>
+<li>
+<p>DLC gap month for bug fixes - 32:50</p>
+</li>
+<li>
+<p>Device support and SPA - 37:20</p>
+</li>
+<li>
+<p>Netherworld Brisbane Pinball Club Tourney - 43:15</p>
+</li>
+<li>
+<p>Aerosmith and Batman 66 thoughts - 43:40</p>
+</li>
+<li>
+<p>Outtro - 46:10</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_social_links">Social Links</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.arcooda.com/our-machines/arcooda-video-pinball/">Arcooda Video Pinball</a></p>
+</li>
+<li>
+<p><a href="http://www.netherworldarcade.com/">Netherworld Arcade in Brisbane</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/blahcade">@BlahCade on Twitter</a></p>
+</li>
+<li>
+<p>Email us at <a href="mailto:blahblahblahcade@gmail.com">blahblahblahcade@gmail.com</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2017/03/28/Episode-93-Circuits-and-Gaps.html</link><guid isPermaLink="true">http://blahcadepinball.com/2017/03/28/Episode-93-Circuits-and-Gaps.html</guid><category><![CDATA[farsight]]></category><category><![CDATA[ netherworld]]></category><category><![CDATA[ lionman]]></category><category><![CDATA[ paragon]]></category><category><![CDATA[ embryon]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 28 Mar 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 92: Here Cum Da Guards]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>This episode centers around the excellent Swords of Fury release in beta at the moment, and much hilarity ensues with certain aspects of that game.</p>

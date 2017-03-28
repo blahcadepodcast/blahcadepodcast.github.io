@@ -36,5 +36,15 @@
     "hubpress": "http://blahcadepinball.com",
     "theme": "//blahcadepinball.com/themes/uno",
     "images": "http://blahcadepinball.com/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }

@@ -1,4 +1,116 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[BlahCade Podcast]]></title><description><![CDATA[Digital Pinball, Real Pinball, Movies, Snacks (but mostly Digital Pinball)]]></description><link>http://blahcadepinball.com</link><image><url>/images/cover.jpg</url><title>BlahCade Podcast</title><link>http://blahcadepinball.com</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 27 Mar 2017 22:04:18 GMT</lastBuildDate><atom:link href="http://blahcadepinball.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Episode 93: Circuits and Gaps]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[BlahCade Podcast]]></title><description><![CDATA[Digital Pinball, Real Pinball, Movies, Snacks (but mostly Digital Pinball)]]></description><link>http://blahcadepinball.com</link><image><url>/images/cover.jpg</url><title>BlahCade Podcast</title><link>http://blahcadepinball.com</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 02 Apr 2017 22:24:43 GMT</lastBuildDate><atom:link href="http://blahcadepinball.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Episode 94: Bit Rot and Bug Fixes]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>It&#8217;s another very tech-focused show again as Chris details the latest happenings in Eight Ball Deluxe ownership.
+We also help align your expectations about what to expect in FarSight&#8217;s <em>Bug Bash 2017</em>^.
+There are some whisperings of good things to come from Zen as well, but you&#8217;ll have to wait and see what develops there.</p>
+</div>
+<div class="paragraph">
+<p>^ fictitious name created by Jared because it contained pleasing alliteration.</p>
+</div>
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/">Play on ShoutEngine</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2">Subscribe on iTunes</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_support_the_show">Support the Show</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>You can purchase a <a href="https://represent.com/blahcade-shirt">BlahCade T-shirt on represent.com</a> or <a href="https://paypal.me/blahcade">support us with a PayPal Donation</a>.</p>
+</div>
+<div class="paragraph">
+<p>Funds help us keep the show running and our hosting providers paid.
+Thanks for your help.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Introduction - 0:30</p>
+</li>
+<li>
+<p>Listener shout out: Andrew Driver - 4:50</p>
+</li>
+<li>
+<p>Leave a Review - 5:35</p>
+</li>
+<li>
+<p>Eight Ball Deluxe Tech Update - 8:45</p>
+<div class="ulist">
+<ul>
+<li>
+<p>What&#8217;s Next for EBD - 18:45</p>
+</li>
+<li>
+<p>Chris is willing to test LEDs - 24:05</p>
+</li>
+<li>
+<p>Flash Memory Kit for ROM state - 29:50</p>
+</li>
+<li>
+<p>SPIKE and the teeny tiny backbox board - 30:55</p>
+</li>
+<li>
+<p>Once you have one machine&#8230;&#8203; - 31:55</p>
+</li>
+<li>
+<p>Chris is not a board tech - 33:50</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Month of TPA Bug Fixes - 35:05</p>
+<div class="ulist">
+<ul>
+<li>
+<p>What will and won&#8217;t be fixed - 36:50</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Zen is cooking up a release - 38:10</p>
+</li>
+<li>
+<p>Contact Us - 39:30</p>
+</li>
+<li>
+<p>Outtro - 46:10</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_social_links">Social Links</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.arcooda.com/our-machines/arcooda-video-pinball/">Arcooda Video Pinball</a></p>
+</li>
+<li>
+<p><a href="http://www.netherworldarcade.com/">Netherworld Arcade in Brisbane</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/blahcade">@BlahCade on Twitter</a></p>
+</li>
+<li>
+<p>Email us at <a href="mailto:blahblahblahcade@gmail.com">blahblahblahcade@gmail.com</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2017/04/03/Episode-94-Bit-Rot-and-Bug-Fixes.html</link><guid isPermaLink="true">http://blahcadepinball.com/2017/04/03/Episode-94-Bit-Rot-and-Bug-Fixes.html</guid><category><![CDATA[farsight]]></category><category><![CDATA[ebd]]></category><category><![CDATA[zen]]></category><category><![CDATA[bugs]]></category><category><![CDATA[repairs]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 03 Apr 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 93: Circuits and Gaps]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>This episode centers around a lot of techy IRL pinball talk.

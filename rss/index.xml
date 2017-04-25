@@ -1,4 +1,171 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[BlahCade Podcast]]></title><description><![CDATA[Digital Pinball, Real Pinball, Movies, Snacks (but mostly Digital Pinball)]]></description><link>http://blahcadepinball.com</link><image><url>/images/cover.jpg</url><title>BlahCade Podcast</title><link>http://blahcadepinball.com</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 25 Apr 2017 10:30:44 GMT</lastBuildDate><atom:link href="http://blahcadepinball.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Episode 95: King of Pin]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[BlahCade Podcast]]></title><description><![CDATA[Digital Pinball, Real Pinball, Movies, Snacks (but mostly Digital Pinball)]]></description><link>http://blahcadepinball.com</link><image><url>/images/cover.jpg</url><title>BlahCade Podcast</title><link>http://blahcadepinball.com</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 25 Apr 2017 10:49:16 GMT</lastBuildDate><atom:link href="http://blahcadepinball.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Episode 96: Bugs, Scores and leaderboards]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>We start the show by swapping tourney stories, including a bit of bush field repair on a Twilight Zone by Jared.
+Then we lead into a big chat about FarSight&#8217;s "Month of Bugfixes" and revisit the Leaderboard reset we talked about in the last episode.
+A Chris' Adventures in Pinball Ownership update follows with a somewhat daunting foray into the idea of clear-coating.
+Finally we talk about what we have planned for our 100th episode, including another Magic Pixel (ASK Homework) AMA.
+Look for the survey link in the show timings, but be quick with asking your questions.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_download_and_listen">Download and Listen</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://shoutengine.com/BlahCadePodcast/bugs-scores-and-leaderboards-35226"><span class="image"><img src="http://media.cdn.shoutengine.com/static/img/layout/shoutengine-app-icon.png" alt="ShoutEngine" width="110" height="110"></span></a></p>
+</div>
+<a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2" style="display:inline-block;overflow:hidden;background:url(//linkmaker.itunes.apple.com/assets/shared/badges/en-us/podcast-lrg.svg) no-repeat;width:110px;height:40px;background-size:contain;"></a>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_support_the_show">Support the Show</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>You can purchase a <a href="https://represent.com/blahcade-shirt">BlahCade T-shirt on represent.com</a> or <a href="https://paypal.me/blahcade">support us with a PayPal Donation</a>.</p>
+</div>
+<div class="paragraph">
+<p>Funds help us keep the show running and our hosting providers paid.
+Thanks for your help.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_timings">Timings</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Introduction - 0:30</p>
+</li>
+<li>
+<p>Theme Parks Chat - 1:38</p>
+</li>
+<li>
+<p>Brisbane Pinball Club at Netherworld - 12:14</p>
+</li>
+<li>
+<p>Twilight Zone field repairs - 18:52</p>
+</li>
+<li>
+<p>Chris' tourney with GB LE, Dark Knight and Spooky Pins - 20:26</p>
+</li>
+<li>
+<p>FarSight&#8217;s Month of Bugfixes - 26:24</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Genie - 27:12</p>
+</li>
+<li>
+<p>Cirqus Voltaire - 27:58</p>
+</li>
+<li>
+<p>Creature From the Black Lagoon - 31:42</p>
+</li>
+<li>
+<p>Ramp physics vs table physics (vacuum ramps) - 37:44</p>
+</li>
+<li>
+<p>MM&#8217;s reverse right ramp ball path - 39:10</p>
+</li>
+<li>
+<p>Mobile is lagging behind - 40:16</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Leaderboard Talk</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Clearing the leaderboards follow-up - 42:02</p>
+</li>
+<li>
+<p>Riskiest assumption test on leaderboard reset - 44:56</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>EBD Update - 46:20</p>
+</li>
+<li>
+<p>Clear coating</p>
+<div class="ulist">
+<ul>
+<li>
+<p>How do you clear-coat? - 47:50</p>
+</li>
+<li>
+<p>Lock in the playfield history - 53:00</p>
+</li>
+<li>
+<p>Redo the Firepower Art - 54:28</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>EBD Mylar</p>
+<div class="ulist">
+<ul>
+<li>
+<p>EBD mylar cracked, not playfield - 56:28</p>
+</li>
+<li>
+<p>Restoring cloudy mylar with Treasure Cove - 57:48</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Mylaring modern Sterns (Hi Ed) - 58:58</p>
+</li>
+<li>
+<p>EBD Owners Club on <a href="https://pinside.com/pinball/forum/topic/eight-ball-deluxe-owner-club-guests-welcome-as-well">Pinside</a> - 60:00</p>
+</li>
+<li>
+<p>100th Podcast Plans - 62:00</p>
+</li>
+<li>
+<p>Zaccaria AMA Survey <a href="https://goo.gl/forms/ywjEX7G4EKjJgYjb2">last days</a> - 62:26</p>
+</li>
+<li>
+<p>Open invitation to attend live recording - 63:00</p>
+</li>
+<li>
+<p>Please review our podcast on Apple Podcasts - 65:00</p>
+</li>
+<li>
+<p>Outtro - 66:00</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_social_links">Social Links</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.arcooda.com/our-machines/arcooda-video-pinball/">Arcooda Video Pinball</a></p>
+</li>
+<li>
+<p><a href="http://www.netherworldarcade.com/">Netherworld Arcade in Brisbane</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/blahcade">@BlahCade on Twitter</a></p>
+</li>
+<li>
+<p>Email us at <a href="mailto:blahblahblahcade@gmail.com">blahblahblahcade@gmail.com</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>http://blahcadepinball.com/2017/04/25/Episode-96-Bugs-Scores-and-leaderboards.html</link><guid isPermaLink="true">http://blahcadepinball.com/2017/04/25/Episode-96-Bugs-Scores-and-leaderboards.html</guid><category><![CDATA[farsight]]></category><category><![CDATA[ebd]]></category><category><![CDATA[leaderboards]]></category><category><![CDATA[zaccaria]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 25 Apr 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 95: King of Pin]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>This episode turned out to be broken down into three distinct segments.
@@ -382,7 +549,7 @@ Thanks for your help.</p>
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2017/03/28/Episode-93-Circuits-and-Gaps.html</link><guid isPermaLink="true">http://blahcadepinball.com/2017/03/28/Episode-93-Circuits-and-Gaps.html</guid><category><![CDATA[farsight]]></category><category><![CDATA[ netherworld]]></category><category><![CDATA[ lionman]]></category><category><![CDATA[ paragon]]></category><category><![CDATA[ embryon]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 28 Mar 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 92: Here Cum Da Guards]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2017/03/28/Episode-93-Circuits-and-Gaps.html</link><guid isPermaLink="true">http://blahcadepinball.com/2017/03/28/Episode-93-Circuits-and-Gaps.html</guid><category><![CDATA[farsight]]></category><category><![CDATA[netherworld]]></category><category><![CDATA[lionman]]></category><category><![CDATA[paragon]]></category><category><![CDATA[embryon]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 28 Mar 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 92: Here Cum Da Guards]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>This episode centers around the excellent Swords of Fury release in beta at the moment, and much hilarity ensues with certain aspects of that game.</p>
@@ -491,7 +658,7 @@ Thanks for your help.</p>
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2017/03/21/Episode-92-Here-Cum-Da-Guards.html</link><guid isPermaLink="true">http://blahcadepinball.com/2017/03/21/Episode-92-Here-Cum-Da-Guards.html</guid><category><![CDATA[farsight]]></category><category><![CDATA[ netherworld]]></category><category><![CDATA[ lionman]]></category><category><![CDATA[ ants]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 21 Mar 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 91: Chalk up, Lion Man]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2017/03/21/Episode-92-Here-Cum-Da-Guards.html</link><guid isPermaLink="true">http://blahcadepinball.com/2017/03/21/Episode-92-Here-Cum-Da-Guards.html</guid><category><![CDATA[farsight]]></category><category><![CDATA[netherworld]]></category><category><![CDATA[lionman]]></category><category><![CDATA[ants]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 21 Mar 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 91: Chalk up, Lion Man]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>A short(er) one this week. We cover the fact Williams tables might be coming back into TPA with Swords of Fury being announced as the next table.
@@ -589,7 +756,7 @@ Thanks for your help.</p>
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2017/03/08/Episode-91-Chalk-up-Lion-Man.html</link><guid isPermaLink="true">http://blahcadepinball.com/2017/03/08/Episode-91-Chalk-up-Lion-Man.html</guid><category><![CDATA[farsight]]></category><category><![CDATA[ netherworld]]></category><category><![CDATA[ stern]]></category><category><![CDATA[ challenges]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 08 Mar 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 90: It's like Cactus Jacks 2, with Pool]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2017/03/08/Episode-91-Chalk-up-Lion-Man.html</link><guid isPermaLink="true">http://blahcadepinball.com/2017/03/08/Episode-91-Chalk-up-Lion-Man.html</guid><category><![CDATA[farsight]]></category><category><![CDATA[netherworld]]></category><category><![CDATA[stern]]></category><category><![CDATA[challenges]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 08 Mar 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 90: It's like Cactus Jacks 2, with Pool]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p><a href="http://shoutengine.com/BlahCadePodcast/its-like-cactus-jacks-2-with-pool-32789">Play on ShoutEngine</a></p>
@@ -741,7 +908,7 @@ Go check it out if you&#8217;re in Brisbane: you won&#8217;t be disappointed.</p
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2017/02/28/Episode-90-Its-like-Cactus-Jacks-2-with-Pool.html</link><guid isPermaLink="true">http://blahcadepinball.com/2017/02/28/Episode-90-Its-like-Cactus-Jacks-2-with-Pool.html</guid><category><![CDATA[farsight]]></category><category><![CDATA[ netherworld]]></category><category><![CDATA[ bpc]]></category><category><![CDATA[ stern]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 28 Feb 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 89: Fadgeting with your Dinner Sausage]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2017/02/28/Episode-90-Its-like-Cactus-Jacks-2-with-Pool.html</link><guid isPermaLink="true">http://blahcadepinball.com/2017/02/28/Episode-90-Its-like-Cactus-Jacks-2-with-Pool.html</guid><category><![CDATA[farsight]]></category><category><![CDATA[netherworld]]></category><category><![CDATA[bpc]]></category><category><![CDATA[stern]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 28 Feb 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 89: Fadgeting with your Dinner Sausage]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p><a href="http://shoutengine.com/BlahCadePodcast/fadgeting-with-your-dinner-sausage-32476" class="bare">http://shoutengine.com/BlahCadePodcast/fadgeting-with-your-dinner-sausage-32476</a> (ShoutEngine)</p>
@@ -867,7 +1034,7 @@ There is also news about Zen Pinball on Samsung OculusVR, and Arcooda gets some 
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2017/02/21/Episode-89-Fadgeting-with-your-Dinner-Sausage.html</link><guid isPermaLink="true">http://blahcadepinball.com/2017/02/21/Episode-89-Fadgeting-with-your-Dinner-Sausage.html</guid><category><![CDATA[farsight]]></category><category><![CDATA[ arcooda]]></category><category><![CDATA[ zen]]></category><category><![CDATA[ occulus]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 21 Feb 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 88: Arcooda Been a Pinball Wizard]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2017/02/21/Episode-89-Fadgeting-with-your-Dinner-Sausage.html</link><guid isPermaLink="true">http://blahcadepinball.com/2017/02/21/Episode-89-Fadgeting-with-your-Dinner-Sausage.html</guid><category><![CDATA[farsight]]></category><category><![CDATA[arcooda]]></category><category><![CDATA[zen]]></category><category><![CDATA[occulus]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 21 Feb 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 88: Arcooda Been a Pinball Wizard]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p><a href="https://shoutengine.com/BlahCadePodcast/arcooda-been-a-pinball-wizard-32165" class="bare">https://shoutengine.com/BlahCadePodcast/arcooda-been-a-pinball-wizard-32165</a> (ShoutEngine)</p>
@@ -997,7 +1164,7 @@ There is also news about Zen Pinball on Samsung OculusVR, and Arcooda gets some 
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2017/02/14/Episode-88-Arcooda-Been-a-Pinball-Wizard.html</link><guid isPermaLink="true">http://blahcadepinball.com/2017/02/14/Episode-88-Arcooda-Been-a-Pinball-Wizard.html</guid><category><![CDATA[farsight]]></category><category><![CDATA[ arcooda]]></category><category><![CDATA[ pinball]]></category><category><![CDATA[ arcade]]></category><category><![CDATA[ timeshock]]></category><category><![CDATA[ cabinet]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 14 Feb 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 87: Track 'n' Field Drum Solo]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2017/02/14/Episode-88-Arcooda-Been-a-Pinball-Wizard.html</link><guid isPermaLink="true">http://blahcadepinball.com/2017/02/14/Episode-88-Arcooda-Been-a-Pinball-Wizard.html</guid><category><![CDATA[farsight]]></category><category><![CDATA[arcooda]]></category><category><![CDATA[pinball]]></category><category><![CDATA[arcade]]></category><category><![CDATA[timeshock]]></category><category><![CDATA[cabinet]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 14 Feb 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 87: Track 'n' Field Drum Solo]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p><a href="http://shoutengine.com/BlahCadePodcast/track-n-field-drum-solo-31818" class="bare">http://shoutengine.com/BlahCadePodcast/track-n-field-drum-solo-31818</a> (ShoutEngine)</p>
@@ -1118,7 +1285,7 @@ We&#8217;ll be fully covering Arcooda&#8217;s partnership with Barnstorm Games n
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2017/02/07/Episode-87-Track-n-Field-Drum-Solo.html</link><guid isPermaLink="true">http://blahcadepinball.com/2017/02/07/Episode-87-Track-n-Field-Drum-Solo.html</guid><category><![CDATA[farsight]]></category><category><![CDATA[ gottlieb]]></category><category><![CDATA[ listener-challenge]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 07 Feb 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Breaking: Arcooda Parters with Barnstorm Games]]></title><description><![CDATA[<div class="paragraph">
+</div>]]></description><link>http://blahcadepinball.com/2017/02/07/Episode-87-Track-n-Field-Drum-Solo.html</link><guid isPermaLink="true">http://blahcadepinball.com/2017/02/07/Episode-87-Track-n-Field-Drum-Solo.html</guid><category><![CDATA[farsight]]></category><category><![CDATA[gottlieb]]></category><category><![CDATA[listener-challenge]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 07 Feb 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Breaking: Arcooda Parters with Barnstorm Games]]></title><description><![CDATA[<div class="paragraph">
 <p>Arcooda hinted at exciting things to come today on their twitter account today.</p>
 </div>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Big announcements to be made this week. Stay tuned. <a href="https://twitter.com/hashtag/arcade?src=hash">#arcade</a> <a href="https://twitter.com/hashtag/Pinball?src=hash">#Pinball</a> <a href="https://t.co/9kWylwCh5D">pic.twitter.com/9kWylwCh5D</a></p>&mdash; Arcooda (@arcooda) <a href="https://twitter.com/arcooda/status/828475588293701633">February 6, 2017</a></blockquote>
@@ -1146,7 +1313,7 @@ From what I got from the scoop the team at Arcooda gave BlahCade, there is more 
 <div class="paragraph">
 <p>With Arcooda, it&#8217;s <em>Game Never Over</em>.
 What are your thoughts about this new deal? Has Arcooda got your attention yet?</p>
-</div>]]></description><link>http://blahcadepinball.com/2017/02/06/Breaking-Arcooda-Parters-with-Barnstorm-Games.html</link><guid isPermaLink="true">http://blahcadepinball.com/2017/02/06/Breaking-Arcooda-Parters-with-Barnstorm-Games.html</guid><category><![CDATA[arcooda]]></category><category><![CDATA[ news]]></category><category><![CDATA[ barnstorm]]></category><category><![CDATA[ pro_pinball]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 06 Feb 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 86: From Meatballs to Mods]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2017/02/06/Breaking-Arcooda-Parters-with-Barnstorm-Games.html</link><guid isPermaLink="true">http://blahcadepinball.com/2017/02/06/Breaking-Arcooda-Parters-with-Barnstorm-Games.html</guid><category><![CDATA[arcooda]]></category><category><![CDATA[news]]></category><category><![CDATA[barnstorm]]></category><category><![CDATA[pro_pinball]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 06 Feb 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 86: From Meatballs to Mods]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p><a href="https://shoutengine.com/BlahCadePodcast/from-meatballs-to-mods-30637" class="bare">https://shoutengine.com/BlahCadePodcast/from-meatballs-to-mods-30637</a> (Shout Engine)</p>
@@ -1263,7 +1430,7 @@ If you have any ideas about stuff we should talk about, contact us using the Soc
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2017/01/31/Episode-86-From-Meatballs-to-Mods.html</link><guid isPermaLink="true">http://blahcadepinball.com/2017/01/31/Episode-86-From-Meatballs-to-Mods.html</guid><category><![CDATA[farsight]]></category><category><![CDATA[ gottlieb]]></category><category><![CDATA[ listener-challenge]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 31 Jan 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 85: If you don't have anything nice to say...]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2017/01/31/Episode-86-From-Meatballs-to-Mods.html</link><guid isPermaLink="true">http://blahcadepinball.com/2017/01/31/Episode-86-From-Meatballs-to-Mods.html</guid><category><![CDATA[farsight]]></category><category><![CDATA[gottlieb]]></category><category><![CDATA[listener-challenge]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 31 Jan 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 85: If you don't have anything nice to say...]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p><a href="https://shoutengine.com/BlahCadePodcast/if-you-dont-have-anything-nice-to-say-30344" class="bare">https://shoutengine.com/BlahCadePodcast/if-you-dont-have-anything-nice-to-say-30344</a> (Shout Engine)</p>
@@ -1416,7 +1583,7 @@ If you have any ideas about stuff we should talk about, contact us using the Soc
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2017/01/24/Episode-85-If-you-dont-have-anything-nice-to-say.html</link><guid isPermaLink="true">http://blahcadepinball.com/2017/01/24/Episode-85-If-you-dont-have-anything-nice-to-say.html</guid><category><![CDATA[farsight]]></category><category><![CDATA[ gottlieb]]></category><category><![CDATA[ arcooda]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 24 Jan 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 84: Bin Juice Drinking Gronks]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2017/01/24/Episode-85-If-you-dont-have-anything-nice-to-say.html</link><guid isPermaLink="true">http://blahcadepinball.com/2017/01/24/Episode-85-If-you-dont-have-anything-nice-to-say.html</guid><category><![CDATA[farsight]]></category><category><![CDATA[gottlieb]]></category><category><![CDATA[arcooda]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 24 Jan 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 84: Bin Juice Drinking Gronks]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p><a href="http://shoutengine.com/BlahCadePodcast/bin-juice-drinking-gronks-30160" class="bare">http://shoutengine.com/BlahCadePodcast/bin-juice-drinking-gronks-30160</a> (Shout Engine)</p>
@@ -1532,7 +1699,7 @@ If you have any ideas about stuff we should talk about, contact us using the Soc
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2017/01/19/Episode-84-Bin-Juice-Drinking-Gronks.html</link><guid isPermaLink="true">http://blahcadepinball.com/2017/01/19/Episode-84-Bin-Juice-Drinking-Gronks.html</guid><category><![CDATA[zen]]></category><category><![CDATA[ farsight]]></category><category><![CDATA[ noodlecake]]></category><category><![CDATA[ movies]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Thu, 19 Jan 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 83: Welcome to 2017]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2017/01/19/Episode-84-Bin-Juice-Drinking-Gronks.html</link><guid isPermaLink="true">http://blahcadepinball.com/2017/01/19/Episode-84-Bin-Juice-Drinking-Gronks.html</guid><category><![CDATA[zen]]></category><category><![CDATA[farsight]]></category><category><![CDATA[noodlecake]]></category><category><![CDATA[movies]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Thu, 19 Jan 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 83: Welcome to 2017]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p><a href="http://shoutengine.com/BlahCadePodcast/welcome-to-2017-28169" class="bare">http://shoutengine.com/BlahCadePodcast/welcome-to-2017-28169</a> (Shout Engine)</p>
@@ -1739,7 +1906,7 @@ If you have any ideas about stuff we should talk about, contact us using the Soc
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2017/01/10/Episode-83-Welcome-to-2017.html</link><guid isPermaLink="true">http://blahcadepinball.com/2017/01/10/Episode-83-Welcome-to-2017.html</guid><category><![CDATA[zen]]></category><category><![CDATA[ farsight]]></category><category><![CDATA[ stern]]></category><category><![CDATA[ gottlieb]]></category><category><![CDATA[ noodlecake]]></category><category><![CDATA[ who]]></category><category><![CDATA[ movies]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 10 Jan 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 82: Last Gasp 2016]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2017/01/10/Episode-83-Welcome-to-2017.html</link><guid isPermaLink="true">http://blahcadepinball.com/2017/01/10/Episode-83-Welcome-to-2017.html</guid><category><![CDATA[zen]]></category><category><![CDATA[farsight]]></category><category><![CDATA[stern]]></category><category><![CDATA[gottlieb]]></category><category><![CDATA[noodlecake]]></category><category><![CDATA[who]]></category><category><![CDATA[movies]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 10 Jan 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 82: Last Gasp 2016]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p><a href="https://shoutengine.com/BlahCadePodcast/last-gasp-2016-27628" class="bare">https://shoutengine.com/BlahCadePodcast/last-gasp-2016-27628</a> (Shout Engine)</p>
@@ -1927,7 +2094,7 @@ If you have any ideas about stuff we should talk about, contact us using the Soc
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/12/30/Episode-82-Last-Gasp-2016.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/12/30/Episode-82-Last-Gasp-2016.html</guid><category><![CDATA[zen]]></category><category><![CDATA[ farsight]]></category><category><![CDATA[ stern]]></category><category><![CDATA[ gottlieb]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Fri, 30 Dec 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 81: 2016 In Review, and More]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/12/30/Episode-82-Last-Gasp-2016.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/12/30/Episode-82-Last-Gasp-2016.html</guid><category><![CDATA[zen]]></category><category><![CDATA[farsight]]></category><category><![CDATA[stern]]></category><category><![CDATA[gottlieb]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Fri, 30 Dec 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 81: 2016 In Review, and More]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p><a href="http://shoutengine.com/BlahCadePodcast/2016-in-review-and-more-27327" class="bare">http://shoutengine.com/BlahCadePodcast/2016-in-review-and-more-27327</a> (Shout Engine)</p>
@@ -2141,7 +2308,7 @@ If you have any ideas about stuff we should talk about, contact us using the Soc
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/12/21/Episode-81-2016-In-Review-and-More.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/12/21/Episode-81-2016-In-Review-and-More.html</guid><category><![CDATA[zen]]></category><category><![CDATA[ farsight]]></category><category><![CDATA[ christmas]]></category><category><![CDATA[ stern]]></category><category><![CDATA[ gottlieb]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 21 Dec 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 80: Take the Challenge, Brave One.]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/12/21/Episode-81-2016-In-Review-and-More.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/12/21/Episode-81-2016-In-Review-and-More.html</guid><category><![CDATA[zen]]></category><category><![CDATA[farsight]]></category><category><![CDATA[christmas]]></category><category><![CDATA[stern]]></category><category><![CDATA[gottlieb]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 21 Dec 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 80: Take the Challenge, Brave One.]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p><a href="http://shoutengine.com/BlahCadePodcast/take-the-challenge-brave-one-26803" class="bare">http://shoutengine.com/BlahCadePodcast/take-the-challenge-brave-one-26803</a> (Shout Engine)</p>
@@ -2287,7 +2454,7 @@ If you have any ideas about stuff we should talk about, contact us using the Soc
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/12/06/Episode-80-Take-the-Challenge-Brave-One.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/12/06/Episode-80-Take-the-Challenge-Brave-One.html</guid><category><![CDATA[zen]]></category><category><![CDATA[ farsight]]></category><category><![CDATA[ pc]]></category><category><![CDATA[ specs]]></category><category><![CDATA[ christmas]]></category><category><![CDATA[ stern]]></category><category><![CDATA[ gottlieb]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 06 Dec 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 79: Questions That Drift To the Future-past]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/12/06/Episode-80-Take-the-Challenge-Brave-One.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/12/06/Episode-80-Take-the-Challenge-Brave-One.html</guid><category><![CDATA[zen]]></category><category><![CDATA[farsight]]></category><category><![CDATA[pc]]></category><category><![CDATA[specs]]></category><category><![CDATA[christmas]]></category><category><![CDATA[stern]]></category><category><![CDATA[gottlieb]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 06 Dec 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 79: Questions That Drift To the Future-past]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p><a href="http://shoutengine.com/BlahCadePodcast/questions-that-drift-to-the-future-past-26109" class="bare">http://shoutengine.com/BlahCadePodcast/questions-that-drift-to-the-future-past-26109</a> (Shout Engine)</p>
@@ -2397,7 +2564,7 @@ If you have any ideas about stuff we should talk about, contact us using the Soc
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/11/14/Episode-79-Questions-That-Drift-To-the-Future-past.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/11/14/Episode-79-Questions-That-Drift-To-the-Future-past.html</guid><category><![CDATA[daytona]]></category><category><![CDATA[ questions]]></category><category><![CDATA[ pinout]]></category><category><![CDATA[ stern]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 14 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 78: Rethemes and Cross-promotions]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/11/14/Episode-79-Questions-That-Drift-To-the-Future-past.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/11/14/Episode-79-Questions-That-Drift-To-the-Future-past.html</guid><category><![CDATA[daytona]]></category><category><![CDATA[questions]]></category><category><![CDATA[pinout]]></category><category><![CDATA[stern]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 14 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 78: Rethemes and Cross-promotions]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p><a href="http://shoutengine.com/BlahCadePodcast/rethemes-and-cross-promotions-25884" class="bare">http://shoutengine.com/BlahCadePodcast/rethemes-and-cross-promotions-25884</a> (Shout Engine)</p>
@@ -2523,7 +2690,7 @@ If you have any ideas about stuff we should talk about, contact us using the Soc
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/11/08/Episode-78-Rethemes-and-Cross-promotions.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/11/08/Episode-78-Rethemes-and-Cross-promotions.html</guid><category><![CDATA[zen]]></category><category><![CDATA[ movies]]></category><category><![CDATA[ pinout]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 08 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 77: Bust your Bone]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/11/08/Episode-78-Rethemes-and-Cross-promotions.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/11/08/Episode-78-Rethemes-and-Cross-promotions.html</guid><category><![CDATA[zen]]></category><category><![CDATA[movies]]></category><category><![CDATA[pinout]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 08 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 77: Bust your Bone]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p><a href="http://shoutengine.com/BlahCadePodcast/bust-your-bone-25684" class="bare">http://shoutengine.com/BlahCadePodcast/bust-your-bone-25684</a> (Shout Engine)</p>
@@ -2730,7 +2897,7 @@ If you have any ideas about stuff we should talk about, contact us using the Soc
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/11/02/Episode-77-Bust-your-Bone.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/11/02/Episode-77-Bust-your-Bone.html</guid><category><![CDATA[Halloween]]></category><category><![CDATA[ Bone]]></category><category><![CDATA[ Busters]]></category><category><![CDATA[ EM]]></category><category><![CDATA[ Who]]></category><category><![CDATA[ Virtual]]></category><category><![CDATA[ Digital]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 02 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 76: Steam Saves and Managing Friends]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/11/02/Episode-77-Bust-your-Bone.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/11/02/Episode-77-Bust-your-Bone.html</guid><category><![CDATA[Halloween]]></category><category><![CDATA[Bone]]></category><category><![CDATA[Busters]]></category><category><![CDATA[EM]]></category><category><![CDATA[Who]]></category><category><![CDATA[Virtual]]></category><category><![CDATA[Digital]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 02 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 76: Steam Saves and Managing Friends]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>Join us for a mixed bag of topics, including how you can restore game progress in Steam TPA when all hope is lost.</p>
@@ -2854,7 +3021,7 @@ If you have any ideas about stuff we should talk about, contact us using the Soc
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/10/26/Episode-76-Steam-Saves-and-Managing-Friends.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/10/26/Episode-76-Steam-Saves-and-Managing-Friends.html</guid><category><![CDATA[farsight]]></category><category><![CDATA[ steam]]></category><category><![CDATA[ ghostbusters]]></category><category><![CDATA[ dr_who]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 26 Oct 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 75: When Pinball Loses Its Shine]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/10/26/Episode-76-Steam-Saves-and-Managing-Friends.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/10/26/Episode-76-Steam-Saves-and-Managing-Friends.html</guid><category><![CDATA[farsight]]></category><category><![CDATA[steam]]></category><category><![CDATA[ghostbusters]]></category><category><![CDATA[dr_who]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 26 Oct 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 75: When Pinball Loses Its Shine]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>How does something like saving and restoring game progress affect a user' perspective of your game?
@@ -3033,7 +3200,7 @@ We discuss this in this episode, as well as the following topics:</p>
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/10/19/Episode-75-When-Pinball-Loses-Its-Shine.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/10/19/Episode-75-When-Pinball-Loses-Its-Shine.html</guid><category><![CDATA[steam]]></category><category><![CDATA[ save]]></category><category><![CDATA[ tourney]]></category><category><![CDATA[ tokens]]></category><category><![CDATA[ ReplayFX]]></category><category><![CDATA[ announcements]]></category><category><![CDATA[ releases]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 19 Oct 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 74: Antisocial Arachnids and Full Service Servos]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/10/19/Episode-75-When-Pinball-Loses-Its-Shine.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/10/19/Episode-75-When-Pinball-Loses-Its-Shine.html</guid><category><![CDATA[steam]]></category><category><![CDATA[save]]></category><category><![CDATA[tourney]]></category><category><![CDATA[tokens]]></category><category><![CDATA[ReplayFX]]></category><category><![CDATA[announcements]]></category><category><![CDATA[releases]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 19 Oct 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 74: Antisocial Arachnids and Full Service Servos]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>It&#8217;s a DLC pack of Dr Who and Powerful Women, with a bone busting commentary on the next FarSight table.</p>
@@ -3174,7 +3341,7 @@ We discuss this in this episode, as well as the following topics:</p>
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/10/05/Episode-74-Antisocial-Arachnids-and-Full-Service-Servos.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/10/05/Episode-74-Antisocial-Arachnids-and-Full-Service-Servos.html</guid><category><![CDATA[zen]]></category><category><![CDATA[ dr_who]]></category><category><![CDATA[ backroom]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 05 Oct 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 73: Marvel at Timelords]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/10/05/Episode-74-Antisocial-Arachnids-and-Full-Service-Servos.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/10/05/Episode-74-Antisocial-Arachnids-and-Full-Service-Servos.html</guid><category><![CDATA[zen]]></category><category><![CDATA[dr_who]]></category><category><![CDATA[backroom]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 05 Oct 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 73: Marvel at Timelords]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>We&#8217;re back with your prescription for digital pinball discussion.</p>
@@ -3307,7 +3474,7 @@ It ends abruptly: the bouncer kicked Chris and I out of the backroom because we 
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/09/28/Episode-73-Marvel-at-Timelords.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/09/28/Episode-73-Marvel-at-Timelords.html</guid><category><![CDATA[zen]]></category><category><![CDATA[ farsight]]></category><category><![CDATA[ dr_who]]></category><category><![CDATA[ marvel]]></category><category><![CDATA[ blahzen]]></category><category><![CDATA[ backroom]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 28 Sep 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 72: The Money Shot]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/09/28/Episode-73-Marvel-at-Timelords.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/09/28/Episode-73-Marvel-at-Timelords.html</guid><category><![CDATA[zen]]></category><category><![CDATA[farsight]]></category><category><![CDATA[dr_who]]></category><category><![CDATA[marvel]]></category><category><![CDATA[blahzen]]></category><category><![CDATA[backroom]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 28 Sep 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 72: The Money Shot]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>Have you joined us in playing a bit of #blahzen Zen Pinball Score Chase?
@@ -3507,7 +3674,7 @@ Let us know what you think about our hypotheses, or perhaps provide your own.</p
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/09/15/Episode-72-The-Money-Shot.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/09/15/Episode-72-The-Money-Shot.html</guid><category><![CDATA[zen]]></category><category><![CDATA[ blahzen]]></category><category><![CDATA[ vr]]></category><category><![CDATA[ pinball]]></category><category><![CDATA[ owners]]></category><category><![CDATA[ star_wars]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Thu, 15 Sep 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 71: Things That Make You Go Hummm]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/09/15/Episode-72-The-Money-Shot.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/09/15/Episode-72-The-Money-Shot.html</guid><category><![CDATA[zen]]></category><category><![CDATA[blahzen]]></category><category><![CDATA[vr]]></category><category><![CDATA[pinball]]></category><category><![CDATA[owners]]></category><category><![CDATA[star_wars]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Thu, 15 Sep 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 71: Things That Make You Go Hummm]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>In this episode:</p>
@@ -3675,7 +3842,7 @@ Let us know what you think about our hypotheses, or perhaps provide your own.</p
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/09/06/Episode-71-Things-That-Make-You-Go-Hummm.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/09/06/Episode-71-Things-That-Make-You-Go-Hummm.html</guid><category><![CDATA[EM]]></category><category><![CDATA[ Zen]]></category><category><![CDATA[ Tourney]]></category><category><![CDATA[ Star_Wars]]></category><category><![CDATA[ blahzen]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 06 Sep 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 70: Questions Answered (Sort Of)]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/09/06/Episode-71-Things-That-Make-You-Go-Hummm.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/09/06/Episode-71-Things-That-Make-You-Go-Hummm.html</guid><category><![CDATA[EM]]></category><category><![CDATA[Zen]]></category><category><![CDATA[Tourney]]></category><category><![CDATA[Star_Wars]]></category><category><![CDATA[blahzen]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 06 Sep 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 70: Questions Answered (Sort Of)]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>Strap one on and plunge into this 75 minute installment of BlahCade.</p>
@@ -3904,7 +4071,7 @@ There are some long-standing casualties in this list that can finally be put to 
   ETA for this feature is no later than February next year.</p>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/09/01/Episode-70-Questions-Answered-Sort-Of.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/09/01/Episode-70-Questions-Answered-Sort-Of.html</guid><category><![CDATA[AMA]]></category><category><![CDATA[ Bugs]]></category><category><![CDATA[ Features]]></category><category><![CDATA[ Physics]]></category><category><![CDATA[ Who]]></category><category><![CDATA[ Tourney]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Thu, 01 Sep 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 69: Tech Talk, Bugs, and Features]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/09/01/Episode-70-Questions-Answered-Sort-Of.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/09/01/Episode-70-Questions-Answered-Sort-Of.html</guid><category><![CDATA[AMA]]></category><category><![CDATA[Bugs]]></category><category><![CDATA[Features]]></category><category><![CDATA[Physics]]></category><category><![CDATA[Who]]></category><category><![CDATA[Tourney]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Thu, 01 Sep 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 69: Tech Talk, Bugs, and Features]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>It&#8217;s a huge show this week, again:</p>
@@ -4072,7 +4239,7 @@ There are some long-standing casualties in this list that can finally be put to 
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/08/24/Episode-69-Tech-Talk-Bugs-and-Features.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/08/24/Episode-69-Tech-Talk-Bugs-and-Features.html</guid><category><![CDATA[EBD]]></category><category><![CDATA[ AMA]]></category><category><![CDATA[ Bugs]]></category><category><![CDATA[ Features]]></category><category><![CDATA[ Physics]]></category><category><![CDATA[ Who]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 24 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 68: Blab is Dead. Long live Blab.]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/08/24/Episode-69-Tech-Talk-Bugs-and-Features.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/08/24/Episode-69-Tech-Talk-Bugs-and-Features.html</guid><category><![CDATA[EBD]]></category><category><![CDATA[AMA]]></category><category><![CDATA[Bugs]]></category><category><![CDATA[Features]]></category><category><![CDATA[Physics]]></category><category><![CDATA[Who]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 24 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 68: Blab is Dead. Long live Blab.]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>It&#8217;s a huge show this week, after we took a break for a week:</p>
@@ -4288,7 +4455,7 @@ Blab will regenerate from the ashes again in a different form, just like the Doc
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/08/17/Episode-68-Blab-is-Dead-Long-live-Blab.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/08/17/Episode-68-Blab-is-Dead-Long-live-Blab.html</guid><category><![CDATA[tourney]]></category><category><![CDATA[ colordmd]]></category><category><![CDATA[ H2H]]></category><category><![CDATA[ BPC]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 17 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 67: Harry Nutter and the Call-in Collector]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/08/17/Episode-68-Blab-is-Dead-Long-live-Blab.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/08/17/Episode-68-Blab-is-Dead-Long-live-Blab.html</guid><category><![CDATA[tourney]]></category><category><![CDATA[colordmd]]></category><category><![CDATA[H2H]]></category><category><![CDATA[BPC]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 17 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 67: Harry Nutter and the Call-in Collector]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>With heckling from Andrea Friebus, we bring you the latest installment of BlahCade madness you&#8217;ve come to expect.</p>
@@ -4395,7 +4562,7 @@ It&#8217;s worth it.</p>
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/08/03/Episode-67-Harry-Nutter-and-the-Call-in-Collector.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/08/03/Episode-67-Harry-Nutter-and-the-Call-in-Collector.html</guid><category><![CDATA[gottlieb]]></category><category><![CDATA[ premier]]></category><category><![CDATA[ ebd]]></category><category><![CDATA[ call-in]]></category><category><![CDATA[ h2h]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 03 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 66: No Good Gottliebs (Premier)]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/08/03/Episode-67-Harry-Nutter-and-the-Call-in-Collector.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/08/03/Episode-67-Harry-Nutter-and-the-Call-in-Collector.html</guid><category><![CDATA[gottlieb]]></category><category><![CDATA[premier]]></category><category><![CDATA[ebd]]></category><category><![CDATA[call-in]]></category><category><![CDATA[h2h]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 03 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 66: No Good Gottliebs (Premier)]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>Prepare for a mixed bag of content in this episode:</p>
@@ -4549,7 +4716,7 @@ It&#8217;s worth it.</p>
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/07/26/Episode-66-No-Good-Gottliebs-Premier.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/07/26/Episode-66-No-Good-Gottliebs-Premier.html</guid><category><![CDATA[tourney]]></category><category><![CDATA[ lootcrate]]></category><category><![CDATA[ mascot]]></category><category><![CDATA[ BPC]]></category><category><![CDATA[ MLP]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 26 Jul 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 65: Influencing the Back End of the Field]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/07/26/Episode-66-No-Good-Gottliebs-Premier.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/07/26/Episode-66-No-Good-Gottliebs-Premier.html</guid><category><![CDATA[tourney]]></category><category><![CDATA[lootcrate]]></category><category><![CDATA[mascot]]></category><category><![CDATA[BPC]]></category><category><![CDATA[MLP]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 26 Jul 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 65: Influencing the Back End of the Field]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>Based on some quips Don and Jeff made on their recent The Pinball Podcast, Chris and I felt we should clarify just how "influential" we really are with Farsight.</p>
@@ -4696,7 +4863,7 @@ You&#8217;ll never guess where Chris finished!</p>
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/07/20/Episode-65-Influencing-the-Back-End-of-the-Field.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/07/20/Episode-65-Influencing-the-Back-End-of-the-Field.html</guid><category><![CDATA[tourney]]></category><category><![CDATA[ lootcrate]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 20 Jul 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 64: Posterising in the H2H Lobby]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/07/20/Episode-65-Influencing-the-Back-End-of-the-Field.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/07/20/Episode-65-Influencing-the-Back-End-of-the-Field.html</guid><category><![CDATA[tourney]]></category><category><![CDATA[lootcrate]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 20 Jul 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 64: Posterising in the H2H Lobby]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>It&#8217;s all about Head to Head and Tournament action in this episode.</p>
@@ -4892,7 +5059,7 @@ We then talk more about how Head to Head should work in TPA.</p>
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/07/12/Episode-64-Posterising-in-the-H2-H-Lobby.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/07/12/Episode-64-Posterising-in-the-H2-H-Lobby.html</guid><category><![CDATA[Tourney]]></category><category><![CDATA[ H2H]]></category><category><![CDATA[ LootCrate]]></category><category><![CDATA[ NBA]]></category><category><![CDATA[ Fastbreak]]></category><category><![CDATA[ Pinball]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 12 Jul 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 63: Recommend Tables Like You Recommend Home Theatre Test Movies]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/07/12/Episode-64-Posterising-in-the-H2-H-Lobby.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/07/12/Episode-64-Posterising-in-the-H2-H-Lobby.html</guid><category><![CDATA[Tourney]]></category><category><![CDATA[H2H]]></category><category><![CDATA[LootCrate]]></category><category><![CDATA[NBA]]></category><category><![CDATA[Fastbreak]]></category><category><![CDATA[Pinball]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 12 Jul 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 63: Recommend Tables Like You Recommend Home Theatre Test Movies]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>This episode will help new folks to The Pinball Arcade pick some great tables, and avoid the terrible ones.</p>
@@ -5065,7 +5232,7 @@ We then talk more about how Head to Head should work in TPA.</p>
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/07/05/Episode-63-Recommend-Tables-Like-You-Recommend-Home-Theatre-Test-Movies.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/07/05/Episode-63-Recommend-Tables-Like-You-Recommend-Home-Theatre-Test-Movies.html</guid><category><![CDATA[Top_10]]></category><category><![CDATA[ Indy]]></category><category><![CDATA[ Big_Hurt]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 05 Jul 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 62: Console Yourself With Cheap Steam]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/07/05/Episode-63-Recommend-Tables-Like-You-Recommend-Home-Theatre-Test-Movies.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/07/05/Episode-63-Recommend-Tables-Like-You-Recommend-Home-Theatre-Test-Movies.html</guid><category><![CDATA[Top_10]]></category><category><![CDATA[Indy]]></category><category><![CDATA[Big_Hurt]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 05 Jul 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 62: Console Yourself With Cheap Steam]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>It&#8217;s a bit light on this week with pinball news.</p>
@@ -5185,7 +5352,7 @@ It&#8217;s a Blab thing&#8230;&#8203;
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/06/29/Episode-62-Console-Yourself-With-Cheap-Steam.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/06/29/Episode-62-Console-Yourself-With-Cheap-Steam.html</guid><category><![CDATA[steam]]></category><category><![CDATA[ console]]></category><category><![CDATA[ UI]]></category><category><![CDATA[ BackRoom]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 29 Jun 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 61: U and I Gotta Talk]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/06/29/Episode-62-Console-Yourself-With-Cheap-Steam.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/06/29/Episode-62-Console-Yourself-With-Cheap-Steam.html</guid><category><![CDATA[steam]]></category><category><![CDATA[console]]></category><category><![CDATA[UI]]></category><category><![CDATA[BackRoom]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 29 Jun 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 61: U and I Gotta Talk]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>In this episode, we provide commentary on what many Pinball Arcade Fans folks feel to be the premature release of the New UI on Android.</p>
@@ -5334,7 +5501,7 @@ Hit us up on any of the contact methods below and let us know your thoughts.</p>
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/06/22/Episode-61-U-and-I-Gotta-Talk.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/06/22/Episode-61-U-and-I-Gotta-Talk.html</guid><category><![CDATA[New_UI]]></category><category><![CDATA[ Oculus]]></category><category><![CDATA[ Zaccaria]]></category><category><![CDATA[ Steam]]></category><category><![CDATA[ Gear_VR]]></category><category><![CDATA[ Guests]]></category><category><![CDATA[ BackRoom]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 22 Jun 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 60: Flip 'n' Bitch]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/06/22/Episode-61-U-and-I-Gotta-Talk.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/06/22/Episode-61-U-and-I-Gotta-Talk.html</guid><category><![CDATA[New_UI]]></category><category><![CDATA[Oculus]]></category><category><![CDATA[Zaccaria]]></category><category><![CDATA[Steam]]></category><category><![CDATA[Gear_VR]]></category><category><![CDATA[Guests]]></category><category><![CDATA[BackRoom]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 22 Jun 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 60: Flip 'n' Bitch]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>In this episode, we freestyle it a bit and talk about stuff that is annoying us or otherwise needs to be fixed.</p>
@@ -5455,7 +5622,7 @@ Hit us up on any of the contact methods below and let us know your thoughts.</p>
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/06/15/Episode-60-Flip-n-Bitch.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/06/15/Episode-60-Flip-n-Bitch.html</guid><category><![CDATA[Gottlieb]]></category><category><![CDATA[ Rant]]></category><category><![CDATA[ Tuning]]></category><category><![CDATA[ New_UI]]></category><category><![CDATA[ shmup]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 15 Jun 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 59: Why Gottlieb's Aren't Chris' Favourite Manufacturer]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/06/15/Episode-60-Flip-n-Bitch.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/06/15/Episode-60-Flip-n-Bitch.html</guid><category><![CDATA[Gottlieb]]></category><category><![CDATA[Rant]]></category><category><![CDATA[Tuning]]></category><category><![CDATA[New_UI]]></category><category><![CDATA[shmup]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 15 Jun 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 59: Why Gottlieb's Aren't Chris' Favourite Manufacturer]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>In this episode, Chris justifies his position on Gottlieb Premier Tables. That&#8217;s really it.</p>
@@ -5533,7 +5700,7 @@ Hit us up on any of the contact methods below and let us know your thoughts.</p>
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/06/01/Episode-59-Why-Gottliebs-Arent-Chris-Favourite-Manufacturer.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/06/01/Episode-59-Why-Gottliebs-Arent-Chris-Favourite-Manufacturer.html</guid><category><![CDATA[Gottlieb]]></category><category><![CDATA[ Rant]]></category><category><![CDATA[ Solo]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 01 Jun 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 58: Virtual Pinball For Real, or VPCabs Interview.]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/06/01/Episode-59-Why-Gottliebs-Arent-Chris-Favourite-Manufacturer.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/06/01/Episode-59-Why-Gottliebs-Arent-Chris-Favourite-Manufacturer.html</guid><category><![CDATA[Gottlieb]]></category><category><![CDATA[Rant]]></category><category><![CDATA[Solo]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 01 Jun 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 58: Virtual Pinball For Real, or VPCabs Interview.]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>In this episode, we talk with Brad Baker from <a href="http://virtualpinball.com">VPCabs</a>.</p>
@@ -5687,7 +5854,7 @@ The journey from how VPCabs started to it&#8217;s success on Shark Tank is a gre
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/05/24/Episode-58-Virtual-Pinball-For-Real-or-V-P-Cabs-Interview.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/05/24/Episode-58-Virtual-Pinball-For-Real-or-V-P-Cabs-Interview.html</guid><category><![CDATA[VPCabs]]></category><category><![CDATA[ Shark_Tank]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 24 May 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 57: Dnyeahh I speak good, or Sharks with Flippers?]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/05/24/Episode-58-Virtual-Pinball-For-Real-or-V-P-Cabs-Interview.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/05/24/Episode-58-Virtual-Pinball-For-Real-or-V-P-Cabs-Interview.html</guid><category><![CDATA[VPCabs]]></category><category><![CDATA[Shark_Tank]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 24 May 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 57: Dnyeahh I speak good, or Sharks with Flippers?]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>In this episode, we talk about:</p>
@@ -5880,7 +6047,7 @@ The journey from how VPCabs started to it&#8217;s success on Shark Tank is a gre
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/05/17/Episode-57-Dnyeahh-I-speak-good-or-Sharks-with-Flippers.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/05/17/Episode-57-Dnyeahh-I-speak-good-or-Sharks-with-Flippers.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[ FarSight]]></category><category><![CDATA[ Zen]]></category><category><![CDATA[ Physics]]></category><category><![CDATA[ VPCabs]]></category><category><![CDATA[ PinballX]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 17 May 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 56: Stern Pinball App, or Rollercoaster Kickstarter?]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/05/17/Episode-57-Dnyeahh-I-speak-good-or-Sharks-with-Flippers.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/05/17/Episode-57-Dnyeahh-I-speak-good-or-Sharks-with-Flippers.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[FarSight]]></category><category><![CDATA[Zen]]></category><category><![CDATA[Physics]]></category><category><![CDATA[VPCabs]]></category><category><![CDATA[PinballX]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 17 May 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 56: Stern Pinball App, or Rollercoaster Kickstarter?]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>In this episode, we talk about:</p>
@@ -6046,7 +6213,7 @@ The journey from how VPCabs started to it&#8217;s success on Shark Tank is a gre
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/05/09/Episode-56-Stern-Pinball-App-or-Rollercoaster-Kickstarter.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/05/09/Episode-56-Stern-Pinball-App-or-Rollercoaster-Kickstarter.html</guid><category><![CDATA[Kickstarter]]></category><category><![CDATA[ Stern]]></category><category><![CDATA[ SPA]]></category><category><![CDATA[ Emulation]]></category><category><![CDATA[ Snacks]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 09 May 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 55: Education is Important, But Pinball is Importanter]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/05/09/Episode-56-Stern-Pinball-App-or-Rollercoaster-Kickstarter.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/05/09/Episode-56-Stern-Pinball-App-or-Rollercoaster-Kickstarter.html</guid><category><![CDATA[Kickstarter]]></category><category><![CDATA[Stern]]></category><category><![CDATA[SPA]]></category><category><![CDATA[Emulation]]></category><category><![CDATA[Snacks]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 09 May 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 55: Education is Important, But Pinball is Importanter]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>In this episode, we talk about:</p>
@@ -6168,7 +6335,7 @@ The journey from how VPCabs started to it&#8217;s success on Shark Tank is a gre
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/05/03/Episode-55-Education-is-Important-But-Pinball-is-Importanter.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/05/03/Episode-55-Education-is-Important-But-Pinball-is-Importanter.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[ TotM]]></category><category><![CDATA[ Tourney]]></category><category><![CDATA[ Aliens]]></category><category><![CDATA[ Predator]]></category><category><![CDATA[ Hankin]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 03 May 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Tantalising Dr Who:Regenerated Story Reveal for Kickstarter Backers]]></title><description><![CDATA[<div class="paragraph">
+</div>]]></description><link>http://blahcadepinball.com/2016/05/03/Episode-55-Education-is-Important-But-Pinball-is-Importanter.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/05/03/Episode-55-Education-is-Important-But-Pinball-is-Importanter.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[TotM]]></category><category><![CDATA[Tourney]]></category><category><![CDATA[Aliens]]></category><category><![CDATA[Predator]]></category><category><![CDATA[Hankin]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 03 May 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Tantalising Dr Who:Regenerated Story Reveal for Kickstarter Backers]]></title><description><![CDATA[<div class="paragraph">
 <p>In their latest <a href="https://www.kickstarter.com/projects/1067367405/pinball-arcade-doctor-who/posts/1557680">Kickstarter update</a>, FarSight Studios have revealed the basic story they want to tell with their Dr Who: Regenerated table.</p>
 </div>
 <div class="quoteblock">
@@ -6213,7 +6380,7 @@ The journey from how VPCabs started to it&#8217;s success on Shark Tank is a gre
 </div>
 <div class="paragraph">
 <p>It might be time for us to probe Mike for some questions again.</p>
-</div>]]></description><link>http://blahcadepinball.com/2016/04/26/Tantalising-Dr-Who-Regenerated-Story-Reveal-for-Kickstarter-Backers.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/04/26/Tantalising-Dr-Who-Regenerated-Story-Reveal-for-Kickstarter-Backers.html</guid><category><![CDATA[FarSight]]></category><category><![CDATA[ Dr_Who]]></category><category><![CDATA[ Kickstarter]]></category><category><![CDATA[ Articles]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 26 Apr 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 54: Blabbing into the Ether]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/04/26/Tantalising-Dr-Who-Regenerated-Story-Reveal-for-Kickstarter-Backers.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/04/26/Tantalising-Dr-Who-Regenerated-Story-Reveal-for-Kickstarter-Backers.html</guid><category><![CDATA[FarSight]]></category><category><![CDATA[Dr_Who]]></category><category><![CDATA[Kickstarter]]></category><category><![CDATA[Articles]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 26 Apr 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 54: Blabbing into the Ether]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>In this episode:</p>
@@ -6313,7 +6480,7 @@ So strap on a pair (of headphones) and prepare your ears for a bumper BlahCade.<
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/04/26/Episode-54-Blabbing-into-the-Ether.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/04/26/Episode-54-Blabbing-into-the-Ether.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ Tourney]]></category><category><![CDATA[ Aliens]]></category><category><![CDATA[ Predator]]></category><category><![CDATA[ BrisPinClub]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 26 Apr 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Zen Studios Drops a Teaser Trailer For Alien: Isolation]]></title><description><![CDATA[<div class="paragraph">
+</div>]]></description><link>http://blahcadepinball.com/2016/04/26/Episode-54-Blabbing-into-the-Ether.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/04/26/Episode-54-Blabbing-into-the-Ether.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[TotW]]></category><category><![CDATA[Tourney]]></category><category><![CDATA[Aliens]]></category><category><![CDATA[Predator]]></category><category><![CDATA[BrisPinClub]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 26 Apr 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Zen Studios Drops a Teaser Trailer For Alien: Isolation]]></title><description><![CDATA[<div class="paragraph">
 <p>As the date for <em>Alien Day</em> on the 26th April fast approaches, Zen Studios drops a pretty shiny looking teaser video for their <em>Alien: Isolation</em> pinball table.</p>
 </div>
 <div class="videoblock">
@@ -6331,7 +6498,7 @@ Reminds us of the Cactus Canyon drops.</p>
 </div>
 <div class="paragraph">
 <p>Can&#8217;t wait to get flipping this collection.</p>
-</div>]]></description><link>http://blahcadepinball.com/2016/04/20/Zen-Studios-Drops-a-Teaser-Trailer-For-Alien-Isolation.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/04/20/Zen-Studios-Drops-a-Teaser-Trailer-For-Alien-Isolation.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[ Aliens]]></category><category><![CDATA[ Blog]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 20 Apr 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 53: Drop a Rotary In It]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/04/20/Zen-Studios-Drops-a-Teaser-Trailer-For-Alien-Isolation.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/04/20/Zen-Studios-Drops-a-Teaser-Trailer-For-Alien-Isolation.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[Aliens]]></category><category><![CDATA[Blog]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 20 Apr 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 53: Drop a Rotary In It]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>We cover pinball:</p>
@@ -6456,7 +6623,7 @@ Well, not really. We&#8217;re <strong>never</strong> lost for words here at the 
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/04/15/Episode-53-Drop-a-Rotary-In-It.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/04/15/Episode-53-Drop-a-Rotary-In-It.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[ VR]]></category><category><![CDATA[ Oculus]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ Tech]]></category><category><![CDATA[ Shirts]]></category><category><![CDATA[ PC]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Fri, 15 Apr 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 52: Zen Studios Easter Mic Drop]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/04/15/Episode-53-Drop-a-Rotary-In-It.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/04/15/Episode-53-Drop-a-Rotary-In-It.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[VR]]></category><category><![CDATA[Oculus]]></category><category><![CDATA[TotW]]></category><category><![CDATA[Tech]]></category><category><![CDATA[Shirts]]></category><category><![CDATA[PC]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Fri, 15 Apr 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 52: Zen Studios Easter Mic Drop]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>Zen Studios comes out swinging over the Easter BlahCade Hiatus with a huge announcement!
@@ -6612,7 +6779,7 @@ Rest assured we&#8217;ll cover it here if they do.</p>
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/04/05/Episode-52-Zen-Studios-Easter-Mic-Drop.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/04/05/Episode-52-Zen-Studios-Easter-Mic-Drop.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[ Aliens]]></category><category><![CDATA[ Predator]]></category><category><![CDATA[ VR]]></category><category><![CDATA[ Oculus]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ Tech]]></category><category><![CDATA[ Shirts]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 05 Apr 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 51: It's 10 Inches Man: It Fits Through the Hole]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/04/05/Episode-52-Zen-Studios-Easter-Mic-Drop.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/04/05/Episode-52-Zen-Studios-Easter-Mic-Drop.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[Aliens]]></category><category><![CDATA[Predator]]></category><category><![CDATA[VR]]></category><category><![CDATA[Oculus]]></category><category><![CDATA[TotW]]></category><category><![CDATA[Tech]]></category><category><![CDATA[Shirts]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 05 Apr 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 51: It's 10 Inches Man: It Fits Through the Hole]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>Slurpees, early solid state flipper tech tips, Ghostbusters Pro, Rescue 911 thoughts, and other topics abound in this mixed bag episode.</p>
@@ -6755,7 +6922,7 @@ Rest assured we&#8217;ll cover it here if they do.</p>
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/03/23/Episode-51-Its-10-Inches-Man-It-Fits-Through-the-Hole.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/03/23/Episode-51-Its-10-Inches-Man-It-Fits-Through-the-Hole.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ Ghostbusters]]></category><category><![CDATA[ Rescue_911]]></category><category><![CDATA[ Tech]]></category><category><![CDATA[ Shirts]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 23 Mar 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 50: Is Virtual Reality the Pinnacle of Pinball?]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/03/23/Episode-51-Its-10-Inches-Man-It-Fits-Through-the-Hole.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/03/23/Episode-51-Its-10-Inches-Man-It-Fits-Through-the-Hole.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[TotW]]></category><category><![CDATA[Ghostbusters]]></category><category><![CDATA[Rescue_911]]></category><category><![CDATA[Tech]]></category><category><![CDATA[Shirts]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 23 Mar 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 50: Is Virtual Reality the Pinnacle of Pinball?]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="admonitionblock warning">
 <table>
@@ -6904,7 +7071,7 @@ Mild coarse language in this episode.
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/03/16/Episode-50-Is-Virtual-Reality-the-Pinnacle-of-Pinball.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/03/16/Episode-50-Is-Virtual-Reality-the-Pinnacle-of-Pinball.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ Oculus]]></category><category><![CDATA[ Zen]]></category><category><![CDATA[ Ghostbusters]]></category><category><![CDATA[ 7-11]]></category><category><![CDATA[ Rollercoaster]]></category><category><![CDATA[ VR]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 16 Mar 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 49: Double the Bart]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/03/16/Episode-50-Is-Virtual-Reality-the-Pinnacle-of-Pinball.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/03/16/Episode-50-Is-Virtual-Reality-the-Pinnacle-of-Pinball.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[TotW]]></category><category><![CDATA[Oculus]]></category><category><![CDATA[Zen]]></category><category><![CDATA[Ghostbusters]]></category><category><![CDATA[7-11]]></category><category><![CDATA[Rollercoaster]]></category><category><![CDATA[VR]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 16 Mar 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 49: Double the Bart]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>It&#8217;s about Pro Mode discoveries, Dr Who: Regenerated, table tear-downs, and some off-topic chat about Tomb Raider and why video games don&#8217;t translate well to the silver screen.</p>
@@ -7048,7 +7215,7 @@ Mild coarse language in this episode.
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/03/09/Episode-49-Double-the-Bart.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/03/09/Episode-49-Double-the-Bart.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ Cactus]]></category><category><![CDATA[ Pro]]></category><category><![CDATA[ Health]]></category><category><![CDATA[ Dr]]></category><category><![CDATA[ Who]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 09 Mar 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 48: Jarful, Meaty, Prickly, Pinball Discussion]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/03/09/Episode-49-Double-the-Bart.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/03/09/Episode-49-Double-the-Bart.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[TotW]]></category><category><![CDATA[Cactus]]></category><category><![CDATA[Pro]]></category><category><![CDATA[Health]]></category><category><![CDATA[Dr]]></category><category><![CDATA[Who]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 09 Mar 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 48: Jarful, Meaty, Prickly, Pinball Discussion]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>Because life happens, we are running a bit behind schedule.
@@ -7169,7 +7336,7 @@ Digest it now by downloading it from the links below.</p>
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/03/03/Episode-48-Jarful-Meaty-Prickly-Pinball-Discussion.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/03/03/Episode-48-Jarful-Meaty-Prickly-Pinball-Discussion.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ Snacks]]></category><category><![CDATA[ Bacon]]></category><category><![CDATA[ Cactus]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Thu, 03 Mar 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 47: Tourney and Three Dee Backroom]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/03/03/Episode-48-Jarful-Meaty-Prickly-Pinball-Discussion.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/03/03/Episode-48-Jarful-Meaty-Prickly-Pinball-Discussion.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[TotW]]></category><category><![CDATA[Snacks]]></category><category><![CDATA[Bacon]]></category><category><![CDATA[Cactus]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Thu, 03 Mar 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 47: Tourney and Three Dee Backroom]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>It&#8217;s BackRoom time!
@@ -7278,7 +7445,7 @@ Jared talks about his time in the Australian Pinball Championships (that he inco
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/02/17/Episode-47-Tourney-and-Three-Dee-Backroom.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/02/17/Episode-47-Tourney-and-Three-Dee-Backroom.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[ 3D]]></category><category><![CDATA[ pinball]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 17 Feb 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 46: Kickstart my Heart]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/02/17/Episode-47-Tourney-and-Three-Dee-Backroom.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/02/17/Episode-47-Tourney-and-Three-Dee-Backroom.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[3D]]></category><category><![CDATA[pinball]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 17 Feb 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 46: Kickstart my Heart]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>It&#8217;s all about crowd funding in this BlahCade.</p>
@@ -7391,7 +7558,7 @@ We also touch on TPA mobile graphical improvements planned.</p>
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/02/15/Episode-46-Kickstart-my-Heart.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/02/15/Episode-46-Kickstart-my-Heart.html</guid><category><![CDATA[Kickstarter]]></category><category><![CDATA[ Dr Who]]></category><category><![CDATA[ Zaccaria]]></category><category><![CDATA[ Magic]]></category><category><![CDATA[ Pixel]]></category><category><![CDATA[ TotW]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 15 Feb 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 45: Timey Wimey Farsight Chat]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/02/15/Episode-46-Kickstart-my-Heart.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/02/15/Episode-46-Kickstart-my-Heart.html</guid><category><![CDATA[Kickstarter]]></category><category><![CDATA[Dr Who]]></category><category><![CDATA[Zaccaria]]></category><category><![CDATA[Magic]]></category><category><![CDATA[Pixel]]></category><category><![CDATA[TotW]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 15 Feb 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 45: Timey Wimey Farsight Chat]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>We are joined this week by Mike from FarSight Studios, in the closing days of the Kickstarter.
@@ -7578,7 +7745,7 @@ Don&#8217;t let this one fester in your podcatcher. Listen now!</p>
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/02/09/Episode-45-Timey-Wimey-Farsight-Chat.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/02/09/Episode-45-Timey-Wimey-Farsight-Chat.html</guid><category><![CDATA[Kickstarter]]></category><category><![CDATA[ Dr]]></category><category><![CDATA[ Who]]></category><category><![CDATA[ BBC]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ Events]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 09 Feb 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 44: Timings on the Mind (TotM)]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/02/09/Episode-45-Timey-Wimey-Farsight-Chat.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/02/09/Episode-45-Timey-Wimey-Farsight-Chat.html</guid><category><![CDATA[Kickstarter]]></category><category><![CDATA[Dr]]></category><category><![CDATA[Who]]></category><category><![CDATA[BBC]]></category><category><![CDATA[TotW]]></category><category><![CDATA[Events]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 09 Feb 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 44: Timings on the Mind (TotM)]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>With the BlahCade Tournament of the Month season drawing to a close, it&#8217;s time to put our minds to work on getting a new season started up.
@@ -7697,7 +7864,7 @@ But we need your help.</p>
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/02/01/Episode-44-Timings-on-the-Mind-Tot-M.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/02/01/Episode-44-Timings-on-the-Mind-Tot-M.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[ Pinball]]></category><category><![CDATA[ TPA]]></category><category><![CDATA[ Controller]]></category><category><![CDATA[ Pro]]></category><category><![CDATA[ Pinball]]></category><category><![CDATA[ EMs]]></category><category><![CDATA[ TotM]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 01 Feb 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 43: What a Mother Bucker]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/02/01/Episode-44-Timings-on-the-Mind-Tot-M.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/02/01/Episode-44-Timings-on-the-Mind-Tot-M.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[Pinball]]></category><category><![CDATA[TPA]]></category><category><![CDATA[Controller]]></category><category><![CDATA[Pro]]></category><category><![CDATA[Pinball]]></category><category><![CDATA[EMs]]></category><category><![CDATA[TotM]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 01 Feb 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 43: What a Mother Bucker]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>Here is a rather pinbally BackRoom.</p>
@@ -7808,7 +7975,7 @@ So keep thinking of ideas, and keep on being passionate.</p>
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/01/27/Episode-43-What-a-Mother-Bucker.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/01/27/Episode-43-What-a-Mother-Bucker.html</guid><category><![CDATA[Kickstarter]]></category><category><![CDATA[ Forum]]></category><category><![CDATA[ Dr]]></category><category><![CDATA[ Who]]></category><category><![CDATA[ Zen]]></category><category><![CDATA[ BackRoom]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 27 Jan 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 42: Zen Star Wars Tables]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/01/27/Episode-43-What-a-Mother-Bucker.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/01/27/Episode-43-What-a-Mother-Bucker.html</guid><category><![CDATA[Kickstarter]]></category><category><![CDATA[Forum]]></category><category><![CDATA[Dr]]></category><category><![CDATA[Who]]></category><category><![CDATA[Zen]]></category><category><![CDATA[BackRoom]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 27 Jan 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 42: Zen Star Wars Tables]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>There is so much content in this BlahCade that we made the call to split some of it off into a BackRoom episode while recording it.
@@ -8005,7 +8172,7 @@ If it doesn&#8217;t, then you should expect this episode to contain a motherlode
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/01/25/Episode-42-Zen-Star-Wars-Tables.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/01/25/Episode-42-Zen-Star-Wars-Tables.html</guid><category><![CDATA[Kickstarter]]></category><category><![CDATA[ Forum]]></category><category><![CDATA[ Dr]]></category><category><![CDATA[ Who]]></category><category><![CDATA[ Zen]]></category><category><![CDATA[ Star]]></category><category><![CDATA[ Wars]]></category><category><![CDATA[ Magic]]></category><category><![CDATA[ Pixel]]></category><category><![CDATA[ ASK]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 25 Jan 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 41: Musical Eff Chimes, or Arcade Expo 2016]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/01/25/Episode-42-Zen-Star-Wars-Tables.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/01/25/Episode-42-Zen-Star-Wars-Tables.html</guid><category><![CDATA[Kickstarter]]></category><category><![CDATA[Forum]]></category><category><![CDATA[Dr]]></category><category><![CDATA[Who]]></category><category><![CDATA[Zen]]></category><category><![CDATA[Star]]></category><category><![CDATA[Wars]]></category><category><![CDATA[Magic]]></category><category><![CDATA[Pixel]]></category><category><![CDATA[ASK]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 25 Jan 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 41: Musical Eff Chimes, or Arcade Expo 2016]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>See what happens when we have three weeks off? You get a motherlode of pinball talk!
@@ -8118,7 +8285,7 @@ We&#8217;re just super excited to be back again talking pinball and stuff.</p>
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/01/18/Episode-41-Musical-Eff-Chimes-or-Arcade-Expo-2016.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/01/18/Episode-41-Musical-Eff-Chimes-or-Arcade-Expo-2016.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[ Events]]></category><category><![CDATA[ Stern]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 18 Jan 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 40: Christmas Break Summary]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/01/18/Episode-41-Musical-Eff-Chimes-or-Arcade-Expo-2016.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/01/18/Episode-41-Musical-Eff-Chimes-or-Arcade-Expo-2016.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[Events]]></category><category><![CDATA[Stern]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 18 Jan 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 40: Christmas Break Summary]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>Because we went long last episode (surprise surprise), here is a little bit extra about what we got up to over the Christmas break and how we celebrated.</p>
@@ -8162,7 +8329,7 @@ We&#8217;re just super excited to be back again talking pinball and stuff.</p>
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/01/16/Episode-40-Christmas-Break-Summary.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/01/16/Episode-40-Christmas-Break-Summary.html</guid><category><![CDATA[BackRoom]]></category><category><![CDATA[ Christmas]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Sat, 16 Jan 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 39: T-Shirts, Tough Times, and Tie-ins]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/01/16/Episode-40-Christmas-Break-Summary.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/01/16/Episode-40-Christmas-Break-Summary.html</guid><category><![CDATA[BackRoom]]></category><category><![CDATA[Christmas]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Sat, 16 Jan 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 39: T-Shirts, Tough Times, and Tie-ins]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>See what happens when we have three weeks off?
@@ -8276,7 +8443,7 @@ We&#8217;re just super excited to be back again talking pinball and stuff.</p>
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/01/11/Episode-39-T-Shirts-Tough-Times-and-Tie-ins.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/01/11/Episode-39-T-Shirts-Tough-Times-and-Tie-ins.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[ Events]]></category><category><![CDATA[ Stern]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 11 Jan 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 38: Festivus Frivoloty]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/01/11/Episode-39-T-Shirts-Tough-Times-and-Tie-ins.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/01/11/Episode-39-T-Shirts-Tough-Times-and-Tie-ins.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[Events]]></category><category><![CDATA[Stern]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 11 Jan 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 38: Festivus Frivoloty]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>Closing out the year, the last official BlahCade of 2015 is here.</p>
@@ -8371,7 +8538,7 @@ We&#8217;re just super excited to be back again talking pinball and stuff.</p>
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2016/01/11/Episode-38-Festivus-Frivoloty.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/01/11/Episode-38-Festivus-Frivoloty.html</guid><category><![CDATA[EM]]></category><category><![CDATA[ Events]]></category><category><![CDATA[ Stern]]></category><category><![CDATA[ Music]]></category><category><![CDATA[ Pro]]></category><category><![CDATA[ Pinball]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 11 Jan 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 37: Now with More Chaps and Rage]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2016/01/11/Episode-38-Festivus-Frivoloty.html</link><guid isPermaLink="true">http://blahcadepinball.com/2016/01/11/Episode-38-Festivus-Frivoloty.html</guid><category><![CDATA[EM]]></category><category><![CDATA[Events]]></category><category><![CDATA[Stern]]></category><category><![CDATA[Music]]></category><category><![CDATA[Pro]]></category><category><![CDATA[Pinball]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 11 Jan 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 37: Now with More Chaps and Rage]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>It&#8217;s a pre-christmas romp in the land of small wheels.
@@ -8453,7 +8620,7 @@ If you are a parent, you&#8217;ll love this segment. And if you&#8217;re not, yo
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2015/12/16/Episode-37-Now-with-More-Chaps-and-Rage.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/12/16/Episode-37-Now-with-More-Chaps-and-Rage.html</guid><category><![CDATA[Pageant]]></category><category><![CDATA[ Heighway]]></category><category><![CDATA[ Pinball]]></category><category><![CDATA[ Film]]></category><category><![CDATA[ Safe]]></category><category><![CDATA[ Cracker]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 16 Dec 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 36: Metadata Mike from Farsight]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2015/12/16/Episode-37-Now-with-More-Chaps-and-Rage.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/12/16/Episode-37-Now-with-More-Chaps-and-Rage.html</guid><category><![CDATA[Pageant]]></category><category><![CDATA[Heighway]]></category><category><![CDATA[Pinball]]></category><category><![CDATA[Film]]></category><category><![CDATA[Safe]]></category><category><![CDATA[Cracker]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 16 Dec 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 36: Metadata Mike from Farsight]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>With No Fear going out the door, we wanted to get FarSight back on to talk with us about all things Digital Pinball.</p>
@@ -8552,7 +8719,7 @@ What was most interesting was to hear about what Mike actually does as Community
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2015/12/07/Episode-36-Metadata-Mike-from-Farsight.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/12/07/Episode-36-Metadata-Mike-from-Farsight.html</guid><category><![CDATA[Mike]]></category><category><![CDATA[ Reitmeyer]]></category><category><![CDATA[ FarSight]]></category><category><![CDATA[ Interview]]></category><category><![CDATA[ UI]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 07 Dec 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 35: Dressed to a Tee]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2015/12/07/Episode-36-Metadata-Mike-from-Farsight.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/12/07/Episode-36-Metadata-Mike-from-Farsight.html</guid><category><![CDATA[Mike]]></category><category><![CDATA[Reitmeyer]]></category><category><![CDATA[FarSight]]></category><category><![CDATA[Interview]]></category><category><![CDATA[UI]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 07 Dec 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 35: Dressed to a Tee]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>Before we say anything else, we now have an official BlahCade Shirt!
@@ -8660,7 +8827,7 @@ Visit the link to get one.</p>
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2015/11/30/Episode-35-Dressed-to-a-Tee.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/11/30/Episode-35-Dressed-to-a-Tee.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[ No]]></category><category><![CDATA[ Fear]]></category><category><![CDATA[ TotW]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 30 Nov 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 34: Zen Interview Retrospective]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2015/11/30/Episode-35-Dressed-to-a-Tee.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/11/30/Episode-35-Dressed-to-a-Tee.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[No]]></category><category><![CDATA[Fear]]></category><category><![CDATA[TotW]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 30 Nov 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 34: Zen Interview Retrospective]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>We ease into this week’s BlahCade gently with some random talk.
@@ -8763,7 +8930,7 @@ Then it’s right into the Meat ‘n’ Three Veg of the Zen Interview retrospec
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2015/11/26/Episode-34-Zen-Interview-Retrospective.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/11/26/Episode-34-Zen-Interview-Retrospective.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[ Interview]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ TotM]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Thu, 26 Nov 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 33: Zen, and the Art of Digital Pinball]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2015/11/26/Episode-34-Zen-Interview-Retrospective.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/11/26/Episode-34-Zen-Interview-Retrospective.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[Interview]]></category><category><![CDATA[TotW]]></category><category><![CDATA[TotM]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Thu, 26 Nov 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 33: Zen, and the Art of Digital Pinball]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>We ease into this week’s BlahCade gently with some random talk.
@@ -8935,7 +9102,7 @@ Then it’s right into the Meat ‘n’ Three Veg of the Zen Interview retrospec
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2015/11/16/Episode-33-Zen-and-the-Art-of-Digital-Pinball.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/11/16/Episode-33-Zen-and-the-Art-of-Digital-Pinball.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[ Interview]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 16 Nov 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 32: BlahCade BackRoom #2]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2015/11/16/Episode-33-Zen-and-the-Art-of-Digital-Pinball.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/11/16/Episode-33-Zen-and-the-Art-of-Digital-Pinball.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[Interview]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 16 Nov 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 32: BlahCade BackRoom #2]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>Before we get stuck into another interview (stay tuned later in the week), we bring you some extra content that happened after the TPA UI interview.</p>
@@ -8969,7 +9136,7 @@ Then it’s right into the Meat ‘n’ Three Veg of the Zen Interview retrospec
 <p>None available.</p>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2015/11/16/Episode-32-Blah-Cade-Back-Room-2.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/11/16/Episode-32-Blah-Cade-Back-Room-2.html</guid><category><![CDATA[BackRoom]]></category><category><![CDATA[ Pinball]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 16 Nov 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 31: U Interested in a New UI?]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2015/11/16/Episode-32-Blah-Cade-Back-Room-2.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/11/16/Episode-32-Blah-Cade-Back-Room-2.html</guid><category><![CDATA[BackRoom]]></category><category><![CDATA[Pinball]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 16 Nov 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 31: U Interested in a New UI?]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>Just like a breath of fresh air, we’re back with another interview.
@@ -9023,7 +9190,7 @@ Yep, you don’t have to listen to us blab on about stuff (as much) this episode
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2015/11/11/Episode-31-U-Interested-in-a-New-U-I.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/11/11/Episode-31-U-Interested-in-a-New-U-I.html</guid><category><![CDATA[UI]]></category><category><![CDATA[ Wizard]]></category><category><![CDATA[ Amusements]]></category><category><![CDATA[ FarSight]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 11 Nov 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 30: 38 Weeks Old. Next week: Brains]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2015/11/11/Episode-31-U-Interested-in-a-New-U-I.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/11/11/Episode-31-U-Interested-in-a-New-U-I.html</guid><category><![CDATA[UI]]></category><category><![CDATA[Wizard]]></category><category><![CDATA[Amusements]]></category><category><![CDATA[FarSight]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 11 Nov 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 30: 38 Weeks Old. Next week: Brains]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>It has been thirty-eight weeks since Chris kicked off this little thing called Table of the Month (TotM)!</p>
@@ -9106,7 +9273,7 @@ Yep, you don’t have to listen to us blab on about stuff (as much) this episode
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2015/11/11/Episode-30-38-Weeks-Old-Next-week-Brains.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/11/11/Episode-30-38-Weeks-Old-Next-week-Brains.html</guid><category><![CDATA[UI]]></category><category><![CDATA[ Mac]]></category><category><![CDATA[ TotM]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ Beta]]></category><category><![CDATA[ PC]]></category><category><![CDATA[ Zen]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 11 Nov 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 29: BlahCade BackRoom]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2015/11/11/Episode-30-38-Weeks-Old-Next-week-Brains.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/11/11/Episode-30-38-Weeks-Old-Next-week-Brains.html</guid><category><![CDATA[UI]]></category><category><![CDATA[Mac]]></category><category><![CDATA[TotM]]></category><category><![CDATA[TotW]]></category><category><![CDATA[Beta]]></category><category><![CDATA[PC]]></category><category><![CDATA[Zen]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 11 Nov 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 29: BlahCade BackRoom]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>It has been thirty-eight weeks since Chris kicked off this little thing called Table of the Month (TotM)!</p>
@@ -9189,7 +9356,7 @@ Yep, you don’t have to listen to us blab on about stuff (as much) this episode
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2015/11/01/Episode-29-Blah-Cade-Back-Room.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/11/01/Episode-29-Blah-Cade-Back-Room.html</guid><category><![CDATA[UI]]></category><category><![CDATA[ Leaks]]></category><category><![CDATA[ Seasons]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Sun, 01 Nov 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 28: If It Walks Like A Duck, It's Pinball]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2015/11/01/Episode-29-Blah-Cade-Back-Room.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/11/01/Episode-29-Blah-Cade-Back-Room.html</guid><category><![CDATA[UI]]></category><category><![CDATA[Leaks]]></category><category><![CDATA[Seasons]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Sun, 01 Nov 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 28: If It Walks Like A Duck, It's Pinball]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>It has been thirty-eight weeks since Chris kicked off this little thing called Table of the Month (TotM)!</p>
@@ -9236,7 +9403,7 @@ Tangental Zen Discussion - 38:00
 Outro and Sponsors - 45:00</p>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2015/10/27/Episode-28-If-It-Walks-Like-A-Duck-Its-Pinball.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/10/27/Episode-28-If-It-Walks-Like-A-Duck-Its-Pinball.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ Scared]]></category><category><![CDATA[ Stiff]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 27 Oct 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 27: Ten Seconds or Less and No Farts]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2015/10/27/Episode-28-If-It-Walks-Like-A-Duck-Its-Pinball.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/10/27/Episode-28-If-It-Walks-Like-A-Duck-Its-Pinball.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[TotW]]></category><category><![CDATA[Scared]]></category><category><![CDATA[Stiff]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 27 Oct 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 27: Ten Seconds or Less and No Farts]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>It’s a full compliment of ‘caders today with Chris, Jared and Kay.
@@ -9310,7 +9477,7 @@ No longer than ten seconds.</p>
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2015/10/20/Episode-27-Ten-Seconds-or-Less-and-No-Farts.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/10/20/Episode-27-Ten-Seconds-or-Less-and-No-Farts.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ Frankenstein]]></category><category><![CDATA[ Stings]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 20 Oct 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 26: Teeny Tiny Isn't Always a Bad Thing]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2015/10/20/Episode-27-Ten-Seconds-or-Less-and-No-Farts.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/10/20/Episode-27-Ten-Seconds-or-Less-and-No-Farts.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[TotW]]></category><category><![CDATA[Frankenstein]]></category><category><![CDATA[Stings]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 20 Oct 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 26: Teeny Tiny Isn't Always a Bad Thing]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>We’re testing out <a href="http://Blab.im" class="bare">http://Blab.im</a> and think the results speak for themselves audio-wise.</p>
@@ -9387,7 +9554,7 @@ No longer than ten seconds.</p>
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2015/10/13/Episode-26-Teeny-Tiny-Isnt-Always-a-Bad-Thing.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/10/13/Episode-26-Teeny-Tiny-Isnt-Always-a-Bad-Thing.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ Samson]]></category><category><![CDATA[ PotO]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 13 Oct 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 25: Small Wheel (No Jackpots Lit)]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2015/10/13/Episode-26-Teeny-Tiny-Isnt-Always-a-Bad-Thing.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/10/13/Episode-26-Teeny-Tiny-Isnt-Always-a-Bad-Thing.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[TotW]]></category><category><![CDATA[Samson]]></category><category><![CDATA[PotO]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 13 Oct 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 25: Small Wheel (No Jackpots Lit)]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>It’s time for another weekly installment of madness and pinball.
@@ -9459,7 +9626,7 @@ This week we introduce the focus for this week’s installment (yes, there is a 
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2015/10/07/Episode-25-Small-Wheel-No-Jackpots-Lit.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/10/07/Episode-25-Small-Wheel-No-Jackpots-Lit.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ TotM]]></category><category><![CDATA[ Small_Wheel]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 07 Oct 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 24: Stern Pinball App Wild Speculation]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2015/10/07/Episode-25-Small-Wheel-No-Jackpots-Lit.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/10/07/Episode-25-Small-Wheel-No-Jackpots-Lit.html</guid><category><![CDATA[Zen]]></category><category><![CDATA[TotW]]></category><category><![CDATA[TotM]]></category><category><![CDATA[Small_Wheel]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 07 Oct 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 24: Stern Pinball App Wild Speculation]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>Join hosts Chris, Jared and Kay Pfitzner, as they briefly discuss the results of September’s Tournament of the Month (TotM).</p>
@@ -9521,7 +9688,7 @@ This week we introduce the focus for this week’s installment (yes, there is a 
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2015/09/29/Episode-24-Stern-Pinball-App-Wild-Speculation.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/09/29/Episode-24-Stern-Pinball-App-Wild-Speculation.html</guid><category><![CDATA[Stern]]></category><category><![CDATA[ Pinball]]></category><category><![CDATA[ App]]></category><category><![CDATA[ TotM]]></category><category><![CDATA[ TotW]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 29 Sep 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 23: Tech Talk (Troubles) and Tourney Tongue Twisters]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2015/09/29/Episode-24-Stern-Pinball-App-Wild-Speculation.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/09/29/Episode-24-Stern-Pinball-App-Wild-Speculation.html</guid><category><![CDATA[Stern]]></category><category><![CDATA[Pinball]]></category><category><![CDATA[App]]></category><category><![CDATA[TotM]]></category><category><![CDATA[TotW]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 29 Sep 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 23: Tech Talk (Troubles) and Tourney Tongue Twisters]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>Has it been a month already?
@@ -9588,7 +9755,7 @@ Pesky Wi-Fi.</p>
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2015/09/21/Episode-23-Tech-Talk-Troubles-and-Tourney-Tongue-Twisters.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/09/21/Episode-23-Tech-Talk-Troubles-and-Tourney-Tongue-Twisters.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ TV]]></category><category><![CDATA[ Hints]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 21 Sep 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 22: Feelin' Good]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2015/09/21/Episode-23-Tech-Talk-Troubles-and-Tourney-Tongue-Twisters.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/09/21/Episode-23-Tech-Talk-Troubles-and-Tourney-Tongue-Twisters.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[TotW]]></category><category><![CDATA[TV]]></category><category><![CDATA[Hints]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 21 Sep 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 22: Feelin' Good]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>If we use the analogy of a caterpillar turning into a butterfly, BlahCade is just starting to break out of the chrysalis.
@@ -9649,7 +9816,7 @@ Chris talks about how messed up the theme is on this game, and the exorcist-like
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2015/09/14/Episode-22-Feelin-Good.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/09/14/Episode-22-Feelin-Good.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[ TotW]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 14 Sep 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 21: Forum Questions (Part 2)]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2015/09/14/Episode-22-Feelin-Good.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/09/14/Episode-22-Feelin-Good.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[TotW]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 14 Sep 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 21: Forum Questions (Part 2)]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>With thanks to our sponsors, Wizard Amusements, we&#8217;re back again with the 21st installment of the BlahCade.
@@ -9693,7 +9860,7 @@ Bloom County is back - 62:00
 Outro - 66:00</p>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2015/09/01/Episode-21-Forum-Questions-Part-2.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/09/01/Episode-21-Forum-Questions-Part-2.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ Interview]]></category><category><![CDATA[ Bobby]]></category><category><![CDATA[ King]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 01 Sep 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 20: Forum Questions (Part 1)]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2015/09/01/Episode-21-Forum-Questions-Part-2.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/09/01/Episode-21-Forum-Questions-Part-2.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[TotW]]></category><category><![CDATA[Interview]]></category><category><![CDATA[Bobby]]></category><category><![CDATA[King]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 01 Sep 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 20: Forum Questions (Part 1)]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>Fresh from the grave yard shift, BlahCade returns with a slighty larger cast: Chris, Jared, and Kay (Bonzo).</p>
@@ -9798,7 +9965,7 @@ Outro - 66:00</p>
 </ul>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2015/09/01/Episode-20-Forum-Questions-Part-1.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/09/01/Episode-20-Forum-Questions-Part-1.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[ TotW]]></category><category><![CDATA[ Interview]]></category><category><![CDATA[ Bobby]]></category><category><![CDATA[ King]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 01 Sep 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 19: Pitch Slapped]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2015/09/01/Episode-20-Forum-Questions-Part-1.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/09/01/Episode-20-Forum-Questions-Part-1.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[TotW]]></category><category><![CDATA[Interview]]></category><category><![CDATA[Bobby]]></category><category><![CDATA[King]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 01 Sep 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 19: Pitch Slapped]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>Like Magic, a new BlahCade podcast is available. Words are spoken, stories are told.</p>
@@ -9832,7 +9999,7 @@ Outro - 66:00</p>
 <p>Not available.</p>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2015/06/16/Episode-19-Pitch-Slapped.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/06/16/Episode-19-Pitch-Slapped.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[ Modding]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 16 Jun 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 18: Two and Done]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2015/06/16/Episode-19-Pitch-Slapped.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/06/16/Episode-19-Pitch-Slapped.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[Modding]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 16 Jun 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 18: Two and Done]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>Come and listen to the latest BlahCade podcast, Two and Done.</p>
@@ -9872,7 +10039,7 @@ Outro - 66:00</p>
 <p>Not available.</p>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2015/05/22/Episode-18-Two-and-Done.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/05/22/Episode-18-Two-and-Done.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[ Tech_Talk]]></category><category><![CDATA[ DX11]]></category><category><![CDATA[ Movies]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Fri, 22 May 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 17: Big Nuts]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2015/05/22/Episode-18-Two-and-Done.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/05/22/Episode-18-Two-and-Done.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[Tech_Talk]]></category><category><![CDATA[DX11]]></category><category><![CDATA[Movies]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Fri, 22 May 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 17: Big Nuts]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>New BlahCade is up and it is quite the show! It&#8217;s called Big Nuts for reasons purely pinball related, we swear.</p>
@@ -9928,7 +10095,7 @@ This is last time a LitZ was ever heard in BlahCade.
 <p>Not available.</p>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2015/04/20/Episode-17-Big-Nuts.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/04/20/Episode-17-Big-Nuts.html</guid><category><![CDATA[Final]]></category><category><![CDATA[ LitZ]]></category><category><![CDATA[ TotM]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 20 Apr 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 16: Drunken Farmer]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2015/04/20/Episode-17-Big-Nuts.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/04/20/Episode-17-Big-Nuts.html</guid><category><![CDATA[Final]]></category><category><![CDATA[LitZ]]></category><category><![CDATA[TotM]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 20 Apr 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 16: Drunken Farmer]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>The BlahCade returns with its 16th podcast, Drunken Farmer!</p>
@@ -9965,7 +10132,7 @@ This is last time a LitZ was ever heard in BlahCade.
 <p>Not available.</p>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2015/03/24/Episode-16-Drunken-Farmer.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/03/24/Episode-16-Drunken-Farmer.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[ LitZ]]></category><category><![CDATA[ TAF]]></category><category><![CDATA[ TPA_User_Guide]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 24 Mar 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 15: Facts are Hard]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2015/03/24/Episode-16-Drunken-Farmer.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/03/24/Episode-16-Drunken-Farmer.html</guid><category><![CDATA[TotM]]></category><category><![CDATA[LitZ]]></category><category><![CDATA[TAF]]></category><category><![CDATA[TPA_User_Guide]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Tue, 24 Mar 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 15: Facts are Hard]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>And just like that, we are back on schedule with a new BlahCade Podcast!
@@ -10016,7 +10183,7 @@ Think of it as our Valentine to you.</p>
 <p>Not available.</p>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2015/02/13/Episode-15-Facts-are-Hard.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/02/13/Episode-15-Facts-are-Hard.html</guid><category><![CDATA[Pinball]]></category><category><![CDATA[ Expo]]></category><category><![CDATA[ Events]]></category><category><![CDATA[ Cirqus]]></category><category><![CDATA[ LitZ]]></category><category><![CDATA[ TotM]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Fri, 13 Feb 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 14: Continbute]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2015/02/13/Episode-15-Facts-are-Hard.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/02/13/Episode-15-Facts-are-Hard.html</guid><category><![CDATA[Pinball]]></category><category><![CDATA[Expo]]></category><category><![CDATA[Events]]></category><category><![CDATA[Cirqus]]></category><category><![CDATA[LitZ]]></category><category><![CDATA[TotM]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Fri, 13 Feb 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 14: Continbute]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>It&#8217;s a new year, and a new BlahCade podcast! We do a very free-form pod, because holidays.</p>
@@ -10056,7 +10223,7 @@ Think of it as our Valentine to you.</p>
 <p>Not available.</p>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2015/01/21/Episode-14-Continbute.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/01/21/Episode-14-Continbute.html</guid><category><![CDATA[DX11]]></category><category><![CDATA[ Movies]]></category><category><![CDATA[ Misc]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 21 Jan 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 13: The Anniversary]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2015/01/21/Episode-14-Continbute.html</link><guid isPermaLink="true">http://blahcadepinball.com/2015/01/21/Episode-14-Continbute.html</guid><category><![CDATA[DX11]]></category><category><![CDATA[Movies]]></category><category><![CDATA[Misc]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Wed, 21 Jan 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 13: The Anniversary]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>It&#8217;s the long-awaited one-year anniversary episode!</p>
@@ -10093,7 +10260,7 @@ Think of it as our Valentine to you.</p>
 <p>Not available.</p>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2014/11/24/Episode-13-The-Anniversary.html</link><guid isPermaLink="true">http://blahcadepinball.com/2014/11/24/Episode-13-The-Anniversary.html</guid><category><![CDATA[LitZ]]></category><category><![CDATA[ Misc]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 24 Nov 2014 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 12: The Extraordinarily Awkward Pause]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2014/11/24/Episode-13-The-Anniversary.html</link><guid isPermaLink="true">http://blahcadepinball.com/2014/11/24/Episode-13-The-Anniversary.html</guid><category><![CDATA[LitZ]]></category><category><![CDATA[Misc]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Mon, 24 Nov 2014 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 12: The Extraordinarily Awkward Pause]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>It&#8217;s the penultimate episode before our one-year anniversary!</p>
@@ -10133,7 +10300,7 @@ Think of it as our Valentine to you.</p>
 <p>Not available.</p>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2014/10/03/Episode-12-The-Extraordinarily-Awkward-Pause.html</link><guid isPermaLink="true">http://blahcadepinball.com/2014/10/03/Episode-12-The-Extraordinarily-Awkward-Pause.html</guid><category><![CDATA[Redbox]]></category><category><![CDATA[ Interview]]></category><category><![CDATA[ Retrospective]]></category><category><![CDATA[ LitZ]]></category><category><![CDATA[ BSD]]></category><category><![CDATA[ Awards]]></category><category><![CDATA[ Context]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Fri, 03 Oct 2014 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 11: Bobby King Interview]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2014/10/03/Episode-12-The-Extraordinarily-Awkward-Pause.html</link><guid isPermaLink="true">http://blahcadepinball.com/2014/10/03/Episode-12-The-Extraordinarily-Awkward-Pause.html</guid><category><![CDATA[Redbox]]></category><category><![CDATA[Interview]]></category><category><![CDATA[Retrospective]]></category><category><![CDATA[LitZ]]></category><category><![CDATA[BSD]]></category><category><![CDATA[Awards]]></category><category><![CDATA[Context]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Fri, 03 Oct 2014 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 11: Bobby King Interview]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>A special episode featuring an interview with Bobby King from Farsight Studios about the upcoming Kickstarter for The Addams Family pinball.</p>
@@ -10164,7 +10331,7 @@ Think of it as our Valentine to you.</p>
 <p>Not available.</p>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2014/09/11/Episode-11-Bobby-King-Interview.html</link><guid isPermaLink="true">http://blahcadepinball.com/2014/09/11/Episode-11-Bobby-King-Interview.html</guid><category><![CDATA[Bobby]]></category><category><![CDATA[ King]]></category><category><![CDATA[ Interview]]></category><category><![CDATA[ Addams]]></category><category><![CDATA[ Family]]></category><category><![CDATA[ TAF]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Thu, 11 Sep 2014 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 10: Pinball Galore]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://blahcadepinball.com/2014/09/11/Episode-11-Bobby-King-Interview.html</link><guid isPermaLink="true">http://blahcadepinball.com/2014/09/11/Episode-11-Bobby-King-Interview.html</guid><category><![CDATA[Bobby]]></category><category><![CDATA[King]]></category><category><![CDATA[Interview]]></category><category><![CDATA[Addams]]></category><category><![CDATA[Family]]></category><category><![CDATA[TAF]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Thu, 11 Sep 2014 00:00:00 GMT</pubDate></item><item><title><![CDATA[Episode 10: Pinball Galore]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>This month we:</p>
@@ -10211,4 +10378,4 @@ Think of it as our Valentine to you.</p>
 <p>Not available.</p>
 </div>
 </div>
-</div>]]></description><link>http://blahcadepinball.com/2014/08/14/Episode-10-Pinball-Galore.html</link><guid isPermaLink="true">http://blahcadepinball.com/2014/08/14/Episode-10-Pinball-Galore.html</guid><category><![CDATA[Stern]]></category><category><![CDATA[ Jersey_Jack]]></category><category><![CDATA[ Twitter]]></category><category><![CDATA[ Big]]></category><category><![CDATA[ Lebowski]]></category><category><![CDATA[ Android]]></category><category><![CDATA[ Movies]]></category><category><![CDATA[ 3D]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Thu, 14 Aug 2014 00:00:00 GMT</pubDate></item></channel></rss>
+</div>]]></description><link>http://blahcadepinball.com/2014/08/14/Episode-10-Pinball-Galore.html</link><guid isPermaLink="true">http://blahcadepinball.com/2014/08/14/Episode-10-Pinball-Galore.html</guid><category><![CDATA[Stern]]></category><category><![CDATA[Jersey_Jack]]></category><category><![CDATA[Twitter]]></category><category><![CDATA[Big]]></category><category><![CDATA[Lebowski]]></category><category><![CDATA[Android]]></category><category><![CDATA[Movies]]></category><category><![CDATA[3D]]></category><dc:creator><![CDATA[BlahCade Podcast]]></dc:creator><pubDate>Thu, 14 Aug 2014 00:00:00 GMT</pubDate></item></channel></rss>

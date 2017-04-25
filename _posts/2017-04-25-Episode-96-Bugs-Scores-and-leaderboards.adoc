@@ -1,5 +1,5 @@
 = Episode 96: Bugs, Scores and leaderboards
-:hp-tags: farsight, ebd, leaderboards,
+:hp-tags: farsight, ebd, leaderboards, zaccaria
 :hp-image: logo.png
 
 We start the show by swapping tourney stories, including a bit of bush field repair on a Twilight Zone by Jared.

@@ -1,0 +1,63 @@
+= Episode 96: Bugs, Scores and leaderboards
+:hp-tags: farsight, ebd, leaderboards,
+:hp-image: logo.png
+
+We start the show by swapping tourney stories, including a bit of bush field repair on a Twilight Zone by Jared.
+Then we lead into a big chat about FarSight's "Month of Bugfixes" and revisit the Leaderboard reset we talked about in the last episode.
+A Chris' Adventures in Pinball Ownership update follows with a somewhat daunting foray into the idea of clear-coating.
+Finally we talk about what we have planned for our 100th episode, including another Magic Pixel (ASK Homework) AMA.
+Look for the survey link in the show timings, but be quick with asking your questions.
+
+
+http://shoutengine.com/BlahCadePodcast/bugs-scores-and-leaderboards-35226[image:http://media.cdn.shoutengine.com/static/img/layout/shoutengine-app-icon.png[ShoutEngine,110,110]]
+
+++++
+<a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2" style="display:inline-block;overflow:hidden;background:url(//linkmaker.itunes.apple.com/assets/shared/badges/en-us/podcast-lrg.svg) no-repeat;width:110px;height:40px;background-size:contain;"></a>
+++++
+
+== Support the Show
+
+You can purchase a https://represent.com/blahcade-shirt[BlahCade T-shirt on represent.com] or https://paypal.me/blahcade[support us with a PayPal Donation].
+
+Funds help us keep the show running and our hosting providers paid.
+Thanks for your help.
+
+== Timings
+
+* Introduction - 0:30
+* Theme Parks Chat - 1:38
+* Brisbane Pinball Club at Netherworld - 12:14
+* Twilight Zone field repairs - 18:52
+* Chris' tourney with GB LE, Dark Knight and Spooky Pins - 20:26
+* FarSight's Month of Bugfixes - 26:24
+** Genie - 27:12
+** Cirqus Voltaire - 27:58
+** Creature From the Black Lagoon - 31:42
+** Ramp physics vs table physics (vacuum ramps) - 37:44
+** MM's reverse right ramp ball path - 39:10
+** Mobile is lagging behind - 40:16
+* Leaderboard Talk
+** Clearing the leaderboards follow-up - 42:02
+** Riskiest assumption test on leaderboard reset - 44:56
+* EBD Update - 46:20
+* Clear coating
+** How do you clear-coat? - 47:50
+** Lock in the playfield history - 53:00
+** Redo the Firepower Art - 54:28
+* EBD Mylar
+** EBD mylar cracked, not playfield - 56:28
+** Restoring cloudy mylar with Treasure Cove - 57:48
+* Mylaring modern Sterns (Hi Ed) - 58:58
+* EBD Owners Club on https://pinside.com/pinball/forum/topic/eight-ball-deluxe-owner-club-guests-welcome-as-well[Pinside] - 60:00
+* 100th Podcast Plans - 62:00
+* Zaccaria AMA Survey https://goo.gl/forms/ywjEX7G4EKjJgYjb2[last days] - 62:26
+* Open invitation to attend live recording - 63:00
+* Please review our podcast on Apple Podcasts - 65:00
+* Outtro - 66:00
+
+== Social Links
+
+* https://www.arcooda.com/our-machines/arcooda-video-pinball/[Arcooda Video Pinball]
+* http://www.netherworldarcade.com/[Netherworld Arcade in Brisbane]
+* https://twitter.com/blahcade[@BlahCade on Twitter]
+* Email us at blahblahblahcade@gmail.com

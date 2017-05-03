@@ -1,0 +1,54 @@
+= Episode 97: Implausibility Goggles to Max
+:hp-tags: farsight, ebd, leaderboards,
+:hp-image: logo.png
+
+As we work towards our 100th episode, we break the episode into real pinball, and digital pinball.
+Chris decided to rip the guts out of his Firepower and make the first baby steps to clear-coating.
+
+Then we talk about the FarSight Month of BugFixes changelog (it's frickin huuuuuge).
+It's the last days to get your final answers in for the ASK Homework AMA.
+
+== Download and Listen
+
+http://shoutengine.com/BlahCadePodcast/[image:http://media.cdn.shoutengine.com/static/img/layout/shoutengine-app-icon.png[ShoutEngine,110,110]]
+
+++++
+<a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2" style="display:inline-block;overflow:hidden;background:url(//linkmaker.itunes.apple.com/assets/shared/badges/en-us/podcast-lrg.svg) no-repeat;width:110px;height:40px;background-size:contain;"></a>
+++++
+
+== Support the Show
+
+You can purchase a https://represent.com/blahcade-shirt[BlahCade T-shirt on represent.com] or https://paypal.me/blahcade[support us with a PayPal Donation].
+
+Funds help us keep the show running and our hosting providers paid.
+Thanks for your help.
+
+== Timings
+
+* Introduction - 0:30
+* Movie Science and Technology Bollocks - 2:10
+* Real Pinball Talk
+** Breaking the Illusion: EBD IRL vs EBD TPA - 9:55
+** Inline Flippers vs Crank and Pawl Flippers - 16:05
+** Nick from Planet 9 Pinball - 17:10
+** And to _cap_ off those soundboard issues... - 18:15
+** Firepower Depopulation - 24:45
+* Digital Pinball Talk
+** FarSight Newsletter Musings - 31:10
+** Head To Head Beta http://pinballarcadefans.com/content.php/523-Head-to-head-beta-testing-today[forum link] - 33:04
+** Month of Bug Fixes - 36:00
+** Bug Fix Minutia http://pinballarcade.com/eblast/bug_fix_april_2017.html[release notes link] - 38:00
+** Subscribe to the TPA Newsletter - 39:36
+** ASK Homework AMA last days (hours) https://goo.gl/forms/ywjEX7G4EKjJgYjb2[link] - 40:60
+* 100th Episode Invite - 41:30
+* Jared makes excuses for lack of pinball ownership, and Chris rubs it in - 43:00
+* Outtro - 50:00
+* Bonus: Mason Friebus on https://www.youtube.com/channel/UCK6hdGMy-sUlZrB8GwhmMgw[YouTube] - 51:00
+
+== Social Links
+
+* https://www.arcooda.com/our-machines/arcooda-video-pinball/[Arcooda Video Pinball]
+* http://www.netherworldarcade.com/[Netherworld Arcade in Brisbane]
+* https://twitter.com/blahcade[@BlahCade on Twitter]
+* Email us at blahblahblahcade@gmail.com
+

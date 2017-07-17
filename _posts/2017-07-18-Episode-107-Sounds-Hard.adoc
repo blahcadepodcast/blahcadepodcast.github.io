@@ -1,0 +1,43 @@
+= Episode 107: Sounds Hard
+:hp-tags: farsight, zen, PFX3, Black Knight, Firepower 2,
+:hp-image: logo.png
+
+We dive into the newly released beta on Android for Black Knight (emulated!) and Firepower 2.
+There's a few tweety clues floating around about potential upcoming digital releases from Stern, and Zen for Android.
+There's also some insight into how much effort is put into capturing the sounds from the Pinbal Arcade tables: a true labour of love.
+
+== Download and Listen
+
+http://shoutengine.com/BlahCadePodcast/sounds-hard-39143[image:http://media.cdn.shoutengine.com/static/img/layout/shoutengine-app-icon.png[ShoutEngine,110,110]]
+
+++++
+<a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2" style="display:inline-block;overflow:hidden;background:url(//linkmaker.itunes.apple.com/assets/shared/badges/en-us/podcast-lrg.svg) no-repeat;width:110px;height:40px;background-size:contain;"></a>
+++++
+
+== Support the Show
+
+You can purchase a https://represent.com/blahcade-shirt[BlahCade T-shirt on represent.com] or https://paypal.me/blahcade[support us with a PayPal Donation].
+
+Funds help us keep the show running and our hosting providers paid.
+Thanks for your help.
+
+== Timings
+
+* 01:05 - Thoughts about Portland
+* 06:10 - Ground Control Arcade Tables
+* 13:55 - SPA Ghostbusters tweet from Stern Pinball
+* 18:50 - Black Knight (emulated) and Firepower 2
+* 23:16 - Bonus count sound recording on BK and FP2
+* 26:30 - Untouched playfield before art pass
+* 29:30 - Farsight On Location
+* 32:22 - ReplayFX AMA with Norman
+* 35:46 - Zen FX3 on Android
+
+== Social Links
+
+* https://twitter.com/blahcade[@BlahCade on Twitter]
+* https://twitter.com/jaredmorgs[@jaredmorgs on Twitter]
+* https://twitter.com/shutyertraps[@shutyertraps on Twitter]
+* https://www.arcooda.com/our-machines/arcooda-video-pinball/[Arcooda Video Pinball]
+* http://www.netherworldarcade.com/[Netherworld Arcade in Brisbane]
+* Email us at blahblahblahcade@gmail.com

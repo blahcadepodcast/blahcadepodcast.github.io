@@ -1,0 +1,53 @@
+= Episode 108: Portland Pinball Places
+:hp-tags: farsight, portland, pinball, star wars, firepower 2, 
+:hp-image: logo.png
+
+This episode is basically one big Portland Pinball trip report. 
+And there's nothing wrong with that because Portland has probably the best pinball scene in the US.
+Chris talks about two venues where he spend a lot of time, but not a lot of quarters. 
+We also touch on the Firepower 2 release and the newsletter clue, which brings up an interesting art modification question that we also explore.
+
+
+== Download and Listen
+
+http://shoutengine.com/BlahCadePodcast/portland-pinball-places-40046[image:http://media.cdn.shoutengine.com/static/img/layout/shoutengine-app-icon.png[ShoutEngine,110,110]]
+
+++++
+<a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2" style="display:inline-block;overflow:hidden;background:url(//linkmaker.itunes.apple.com/assets/shared/badges/en-us/podcast-lrg.svg) no-repeat;width:110px;height:40px;background-size:contain;"></a>
+++++
+
+== Support the Show
+
+You can purchase a https://represent.com/blahcade-shirt[BlahCade T-shirt on represent.com] or https://paypal.me/blahcade[support us with a PayPal Donation].
+
+Funds help us keep the show running and our hosting providers paid.
+Thanks for your help.
+
+== Timings
+
+* 01:15 - Why the week break?
+* 01:40 - Portland Pinball Scene
+* 02:00 - Ground Control Pins
+* 09:30 - Headphones and Pinball
+* 12:45 - Quarter World Pins
+* 28:00 - System 11s with LEDs
+* 32:35 - Quarter World vs Ground Control
+* 37:40 - Netherworld Stern Star Wars
+* 40:30 - Firepower 2 on Pinball Arcade
+* 43:45 - Black Knight emulated
+* 46:50 - Newsletter clue? WCS 94??? 0_0
+* 51:00 - Epic clue troll, or for really reals WCS 94
+* 51:55 - How much art "festering" is acceptable in TPA Tables?
+* 60:50 - Spitballing: How would you add ball spin to the soccer ball?
+* 63:10 - Bump back lanes in Centaur IRL
+* 64:05 - Ball through the flippers IRL :P
+
+
+== Social Links
+
+* https://twitter.com/blahcade[@BlahCade on Twitter]
+* https://twitter.com/jaredmorgs[@jaredmorgs on Twitter]
+* https://twitter.com/shutyertraps[@shutyertraps on Twitter]
+* https://www.arcooda.com/our-machines/arcooda-video-pinball/[Arcooda Video Pinball]
+* http://www.netherworldarcade.com/[Netherworld Arcade in Brisbane]
+* Email us at blahblahblahcade@gmail.com

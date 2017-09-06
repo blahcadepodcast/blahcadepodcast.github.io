@@ -1,0 +1,47 @@
+= Episode 111: Allegedly...
+:hp-tags: zen, FX3, Trudeau, stats, Universal,
+:hp-image: logo.png
+
+We dive into the cool new stuff in Pinball FX3 this week, including some screenshots and gameplay videos from the internets.
+There's also some commentary about the alleged unsavoury arrest surrounding John Trudeau.
+Jared also gets updating a whole pile of pinball location listings on PinSide's Pin Map, and talks about that experience.
+There will be a gap in programming for a few weeks while Chris is back on location, look out for a new episode towards the end of the month.
+
+
+== Download and Listen
+
+http://shoutengine.com/BlahCadePodcast/allegedly-42440[image:http://media.cdn.shoutengine.com/static/img/layout/shoutengine-app-icon.png[ShoutEngine,110,110]]
+
+++++
+<a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2" style="display:inline-block;overflow:hidden;background:url(//linkmaker.itunes.apple.com/assets/shared/badges/en-us/podcast-lrg.svg) no-repeat;width:110px;height:40px;background-size:contain;"></a>
+++++
+
+== Support the Show
+
+You can purchase a https://represent.com/blahcade-shirt[BlahCade T-shirt on represent.com] or https://paypal.me/blahcade[support us with a PayPal Donation].
+
+Funds help us keep the show running and our hosting providers paid.
+Thanks for your help.
+
+== Timings
+
+* 01:05 - Podcast Hiatus
+* 02:35 - Pinball FX3 Review http://www.gameinformer.com/b/features/archive/2017/08/08/hands-on-with-pinball-fx-3-s-universal-classics-pack.aspx[Gameinformer Screenshots]
+* 05:05 - Zen Studios and Licensing
+* 06:25 - Hit and miss on voices for Zen Universal pack
+* 07:50 - Physics interaction with table environment
+* 10:30 - https://www.youtube.com/watch?v=6nlVPg7UKlY[YouTube Early Access Game Preview]
+* 12:05 - New FX3 UI and Game Features
+* 22:10 - Statistics and eSports in ZPFX3
+* 23:20 - Super League Football is cut from ZPFX3
+* 25:20 - John Trudeau Arrested: The Community Fallout
+* 33:00 - South East Queensland Pin Map Updated https://pinside.com/pinball/map/where-to-play
+
+== Social Links
+
+* https://twitter.com/blahcade[@BlahCade on Twitter]
+* https://twitter.com/jaredmorgs[@jaredmorgs on Twitter]
+* https://twitter.com/shutyertraps[@shutyertraps on Twitter]
+* https://www.arcooda.com/our-machines/arcooda-video-pinball/[Arcooda Video Pinball]
+* http://www.netherworldarcade.com/[Netherworld Arcade in Brisbane]
+* Email us at blahblahblahcade@gmail.com

@@ -1,0 +1,46 @@
+= Episode 112: Billionaire's Rave
+:hp-tags: 
+:hp-image: logo.png
+
+Pinball FX3 (and FX2) get some coverage in this short episode.
+We also talk about the lighting pass on Bride of Pinbot that is in the works. Get ready for the light-show!
+
+== Download and Listen
+
+http://shoutengine.com/BlahCadePodcast/billionaires-rave-42970[image:http://media.cdn.shoutengine.com/static/img/layout/shoutengine-app-icon.png[ShoutEngine,110,110]]
+
+++++
+<a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2" style="display:inline-block;overflow:hidden;background:url(//linkmaker.itunes.apple.com/assets/shared/badges/en-us/podcast-lrg.svg) no-repeat;width:110px;height:40px;background-size:contain;"></a>
+++++
+
+== Support the Show
+
+You can purchase a https://represent.com/blahcade-shirt[BlahCade T-shirt on represent.com] or https://paypal.me/blahcade[support us with a PayPal Donation].
+
+Funds help us keep the show running and our hosting providers paid.
+Thanks for your help.
+
+== Timings
+
+* 00:50 - Batteries and autos
+* 05:18 - Insulin pumps are awesome!
+* 06:30 - Pinball FX3 release date
+* 07:10 - Revisiting FX2 tables
+* 12:02 - Confirming eSports strategy for FX3
+* 12:54 - Stern Ghostbusters on XBone and PS4
+* 14:42 - Android may struggle with Ghostbusters
+* 15:56 - Bride of Pinbot lighting pass
+* 18:40 - Reduce flipper strength on BoP?
+* 20:25 - Ozark
+* 24:35 - GoT Directorship
+* 27:45 - Game Boy nostalgia
+* 30:30 - Hurricane (for real)
+
+== Social Links
+
+* https://twitter.com/blahcade[@BlahCade on Twitter]
+* https://twitter.com/jaredmorgs[@jaredmorgs on Twitter]
+* https://twitter.com/shutyertraps[@shutyertraps on Twitter]
+* https://www.arcooda.com/our-machines/arcooda-video-pinball/[Arcooda Video Pinball]
+* http://www.netherworldarcade.com/[Netherworld Arcade in Brisbane]
+* Email us at blahblahblahcade@gmail.com

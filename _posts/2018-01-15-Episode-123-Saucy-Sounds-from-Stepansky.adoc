@@ -1,0 +1,58 @@
+= Episode 123: Saucy Sounds from Stepansky
+:hp-tags: interviews, norman,
+:hp-image: logo.png
+
+We kick off the new year and our first episode back in 2018 in all the right ways with an interview with Norman Stepansky from Farsight Studios.
+There's a pile of great information in this interview, so get listening.
+We're working on a new website that will make it much easier to find interviews like this, so keep your senses peeled in the next few weeks for more details.
+
+* 01:25 - Big Bear Pinball League
+* 04:10 - How are the tables set up?
+* 06:15 - Quarter World Roving Tech
+* 07:30 - How many tables are actually playable at Farsight?
+* 09:00 - How are the newer sterns holding up at Farsight?
+* 10:20 - How do Stern code updates flow through to Stern Pinball Arcade?
+* 12:00 - Stern Pinball Nintendo Switch
+* 13:50 - Table Flyer on table loading screens
+* 14:40 - Portrait Mode on Switch is imminent
+* 16:00 - Regular TPA on Switch?
+* 17:15 - Sorcerer Table Conversion (courtesy of Banning Pinball Museum)
+* 18:35 - Space Shuttle to get the Sorcerer sounds
+* 19:25 - Ace High and Jive Time
+* 22:05 - Big Shot still in the Top 10!
+* 24:35 - INDISC at Banning PM has 550 pinball machines!
+* 25:55 - What excites Norman in pinball today
+* 31:20 - Pro vs Premium from Norman's perspective
+* 33:25 - Not everything is sinister in Pinball (and game) Dev
+* 36:25 - When is Farsight's pinball business going to end?
+* 38:55 - Is JJP a possibility in TPA in the near future?
+* 40:40 - Norman looks back over the change logs (closes out the show)
+* 41:10 - Lighting changes on Big Shout
+* 42:00 - 30 DX11'd tables to updates
+* 43:09 - Goin' Nuts is easier to restart multiball
+* 46:55 - Site maintenance and changes
+
+== Support the Show
+
+You can purchase a https://represent.com/blahcade-shirt[BlahCade T-shirt on represent.com] or https://paypal.me/blahcade[support us with a PayPal Donation].
+
+Profits from your purchase or donation help us keep the show running and our hosting providers paid.
+Thanks for your help.
+
+== Download and Listen
+
+http://shoutengine.com/BlahCadePodcast/saucy-sounds-from-stepansky-49608[image:http://media.cdn.shoutengine.com/static/img/layout/shoutengine-app-icon.png[ShoutEngine,110,110]]
+
+++++
+<a href="https://itunes.apple.com/us/podcast/blahcade-podcast/id1039748922?mt=2" style="display:inline-block;overflow:hidden;background:url(//linkmaker.itunes.apple.com/assets/shared/badges/en-us/podcast-lrg.svg) no-repeat;width:110px;height:40px;background-size:contain;"></a>
+++++
+
+== Social Links
+
+* https://twitter.com/blahcade[@BlahCade on Twitter]
+* https://twitter.com/jaredmorgs[@jaredmorgs on Twitter]
+* https://twitter.com/shutyertraps[@shutyertraps on Twitter]
+* https://www.arcooda.com/our-machines/arcooda-video-pinball/[Arcooda Video Pinball]
+* http://www.netherworldarcade.com/[Netherworld Arcade in Brisbane]
+* Email us at blahblahblahcade@gmail.com
+
